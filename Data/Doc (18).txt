@@ -1,0 +1,762 @@
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Received Maret 12, 2023; Revised April 25, 2023; Accepted Mei 16, 2023
+* Khoirunnisa Ghefira Yusrani, 2010713005@mahasiswa.upnvj.ac.id
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju
+Pencapaian Sustainable Development Goals dan Universal
+Health Coverage
+Khoirunnisa Ghefira Yusrani
+Kesehatan Masyarakat, UPN “Veteran” Jakarta
+Nurul Aini
+Kesehatan Masyarakat, UPN “Veteran” Jakarta
+Shifa Aulia Maghfiroh
+Kesehatan Masyarakat, UPN “Veteran” Jakarta
+Novita Dwi Istanti
+Kesehatan Masyarakat, UPN “Veteran” Jakarta
+Fakultas Ilmu Kesehatan, Kesehatan Masyarakat, Universitas Pembangunan Nasional
+“Veteran” Jakarta, Jl. Raya Limo Kecamatan Limo Kota Depok 16515
+Korespondensi penulis: 2010713005@mahasiswa.upnvj.ac.id
+Abstract. Mental health is a harmony in life that is created between the functions of the
+soul and the ability to overcome problems. Mental health policies are still limited and not
+yet integrated. Indonesia is also committed to achieving SDGs and UHC. The purpose of
+this research is to review mental health policies in Indonesia and evaluate the extent to
+which these policies support the achievement of the SDGs and UHC. This study uses a
+literature study to examine different methods. The article search strategy uses an online
+database, namely Google Scholar and this research uses a literature review methodology.
+There is a need for comprehensive mental health services to be made part of the SDGs
+and UHC. The government continues to pursue various mental health policies in order to
+reduce the prevalence of mental disorders in Indonesia. However, several mental health
+programs that have been prepared still have deficiencies in the implementation process.
+The lack of availability of psychotropic drugs at the puskesmas and the existence of a
+report format that is not yet uniform and the presence of mental health recording and
+reporting officers are obstacles in the practice of mental health policy in Indonesia.
+Therefore, sufficient quality data is needed to formulate effective policies so that efforts
+to deal with mental health at the primary and secondary health service levels are far more
+optimal. So that continuous improvement can be carried out to reduce the prevalence of
+mental disorders in Indonesia.
+Keywords: Mental Health, Sustainable Development Goals, Universal Health Coverage
+Abstrak. Kesehatan mental merupakan harmonisasi dalam kehidupan yang tercipta
+antara fungsi jiwa dengan kemampuan mengatasi problematika. Kebijakan kesehatan
+mental masih terbatas dan belum terintegrasi. Indonesia juga berkomitmen untuk
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+90 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+mencapai SDGs dan UHC. Tujuan dari penelitian ini adalah untuk meninjau kebijakan
+kesehatan mental di Indonesia dan mengevaluasi sejauh mana kebijakan ini mendukung
+pencapaian SDGs dan UHC. Penelitian ini menggunakan studi literatur untuk meneliti
+metode yang berbeda. Strategi pencarian artikel menggunakan data online yaitu Google
+Scholar dan penelitian ini menggunakan metodologi literature review. Adanya kebutuhan
+akan pelayanan kesehatan mental yang komprehensif untuk dijadikan sebagai bagian dari
+SDGs dan UHC. Pemerintah terus mengupayakan berbagai kebijakan kesehatan mental
+agar dapat mengurangi prevalensi gangguan mental di Indonesia. Akan tetapi, beberapa
+program kesehatan mental yang disusun masih memiliki kekurangan dalam proses
+pelaksanaannya. Kurangnya ketersediaan obat psikotropik di puskesmas dan adanya
+format laporan yang belum seragam dan adanya petugas pencatatan dan pelaporan
+kesehatan jiwa menjadi kendala dalam praktik kebijakan kesehatan mental di Indonesia.
+Oleh karena itu, dibutuhkan kecukupan data yang berkualitas untuk merumuskan
+kebijakan yang efektif agar upaya penanganan kesehatan jiwa di tingkat pelayanan
+kesehatan primer dan sekunder jauh lebih optimal. Sehingga perbaikan terus-menerus
+dapat dijalankan untuk mengurangi prevalensi gangguan mental di Indonesia.
+Kata kunci: Kesehatan Mental, Sustainable Development Goals, Universal Health
+Coverage
+LATAR BELAKANG
+Kesehatan mental mengacu pada kesehatan keseluruhan aspek dalam
+perkembangan seseorang, baik fisik maupun psikis. Setiap individu memiliki perbedaan
+kesehatan mental dan mengalami dinamisasi dalam perkembangannya. Karena pada
+hakikatnya manusia selalu dihadapkan pada keadaan yang dimana ia harus memiliki
+alternatif pemecahan masalah yang sedang dihadapinya (Fakhriyani,2019). Kesehatan
+mental atau kesehatan jiwa menjadi aspek penting dalam mewujudkan kesehatan secara
+menyeluruh.
+Kesehatan mental merupakan harmonisasi dalam kehidupan yang tercipta antara
+fungsi-fungsi jiwa, kemampuan mengatasi problematika yang sedang dihadapi, serta
+mampu merasakan arti kebahagiaan dan kemampuan dirinya secara positif (Daradjat,
+1988). Menurut Daradjat, kesehatan mental menjadi penanda bahwa individu tersebut
+terhindar dari gejala-gejala gangguan jiwa (neurose) dan dari gejala penyakit jiwa
+(psychose). World Health Organization (WHO) mendefinisikan kesehatan mental sebagai
+kondisi kesejahteraan individu yang menyadari potensi yang dimiliki oleh diri sendiri,
+dapat mengatasi tekanan kehidupan dengan normal, dapat bekerja secara produktif, dan
+mampu memberikan kontribusi kepada komunitasnya. WHO menetapkan faktor-faktor
+yang menjadi determinan kesehatan mental, yaitu: kemiskinan, gender, usia, konflik,
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+bencana, penyakit berat, keluarga dan lingkungan sosial (WHO, 2001). Berbagai faktor
+determinan tersebut dapat menimbulkan gangguan kejiwaan pada seseorang. Dengan
+demikian, kesehatan mental tidak dapat diremehkan karena memiliki dampak yang
+sangat besar dalam kehidupan serta memiliki prevalensi kasus yang masih
+mengkhawatirkan.
+Berdasarkan data WHO (World Health Organization) tahun 2019, prevalensi
+global gangguan mental adalah 264 juta orang menderita depresi, 45 juta orang menderita
+gangguan bipolar, 50 juta orang menderita demensia, 20 juta orang menderita skizofrenia.
+Meskipun prevalensi skizofrenia relatif lebih rendah daripada jenis gangguan mental
+lainnya, menurut National Institute of Mental Health (NIMH), skizofrenia adalah salah
+satu dari 15 penyebab utama kecacatan di seluruh dunia dan cenderung berisiko bunuh
+diri. WHO menekankan bahwa gangguan jiwa adalah masalah global dan jika tidak
+ditangani, prevalensinya akan meningkat setiap tahun.
+Riset Kesehatan Dasar (Riskesdas) yang dilakukan Kementerian Kesehatan pada
+tahun 2018 menunjukkan bahwa prevalensi rumah tangga dengan anggota yang
+menderita skizofrenia meningkat dari 1,7 menjadi 7 pada tahun 2018. Gangguan
+emosional pada penduduk di bawah usia 15 tahun juga meningkat dari 6,1% atau sekitar
+12 juta jiwa berdasarkan data Riskesdas tahun 2013 menjadi 9,8% atau sekitar 20 juta
+jiwa. Dalam beberapa tahun terakhir, proporsi orang dengan penyakit mental telah
+meningkat.
+Diketahui dari Guru Besar ilmu Kesehatan Masyarakat Universitas Indonesia,
+Ascobat Gani kerugian ekonomi minimal akibat masalah kesehatan mental berdasarkan
+Riskesdas 2007 adalah sebesar Rp 20 triliun. Jumlah pasien Jamkesmas rawat inap
+terbanyak di rumah sakit (RS) Kelas A pada 2010 lalu adalah Hebephrenic Schizophrenia
+(1.924 orang), Paranoid Schizophrenia (1.612 orang), Undifferentiated Schizophrenia
+(443 orang), Schizophrenia Unspecified (400 orang) dan Other Schizophrenia (399
+orang). Jumlah itu belum termasuk pasien rawat jalan. Dari total populasi risiko 1,093,150
+hanya 3.5 persen atau 38,260 yang baru terlayani di rumah sakit jiwa, rumah sakit umum,
+atau pusat kesehatan masyarakat dengan fasilitas memadai (Putri, et.al, 2015).
+Berdasarkan hasil riset Kemenkes RI, diketahui beberapa jenis permasalahan
+gangguan mental yang umum terjadi di Indonesia beserta prevalensinya lebih lanjut,
+yaitu: gangguan kecemasan, dengan prevalensi sekitar 5,7%; depresi, dengan prevalensi
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+92 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+sekitar 3,7%; skizofrenia, dengan prevalensi sekitar 1%; gangguan bipolar, dengan
+prevalensi sekitar 0,7-1,5%; dan gangguan obsesif-kompulsif, dengan prevalensi sekitar
+2,5-3%.
+Dalam mengatasi gangguan mental di Indonesia, pemerintah lebih fokus pada
+upaya promotif dan preventif. Berdasarkan pernyataan dari Direktur Jenderal Kesehatan
+Masyarakat, Kementerian Kesehatan Maria Endang Sumiwi, program kesehatan jiwa di
+Indonesia saat ini bertransisi dari kuratif dan rehabilitatif menjadi promotif preventif.
+Program kesehatan jiwa rancangan kemenkes ini lebih mengarah pada mempromosikan
+kesehatan jiwa, meningkatkan deteksi dini dan pencegahan, serta manajemen kasus yang
+lebih baik di tingkat pelayanan primer. Pemerintah juga mengupayakan program
+imunisasi jiwa yang dikembangkan oleh Direktorat P2MKJN (Fidiansyah, 2019). Selain
+itu, dalam memudahkan akses pelayanan kesehatan digital, Kementerian Kesehatan
+mengembangkan aplikasi sehat jiwa (Anwar, 2015).
+Direktur Pencegahan dan Pengendalian Masalah Kesehatan Jiwa dan Napza Dr.
+Celestinus Eigya Munthe menjelaskan masalah kesehatan mental di Indonesia masih
+terbatas dan belum terintegrasi dengan program kesehatan secara keseluruhan. Hal ini
+dikarenakan belum semua provinsi di Indonesia memiliki rumah sakit jiwa sehingga tidak
+semua orang dengan masalah gangguan jiwa mendapatkan pengobatan yang seharusnya.
+Terbatasnya sarana prasarana dan kurangnya sumber daya manusia profesional untuk
+tenaga kesehatan jiwa juga turut mendorong masalah kesehatan mental di Indonesia.
+Indonesia telah berkomitmen untuk mencapai tujuan Pembangunan Berkelanjutan
+(Sustainable Development Goals/SDGs) dan Universal Health Coverage (UHC). Oleh
+karena itu, penelitian ini bertujuan untuk melakukan tinjauan kebijakan kesehatan mental
+di Indonesia dan mengevaluasi sejauh mana kebijakan ini mendukung pencapaian SDGs
+dan UHC.
+METODE PENELITIAN
+ Metode yang digunakan dalam penelitian ini adalah literature review dengan
+mengumpulkan beberapa penelitian berbentuk artikel yang valid dan lengkap Kebijakan
+Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable Development Goals dan
+Universal Health Coverage. Setelah sumber artikel terkumpul, peneliti mengkaji ulang
+sumber artikel yang sudah diterbitkan untuk menghasilkan sebuah analisis baru dan valid.
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Sumber artikel dari penelitian ini diperoleh dari pencarian berbasis data menggunakan
+Google Scholar. Peneliti menerapkan strategi penelitian tersebut dengan menggunakan
+beberapa kata kunci meliputi: kesehatan mental, Sustainable Development Goals, dan
+Universal Health Coverage. Kriteria inklusi pada penelitian ini adalah artikel yang
+membahas terkait kebijakan kesehatan mental di Indonesia demi menuju pencapaian
+pembangunan berkelanjutan. Kriteria eksklusi dari penelitian ini antara lain artikel yang
+tidak lengkap, artikel tidak menggunakan Bahasa Indonesia, artikel yang diterbitkan
+dalam kurun waktu lebih dari 5 tahun, dan artikel yang tidak sesuai dengan kriteria.
+Berdasarkan hasil penyaringan dengan kriteria inklusi dan eksklusi, tersaringlah artikel
+yang akan dijadikan sebagai bahan acuan sebanyak 6 artikel.
+HASIL DAN PEMBAHASAN
+ Pencarian literatur diperoleh sebanyak 6 artikel hasil penelitian, yang berkaitan
+dengan Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian
+Sustainable Development Goals dan Universal Health Coverage dalam tabel 1.
+Tabel 1. Hasil Studi Literatur Mengenai Tinjauan Kebijakan Kesehatan Mental di
+Indonesia: Menuju Pencapaian Sustainable Development Goals dan Universal
+Health Coverage
+Penulis/Tahun Tempat Judul Metode Hasil
+Hothasian et. al.,
+(2019)
+Indonesia Evaluasi
+Pelaksanaan
+Program Upaya
+Kesehatan Jiwa di
+Puskesmas
+Bandarharjo Kota
+Semarang Tahun
+2018
+Penelitian
+kualitatif
+dengan
+pendekatan
+deskriptif
+analitik
+Hasil pada penelitian ini
+menunjukkan bahwa
+evaluasi input dalam
+ketersediaan tenaga
+kesehatan jiwa cukup,
+sarana dan bahan
+berkualitas dan
+berkuantitas dan seluruh
+kegiatan program
+kesehatan jiwa belum
+memiliki SOP. Evaluasi
+proses salah satunya
+dalam pelaksanaan
+kegiatan penyuluhan
+kesehatan jiwa masih
+belum optimal. Evaluasi
+keluaran dari 2 indikator
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+94 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+program upaya kesehatan
+jiwa, terdapat 1 indikator
+yang belum mencapai
+target.
+Ambarsari et. al.,
+(2021)
+Indonesia Perancangan
+Modul Landing
+Page Dan
+Pembayaran Pada
+Website
+Pahamee Tentang
+Kesehatan
+Mental
+Menggunakan
+Metode
+Extreme
+Programming
+Extreme
+Programming
+Hasil pada penelitian ini
+menunjukkan bahwa Pada
+landing page terdapat
+beberapa fitur, yaitu :
+melihat konten, melihat
+list data konselor, tes
+Kesehatan mental,
+layanan informasi, dan
+melihat FAQ. Pengujian
+menggunakan metode
+blackbox testing dan hasil
+yang didapatkan adalah
+100% berhasil terhadap
+semua fitur pada landing
+page. Pengujian usability
+testing mendapatkan nilai
+SUS 73 dengan responden
+sebanyak 20 orang
+(Acceptable) dengan
+kriteria Grade Scale (C)
+dan kriteria Adjective
+Rating (good). Dapat
+disimpulkan bahwa
+landing page website
+Pahamee berada pada
+kategori baik sehingga
+dapat digunakan oleh
+pengguna karena mudah
+di akses dan sangat
+membantu penderita
+gangguan jiwa.
+Larasuci Arini,
+Setiadi Syarli
+(2020)
+Indonesia Deteksi Dini
+Gangguan Jiwa
+Dan Masalah
+Psikososial
+Cross
+Sectional
+Studi ini memberikan
+hasil terkait pentingnya
+upaya pencegahan dan
+deteksi lebih awal pada
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Dengan
+Menggunakan
+Self Reporting
+Questioner
+(SRQ-29)
+gangguan jiwa dan
+masalah psikososial pada
+masyarakat dengan
+maksud dan tujuan untuk
+menekan atau mengurangi
+risiko yang lebih luas pada
+masalah lainnya yang
+termasuk didalamnya
+terkait permasalahan
+kesehatan, ekonomi,
+sosial, dan budaya
+masyarakat di Indonesia.
+Dalam hal ini juga perlu
+adanya keterlibatan dari
+berbagai pihak agar
+memberikan hasil yang
+efektif dan lebih optimal.
+Ilham Akhsanu
+Ridlo dan Rizqy
+Amelia Zein
+(2018)
+Indonesia Arah Kebijakan
+Kesehatan Mental:
+Tren Global dan
+Nasional
+Serta Tantangan
+Aktual
+Studi Analisis
+Sekunder
+Literature ini memberikan
+hasil bahwa sebuah
+kebijakan kesehatan
+mental yang berbasis pada
+bukti pastinya tidak dapat
+disusun begitu saja jika
+tidak tersedianya kualitas
+data epidemiologis.
+Sebab, dengan kumpulan
+data yang komprehensif,
+program yang dirancang
+dapat diatur secara
+proporsional, termasuk
+dalam mengalokasikan
+anggaran kebijakan.
+Dalam hal ini, perlu
+adanya keterlibatan politik
+agar dapat
+mengalokasikan anggaran
+tersebut untuk membuka
+akses layanan kesehatan
+metal, termasuk untuk
+mengatasi kesenjangan
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+96 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+dalam perawatan.
+Cahyadi, A.,
+Mufidah, W.,
+Susilowati, T.,
+Susanti, H., &
+Anggraini, W. D.
+(2022)
+Indonesia Menjaga
+Kesehatan Fisik
+Dan Mental
+Lanjut Usia
+Melalui Program
+Posyandu Lansia
+Penelitian
+Deskriptif
+Kualitatif
+Berdasarkan hasil
+penelitian, didapatkan
+bahwa program Posyandu
+Lansia ini dapat menjadi
+sarana dalam pemeriksaan
+kesehatan serta juga dapat
+sebagai tempat untuk
+meningkatkan kesehatan
+mental dan peningkatan
+tingkat spiritual pada
+lansia. Namun,
+pemanfaatan dari
+Posyandu Lansia ini
+kurang dilaksanakan
+dengan baik oleh lansia
+laki-laki terutama yang
+tinggal di dusun
+Kedawong. Selain itu,
+tidak tersedianya tenaga
+psikologi untuk
+melakukan penyuluhan
+kesehatan mental kepada
+para lansia juga turut
+menjadi kekurangan
+dalam mendukung
+pelaksanaan program
+Posyandu Lansia ini.
+Pratiwi, D. P., &
+Niswah, F.
+(2019).
+Indonesia Strategi
+Peningkatan
+Layanan
+Kesehatan
+melalui Program
+Jemput Bola
+Pasien Urung
+Kunjung (Jebol
+Pasung) di
+Penelitian
+Deskriptif
+Kualitatif
+Berdasarkan hasil
+penelitian, didapatkan
+bahwa Program Jemput
+Bola Pasien Urung
+Kunjung (Jebol Pasung)
+telah memberikan banyak
+perubahan dan manfaat
+baik untuk Orang Dengan
+Gangguan Jiwa (ODGJ),
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Puskesmas Geger
+Kabupaten
+Madiun
+keluarga Orang Dengan
+Gangguan Jiwa (ODGJ)
+dan juga masyarakat.
+Namun, dalam
+pelaksanaan program ini
+masih terdapat kendala
+berupa kurang
+maksimalnya promosi
+kesehatan, kurangnya
+pelatihan yang lebih detail
+untuk para kader
+kesehatan jiwa, dan
+kurangnya kesadaran
+perangkat desa dalam
+mengundang sasaran
+untuk mengikuti program
+ini.
+Kebijakan Kesehatan Mental yang Terdapat di Indonesia
+Kebijakan kesehatan mental di Indonesia berdasar pada Undang-Undang No 18
+Tahun 2014 tentang Kesehatan Jiwa. Undang-Undang tentang Kesehatan Jiwa tersebut
+bertujuan untuk menjamin setiap orang agar dapat mencapai hidup yang berkualitas,
+dapat menikmati kehidupan dengan jiwa yang sehat, bebas dari rasa takut, tekanan, dan
+gangguan lainnya yang dapat mengganggu kesehatan jiwa seseorang. Dalam UndangUndang No 18 Tahun 2014 tentang Kesehatan Jiwa juga menjamin agar setiap orang
+dapat mengembangkan potensi kecerdasan, memberikan perlindungan, serta menjamin
+pelayanan Kesehatan Jiwa bagi ODMK dan ODGJ berdasarkan hak asasi manusia,
+dengan memberikan pelayanan kesehatan yang terintegrasi, komprehensif, dan
+berkesinambungan melalui upaya promotif, preventif, kuratif, dan rehabilitatif. Dalam
+undang-undang tersebut pemerintah juga menjamin tersedianya dan terjangkaunya
+sumber daya dalam Upaya Kesehatan Jiwa, peningkatan mutu dan kualitas Upaya
+Kesehatan Jiwa melalui perkembangan ilmu pengetahuan dan teknologi serta
+memberikan peluang kepada ODMK dan ODGJ untuk dapat melaksanakan hak dan
+kewajibannya sebagai Warga Negara Indonesia.
+Melalui Undang-Undang No 18 Tahun 2014 tentang Kesehatan Jiwa tersebut,
+pemerintah melakukan serangkaian kegiatan dalam rangka mengurangi prevalensi
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+98 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+gangguan mental di Indonesia. Direktur Jenderal Kesehatan Masyarakat, Kementerian
+Kesehatan Maria Endang Sumiwi menyatakan, pada saat ini program kesehatan jiwa di
+Indonesia telah bertransisi dari kuratif dan rehabilitatif menjadi promotif preventif.
+Kementerian Kesehatan akan lebih menekankan aksi promotif dan preventif yang lebih
+kuat. Dikutip dari website kemenkes tahun 2022, program kesehatan jiwa rancangan
+kemenkes ini akan lebih mengarah pada mempromosikan kesehatan jiwa, meningkatkan
+deteksi dini dan pencegahan, serta manajemen kasus yang lebih baik di tingkat pelayanan
+primer. Promosi kesehatan jiwa di lingkungan masyarakat dilaksanakan melalui
+Posyandu dan dilakukan oleh para kader kesehatan masyarakat. Promosi kesehatan jiwa
+juga turut dilakukan melalui upaya kesehatan sekolah. Pada tingkat kabupaten kota dan
+provinsi telah dibentuk Tim Pelaksana/Pengarah Kesehatan Jiwa Masyarakat (TPKJM)
+sebagai wadah koordinasi untuk pelaksanaan program kesehatan jiwa masyarakat
+sebagaimana yang telah diatur dalam Undang-Undang Kesehatan Jiwa tahun 2014. Tim
+tersebut beranggotakan lini kementerian, organisasi profesi, dan perwakilan masyarakat
+yang memiliki peran strategis dalam upaya kesehatan jiwa (Kemenkes, 2022).
+Selain program promotif, Indonesia juga melakukan kerjasama terbuka dengan
+mitra akademisi dan masyarakat sipil dalam misi memperkuat pelayanan dan program
+kesehatan jiwa terpadu yang komprehensif dan berkelanjutan (Kemenkes, 2022).
+Direktorat P2MKJKN juga tmengembangkan program imunisasi jiwa yang bertujuan
+untuk membentuk SDM Indonesia yang berjiwa tangguh, unggul, kuat, dan kebal dalam
+menghadapi perkembangan zaman yang sangat cepat (Fidiansyah, 2019).
+Di era digital saat ini, akses teknologi informasi tersebar hampir di seluruh
+Indonesia. Kementerian Kesehatan memanfaatkan peluang tersebut dengan membuat
+layanan aplikasi seluler kesehatan mental berbasis digital yang bernama “Sehat Jiwa”
+(Anwar, 2015). Layanan aplikasi seluler Sehat Jiwa ini menjadi salah satu inovasi dari
+kemenkes yang mendekatkan masyarakat pada akses informasi layanan kesehatan mental.
+Melalui aplikasi ini masyarakat dapat mendeteksi kondisi dirinya dan jika diperlukan
+dapat melakukan pemeriksaan diri ke Psikolog atau Psikiater terdekat (Anwar, 2015).
+Dari aplikasi ini, pemerintah berharap layanan kesehatan mental di Indonesia nantinya
+dapat terfasilitasi secara lebih menyeluruh. Pemerintah juga akan mempersiapkan tenaga
+Psikolog dan Psikiater ke tempat yang dapat dijangkau oleh masyarakat seperti pelayanan
+kesehatan primer, yaitu Puskesmas (Wijaya, Y. D., 2019). Walaupun penempatan
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Psikolog di Puskesmas belum menjadi program yang merata di seluruh Indonesia, tetapi
+hal ini dapat menjadi awalan yang baik dalam meningkatkan layanan kesehatan mental
+yang merata di Indonesia (Wijaya, Y. D., 2019).
+Hubungan Kebijakan Kesehatan Mental dengan Sustainable Development Goals dan
+Universal Health Coverage
+Kebijakan kesehatan jiwa di Indonesia mengalami kemajuan, meski lambat,
+dibandingkan dekade sebelumnya. Memang dibutuhkan data yang berkualitas untuk
+merumuskan kebijakan yang efektif agar upaya penanganan kesehatan jiwa di tingkat
+pelayanan kesehatan primer dan sekunder lebih optimal. Sejak pemberlakuan UndangUndang Nomor 18 Tahun 2014 tentang Kesehatan Jiwa, masih banyak tantangan yang
+belum terselesaikan, baik dalam pengembangan beberapa peraturan turunannya maupun
+dukungan dari pemerintah daerah. Regulasi kesehatan jiwa dan implementasinya di
+Indonesia masih memiliki kesenjangan yang signifikan dalam hal cakupan dan akses
+layanan (Ridlo, 2020).
+Kebijakan psikiatri Indonesia harus mengoptimalkan integrasi layanan psikiatri.
+Pendekatan berbasis komunitas dapat memperluas jangkauan layanan kesehatan mental.
+Pemerintah harus mengintegrasikan layanan kesehatan mental dengan layanan berbasis
+masyarakat untuk memastikan cakupan universal pelayanan kesehatan mental. Model
+pemberdayaan partisipatif dan bottom-up adalah pilihan yang masuk akal untuk
+mengatasi masalah sumber daya dan stigma sebagai hambatan keberhasilan program
+kesehatan jiwa di Indonesia.
+Setiap orang membutuhkan tubuh dan jiwa yang sehat untuk beraktivitas secara
+optimal dan memiliki hidup yang sejahtera. Prinsip ini menjadi dasar dari poin ketiga dari
+The Thirteenth General Programme of Work 2019-2023 milik WHO, yaitu enjoying
+better health and well-being, dalam meminimalisir ketidaksetaraan secara sosioekonomi
+(Sutopo et al., 2014). Untuk target pertama adalah cakupan kondisi kesehatan mental yang
+meningkat 50% dan target kedua adalah mengurangi angka kematian akibat bunuh diri
+sebesar 15%. Target dari Universal Health Coverage (UHC) pada tahun 2023 adalah
+memastikan akses ke perawatan yang berkualitas dan terjangkau untuk kondisi kesehatan
+jiwa di 12 negara prioritas bagi lebih dari 100 juta orang.
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+100 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+Adanya kebutuhan akan pelayanan kesehatan mental yang komprehensif untuk
+dijadikan sebagai bagian dari Sustainable Development Goals (SDGs) dan Universal
+Health Coverage (UHC). Mental Health Action Plan WHO mengusulkan sejumlah
+indikator kesehatan mental, termasuk indikator program-program fungsional dari promosi
+kesehatan mental multisektoral dan pencegahan yang berlaku, yang mengukur efektivitas
+program untuk mempromosikan kesehatan mental dan mendapatkan layanan yang
+diperlukan untuk pasien.
+Pemerintah Indonesia juga terus mengupayakan berbagai kebijakan mengenai
+kesehatan mental agar penderita gangguan mental di Indonesia tidak terus meningkat.
+Beberapa program kesehatan mental sudah berjalan dengan baik. Dengan demikian,
+target untuk menurunkan prevalensi gangguan jiwa di dunia juga akan tercapai.
+Kendala dan Tantangan yang Dihadapi dalam Implementasi Kebijakan Kesehatan
+Mental di Indonesia
+ Dalam praktik kebijakan kesehatan mental di Indonesia masih menghadapi
+beberapa kendala dan tantangan dalam implementasinya, beberapa di antaranya stigma
+dan diskriminasi terhadap orang dengan masalah kesehatan mental yang masih cukup
+tinggi di Indonesia, kurangnya sumber daya untuk menyediakan layanan kesehatan
+mental yang memadai, Kurangnya anggaran untuk kesehatan mental sehingga pemerintah
+sulit dalam meningkatkan kualitas layanan kesehatan mental, Kesadaran masyarakat
+tentang pentingnya menjaga kesehatan mental yang masih rendah, serta budaya Indonesia
+yang masih memandang kesehatan mental sebagai hal yang tabu dan tidak penting sebagai
+kendala dalam implementasi kebijakan kesehatan mental.
+ Sebagian besar masyarakat umum memandang orang sakit jiwa sama dengan
+orang gila. Padahal faktanya, jika ditinjau dari sudut pandang psikologi, istilah gangguan
+mental atau gangguan jiwa memiliki batasan yang luas. Menurut studi psikologi klinis,
+seseorang yang dalam kondisi tubuh terlihat sehat tetapi memiliki pola pikir yang
+terkadang terlihat baik, namun seringkali mengalami ketidakwarasan, maka orang
+tersebut dapat dikategorikan sebagai bentuk gangguan jiwa yang parah, yang dikenal
+sebagai skizofrenia. Jenis gangguan mental tersebut pada umumnya dikenal sebagai tidak
+waras atau gila. Sedangkan pada tingkat yang ringan dikelompokkan sebagai
+megalomania, kleptomania, pedofilia, paranoia, ansietas, dan lain sebagainya.
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+ Disamping itu, masyarakat juga masih belum bisa membedakan antara gangguan
+emosi dan gangguan mental. Padahal, menurut Eisenberg, dkk (2013), gangguan emosi
+merupakan salah satu jenis penyakit yang sangat amat mengganggu seseorang, yang
+diakibatkan oleh adanya konflik yang pernah dialami secara internal, tetapi masih mampu
+menilai realitas dengan baik, serta dapat menjaga hubungan baik dengan lingkungan
+sekitarnya. Sedangkan gangguan mental merupakan penyakit jiwa dimana seseorang
+yang mengalaminya tidak dapat menilai realitas dengan benar, bahkan tidak mampu
+mengendalikan dirinya sehingga seringkali menyakiti atau melukai diri sendiri dan orang
+lain.
+ Indonesia memiliki UU Kesehatan Jiwa No. 18 tahun 2014 yang menjelaskan
+tentang masalah kesehatan jiwa, khususnya yang berkaitan dengan hak-hak orang dengan
+gangguan jiwa (ODGJ), kewajiban pemerintah, dan masyarakat. UU tersebut juga
+berkaitan dengan anggaran untuk sarana dan prasarana bagi kesehatan jiwa (Kementerian
+Kesehatan RI, 2018). Sedangkan pada tahun 2016, Kemenkes melakukan identifikasi dan
+terdapat 12 indikator keluarga sehat yang menjadi bagian dari Program Indonesia Sehat,
+yang mana pada indikator ke delapan disebutkan bahwa seorang anggota keluarga yang
+menderita gangguan jiwa tidak boleh diabaikan.
+ Seiring berjalannya waktu, memasuki era digital ini menciptakan sebuah ruang
+inovasi terbaru yang disebut sebagai telemedicine, yang memberikan dukungan klinis
+berbasis teknologi dan informasi dengan melibatkan aplikasi yang dapat menghubungkan
+keterbatasan pada akses lokasi, jarak, dan letak geografis. Salah satu layanan yang
+terdapat didalamnya, yakni telepsikologi yang dimulai dari pendekatan promotif berupa
+penyediaan berbagai artikel yang berkaitan dengan kesehatan mental, yang bisa dengan
+mudah diakses sebagai bentuk dari psikoedukasi. Pendekatan berikutnya adalah melalui
+layanan preventif dengan metode screening baik dengan menggunakan angket, kuis skala
+sederhana, atau beberapa instrumen sederhana yang dipahami oleh masyarakat umum
+guna mengetahui perkembangan kesehatan mental yang ada di masyarakat.
+ Program telemental yang ada pada telepsikologi semakin berkembang dan
+mendapat respons cepat dari pengguna teknologi. Sebagai negara dengan jumlah
+penduduk yang besar, Indonesia menjadi salah satu negara yang memiliki peluang bagi
+penyedia aplikasi konseling berbasis online, seperti Riliv, SehatPedia, Halodoc,
+Alodokter, dan penyedia layanan lainnya. Meskipun saat ini belum ditemukan acuan baku
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+102 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+mengenai prosedur pembayaran dan tagihan yang baku dari pemerintah maupun
+organisasi profesi, tetapi prosedur yang tersedia telah menjawab kebutuhan pada Panduan
+Layanan Psikologi Dalam Masa Tanggap Darurat Covid-19 (Sari, 2020).
+Evaluasi Program Kesehatan Mental yang Telah Dilakukan di Indonesia
+Banyaknya program kesehatan mental yang disusun oleh pemerintah, masih
+memiliki kekurangan dalam proses pelaksanaannya. Seperti yang tertera dalam Rencana
+Aksi Kegiatan 2020-2024, bahwa isu strategis terkait masalah kesehatan jiwa masih
+terpusat pada kurangnya anggaran dana untuk pencegahan dan pengendalian kesehatan
+jiwa dan napza, regulasi dan kebijakan, akses dan mutu pelayanan, sumber daya manusia,
+stigma masyarakat, ketersediaan obat, sistem pelaporan yang belum optimal, dan
+koordinasi dan Kerjasama lintas program maupun lintas sektoral belum optimal.
+Kurangnya dana disebabkan oleh belum optimal nya komitmen pengambilan kebijakan
+untuk program keswa dan napza dan belum semua daerah menganggarkan untuk program
+keswa dan napza di daerahnya. Permasalahan regulasi dan kebijakan masalah kesehatan
+jiwa juga turut menjadi penyebab dari kurangnya pelaksanaan program kesehatan jiwa di
+Indonesia. Hal ini disebabkan program kesehatan jiwa belum menjadi program prioritas
+yang harus dilaksanakan sehingga program pelayanan kesehatan jiwa di daerah masih
+belum terlaksana secara berkesinambungan dan kebijakan bidang kesehatan jiwa
+seringkali tidak sejalan antara pusat dan daerah (Ditjen P2P Kemenkes, 2020).
+Akses mutu dan pelayanan serta sumber daya manusia pada program kesehatan
+jiwa atau mental, juga turut menjadi penyebab evaluasi pelaksanaan program kesehatan
+mental belum terlaksana dengan baik di indonesia. Hal ini sejalan dengan penelitian
+(Arifin, S. D., Kurniawan, D., & Marwati, E., 2020) mengenai Implementasi Program
+Kesehatan Jiwa Di Upt Puskesmas Soasio Kota Tidore Kepulauan. Dari hasil penelitian
+tersebut didapatkan Puskesmas tersebut perlu SDM dan fasilitas masih belum memenuhi,
+sehingga perlu adanya penambahan SDM (psikolog/psikiater), penyediaan fasilitas/klinik
+untuk pasien gangguan jiwa. Selain itu, stigma dari masyarakat, yaitu keengganan
+masyarakat membawa Orang Dengan Masalah Kejiwaan (ODMK) dan Orang Dengan
+Gangguan Jiwa (ODGJ) mencari pengobatan medik. Hal ini dikarenakan keluarga malu
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+bila ada anggota keluarganya mengalami gangguan mental. Berdasarkan hasil penelitian
+(Santoso, T., 2019) mengenai Evaluasi pelaksanaan program kesehatan jiwa di puskesmas
+simpang parit kecamatan renah pembarap tahun 2018, didapatkan hasil observasi bahwa
+anggota keluarga yang memiliki gangguan mental akan di pasung oleh pihak keluarganya
+yang lain. Hal ini menandakan stigma negatif masyarakat terhadap ODGJ masih tinggi.
+Kurangnya ketersediaan obat psikotropik di puskesmas, juga menjadi salah satu
+penyebab evaluasi pelaksanaan program kesehatan mental belum terlaksana dengan baik
+di indonesia. Berdasarkan hasil penelitian (Hothasian, J. M., Suryawati, C., & Fatmasari,
+E. Y., 2019) mengenai Evaluasi Pelaksanaan Program Upaya Kesehatan Jiwa Di
+Puskesmas Bandarharjo Kota Semarang Tahun 2018, didapatkan hasil bahwa di
+puskesmas tersebut terdapat keterlambatan dalam sistem pendistribusian obat-obatan dari
+Dinas Kesehatan Kota. Hal ini perlu mendapat perhatian, mengingat penatalaksanaan
+gangguan jiwa yang sebagian besar bersifat kronis dan memerlukan ketersediaan obat
+secara kontinyu (Ditjen P2P Kemenkes, 2020).
+Dalam pelaksanaan program kesehatan mental, sistem pelaporan yang belum
+optimal juga turut menjadi masalah yang perlu diperhatikan. Adanya format laporan yang
+belum seragam dan adanya petugas pencatatan dan pelaporan kesehatan jiwa yang belum
+memahami tentang tata cara pelaporan kesehatan jiwa dapat mempersulit pelaporan
+(Ditjen P2P Kemenkes, 2020).
+Di sisi lain, program kesehatan mental yang dibuat oleh beberapa daerah sebagai
+upaya dalam mengatasi kenaikan prevalensi penyakit mental, turut membantu
+mengurangi prevalensi gangguan mental di Indonesia. Beberapa program tersebut
+diantaranya Program Posyandu Lansia, Program Jemput Bola Pasien Urung Kunjung
+(Jebol Pasung), Program Deteksi dini Gangguan Jiwa, dan lain sebagainya. Selain itu,
+program layanan aplikasi seluler kesehatan mental berbasis digital yang bernama “Sehat
+Jiwa” yang merupakan inovasi dari Kementerian Kesehatan Republik Indonesia juga
+turut mengurangi prevalensi gangguan mental di Indonesia. Namun, masih diperlukannya
+perbaikan dari aplikasi tersebut dikarenakan aplikasi Sehat Jiwa masih memiliki beberapa
+kekurangan, seperti: tidak dapat melakukan konsultasi secara langsung dengan petugas
+kesehatan yang ahli di bidangnya misalnya psikolog atau psikiater dan informasi
+mengenai adanya pelayanan berbasis aplikasi tersebut tidak banyak diketahui oleh
+masyarakat.
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+104 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+KESIMPULAN DAN SARAN
+ Kesehatan mental saat ini masih menjadi salah satu isu penting yang perlu dibahas
+lebih lanjut dalam Pencapaian Sustainable Development Goals dan Universal Health
+Coverage. Kesehatan mental yang didefinisikan sebagai penanda bahwa individu tersebut
+terhindar dari gejala-gejala gangguan jiwa (neurose) dan dari gejala penyakit jiwa
+(psychose), nyatanya masih terdapat kendala dan tantangan yang perlu dihadapi. Namun,
+sejalan dengan Undang-Undang Nomor 18 Tahun 2014, pemerintah telah menjamin
+tersedianya dan terjangkaunya sumber daya dalam Upaya Kesehatan Jiwa, peningkatan
+mutu, dan kualitas Upaya Kesehatan Jiwa. Apalagi, di era digital saat ini, akses teknologi
+informasi tersebar hampir di seluruh Indonesia. Kementerian Kesehatan memanfaatkan
+peluang tersebut dengan membuat layanan aplikasi seluler kesehatan mental berbasis
+digital yang bernama “Sehat Jiwa”. Dengan demikian, perkembangan informasi terkait
+kesehatan mental di Indonesia dapat dinilai mengalami kemajuan meskipun lambat, jika
+dibandingkan dengan dekade sebelumnya. Oleh karena itu, dibutuhkan kecukupan data
+yang berkualitas untuk merumuskan kebijakan yang efektif agar upaya penanganan
+kesehatan jiwa di tingkat pelayanan kesehatan primer dan sekunder jauh lebih optimal.
+Sehingga perbaikan terus-menerus dapat dijalankan untuk mengurangi prevalensi
+gangguan mental di Indonesia.
+UCAPAN TERIMA KASIH
+Ucapan terima kasih penulis sampaikan kepada seluruh pihak yang berkontribusi
+dalam penulisan artikel ini, terutama dosen pengampu mata kuliah Perencanaan dan
+Evaluasi Kebijakan Kesehatan yaitu Bapak Apt. Riswandy Wasir, Ph.D yang telah
+membimbing dan memberikan masukan dalam penyusunan penulisan artikel ini. Penulis
+menyadari bahwa artikel ilmiah ini masih jauh dari kata sempurna. Oleh karena itu, kritik
+dan saran yang bersifat membangun sangat diperlukan. Semoga artikel ilmiah ini dapat
+bermanfaat bagi pembaca dan semua yang membutuhkan.
+DAFTAR REFERENSI
+Arifin, S. D., Kurniawan, D., & Marwati, E. (2020). Implementasi Program Kesehatan
+Jiwa Di Upt Puskesmas Soasio Kota Tidore Kepulauan. JURNAL SERAMBI
+SEHAT, 13(1), 21-34.
+
+Jurnal Medika Nusantara
+Vol. 1, No. 2 Mei 2023
+e-ISSN: 2986-7061; p-ISSN: 2986-7878, Hal 89-107
+Arini, L., & Syarli, S. (2020). Deteksi Dini Gangguan Jiwa Dan Masalah Psikososial
+Dengan Menggunakan Self Reporting Qustioner (SRQ-29). Jurnal Keperawatan
+Muhammadiyah, 5(1).
+Ayuningtyas, D., & Rayhani, M. (2018). Analisis situasi kesehatan mental pada
+masyarakat di Indonesia dan strategi penanggulangannya. Jurnal Ilmu Kesehatan
+Masyarakat, 9(1), 1-10.
+Bappenas.go.id. 2023. Pentingnya Kesehatan Mental Masyarakat Untuk Mencapai
+Pembangunan Berkelanjutan dan Indonesia Maju. Diakses pada 26 Maret 2023,
+dari https://sdgs.bappenas.go.id/pentingnya-kesehatan-mental-masyarakat-untukmencapai-pembangunan-berkelanjutan-dan-indonesia-maju/
+Cahyadi, A., Mufidah, W., Susilowati, T., Susanti, H., & Anggraini, W. D. (2022).
+Menjaga Kesehatan Fisik Dan Mental Lanjut Usia Melalui Program Posyandu
+Lansia. Jurnal Pengabdian Masyarakat Darul Ulum, 1(1), 69-76.
+Eisenberg, D., Hunt, J., & Speer, N. (2013). Mental Health in American Colleges
+and Universities. Journal of Nervous & Mental Disease.
+https://doi.org/10.1097/nmd.0b013e31827ab077
+Fakhriyani, D. V. (2019). Kesehatan mental (Vol. 124). Duta Media Publishing.
+Firmansyah, Y., & Widjaja, G. (2022). Masalah-Masalah Dalam Kesehatan Jiwa. Crossborder, 5(1), 474-502.
+Hothasian, J. M., Suryawati, C., & Fatmasari, E. Y. (2019). Evaluasi Pelaksanaan
+Program Upaya Kesehatan Jiwa Di Puskesmas Bandarharjo Kota Semarang
+Tahun 2018. Jurnal Kesehatan Masyarakat (Undip), 7(1), 75-83.
+Kemenkes.go.id. 2022. Transformasi Layanan Primer: Kesehatan Jiwa Ditekankan pada
+Program Promotif dan Preventif. Diakses pada 26 Maret 2023, dari
+https://www.kemkes.go.id/article/view/22101600001/transformasi-layananprimer-kesehatan-jiwa-ditekankan-pada-program-promotif-preventif.html
+Kementerian Kesehatan RI. (2018). Infodatin Kesehatan Jiwa.
+https://www.kemkes.go.id/resources/download/pusdatin/infodatin/infodatin-jk2018.pdf). Diakses pada 26 Maret 2023.
+National Institute of Mental Health (NIMH). (2022). Schizophrenia.
+https://www.nimh.nih.gov/health/topics/schizophrenia. Diakses pada 26 Maret
+2023.
+Pratiwi, D. P., & Niswah, F. (2019). Strategi Peningkatan Layanan Kesehatan melalui
+Program Jemput Bola Pasien Urung Kunjung (Jebol Pasung) di Puskesmas
+Geger Kabupaten Madiun. Publika, 7(4).
+Putri, A. W., Wibhawa, B., & Gutama, A. S. (2015). Kesehatan mental masyarakat
+Indonesia (pengetahuan, dan keterbukaan masyarakat terhadap gangguan
+kesehatan mental). Prosiding Penelitian Dan Pengabdian Kepada Masyarakat,
+2(2).
+Redaksi Sehat Negeriku. 2019. Targetkan Indonesia Sehat Jiwa, Kemenkes Fokus pada
+Upaya Pencegahan. Diakses pada 26 Maret 2023, dari
+https://sehatnegeriku.kemkes.go.id/baca/umum/20191009/0932024/targetkanindonesia-sehat-jiwa-kemenkes-fokus-upaya-pencegahan/
+
+Tinjauan Kebijakan Kesehatan Mental di Indonesia: Menuju Pencapaian Sustainable
+Development Goals dan Universal Health Coverage
+106 MEDIKA - VOLUME 1, NO. 2, MEI 2023
+Redaksi Sehat Negeriku. 2022. Kemenkes Perkuat Jaringan Layanan Kesehatan Jiwa di
+Seluruh Fasyankes. Diakses pada 26 Maret 2023, dari
+https://sehatnegeriku.kemkes.go.id/baca/umum/20221010/4041246/kemenkeskembangkan-jejaring-pelayanan-kesehatan-jiwa-di-seluruh-fasyankes/
+Ridlo, I. A. (2020). Jurnal Psikologi dan Kesehatan Mental Pandemi COVID-19 dan
+Tantangan Kebijakan Kesehatan Mental di Indonesia. Departemen Administrasi
+Dan Kebijakan Kesehatan, Fakultas Kesehatan Masyarakat Universitas
+Airlangga, 155–164. https://doi.org/10.20473/jpkm.v5i12020.155-164
+Ridlo, I. A., & Zein, R. A. (2018). Arah Kebijakan Kesehatan Mental: Tren Global dan
+Nasional Serta Tantangan Aktual. Buletin Penelitian Kesehatan, 46(1), 45-52.
+Sari, O. K., Ramdhani, N., & Subandi, S. (2020). Kesehatan Mental di Era Digital:
+Peluang Pengembangan Layanan Profesional Psikolog. Media Penelitian Dan
+Pengembangan Kesehatan, 30(4).
+Sutopo, A., Arthati, D. F., & Rahmi, U. A. (2014). Kajian Indikator Sustainable
+Development Goals ( SDGs ). Kajian Indikator Lintas Sektor, 1–162.
+Santoso, M. B. (2016). Kesehatan mental dalam perspektif pekerjaan sosial. Share:
+Social Work Journal, 6(1).
+Santoso, T. (2019). Evaluasi pelaksanaan program kesehatan jiwa di puskesmas simpang
+parit kecamatan renah pembarap tahun 2018. Jurnal Kesehatan dan Sains
+Terapan, 5(2), 36-50.
+Wijaya, Y. D. (2019). Kesehatan Mental di Indonesia: Kini dan Nanti. Buletin
+Jagaddhita, 1(1), 1-4.
+World Health Organization. 2022. Health and well-Being. Diakses pada 26 Maret 2023,
+dari https://www.who.int/data/gho/data/major-themes/health-and-wellbeing#:~:text=Mental%20health%20is%20a%20state,to%20his%20or%20her%
+20community

@@ -1,0 +1,341 @@
+Jurnal Multidisiplin West Science
+Vol. 02, No. 08, Agustus, pp. 660~667
+Journal homepage: https://wnj.westscience-press.com/index.php/jmws
+Menjembatani Kesenjangan dalam Perawatan Kesehatan Mental:
+Pendekatan Baru untuk Diagnosis, Pengobatan, dan Pengurangan
+Stigma
+Christina Trisnawati Setiawan1
+, Saut Gracer Sijabat2
+, Ervan3
+, Habibi4
+1 Politeknik Yakpermas Banyumas: csetiawan.366@gmail.com
+2 Politeknik STIA LAN Jakarta: saut.s@stialan.ac.id
+3 Poltekkes Kemenkes Bengkulu: ervan.kasman74@gmail.com
+4 Universitas Muhammadiyah Mahakarya Aceh: habibi@ummah.ac.id
+ABSTRAK
+Penelitian ini membahas masalah kesenjangan layanan kesehatan mental di kalangan remaja di Jawa Barat,
+Indonesia. Melalui pendekatan metode campuran, yang menggabungkan survei kuantitatif dan wawancara
+kualitatif, penelitian ini meneliti prevalensi masalah kesehatan mental, hambatan dalam mendapatkan
+layanan, sikap terhadap kesehatan mental, dan pengembangan strategi intervensi yang inovatif. Temuan
+menunjukkan prevalensi masalah kesehatan mental yang signifikan, termasuk depresi dan kecemasan.
+Hambatan untuk mendapatkan perawatan meliputi keterbatasan finansial, kesadaran yang rendah, dan
+kelangkaan tenaga profesional kesehatan mental. Stigma budaya menghalangi pencarian bantuan, yang
+mencerminkan pentingnya pertimbangan budaya. Strategi intervensi yang diusulkan menekankan pada
+pendidikan kesehatan mental, keterlibatan masyarakat, layanan yang dapat diakses, dan sumber daya digital.
+Dengan menjembatani kesenjangan ini, penelitian ini berkontribusi pada peningkatan layanan kesehatan
+mental dan mengurangi stigma di kalangan remaja di Jawa Barat.
+Kata Kunci: Perawatan, Kesehatan Mental, Diagnosis, Pengobatan, Stigma
+ABSTRACT
+This study addresses the issue of mental health service gaps among adolescents in West Java, Indonesia. Through a mixed
+methods approach, combining quantitative surveys and qualitative interviews, this study examined the prevalence of
+mental health problems, barriers to services, attitudes towards mental health, and the development of innovative
+intervention strategies. Findings showed a significant prevalence of mental health problems, including depression and
+anxiety. Barriers to care include financial limitations, low awareness, and scarcity of mental health professionals. Cultural
+stigma hinders help-seeking, reflecting the importance of cultural considerations. The proposed intervention strategies
+emphasize mental health education, community engagement, accessible services, and digital resources. By bridging these
+gaps, this study contributes to improving mental health services and reducing stigma among adolescents in West Java.
+Keywords: Care, Mental Health, Diagnosis, Treatment, Stigma
+PENDAHULUAN
+Masalah kesehatan mental telah muncul sebagai masalah global yang penting, yang
+memengaruhi individu dari berbagai kelompok usia, latar belakang sosial-ekonomi, dan konteks
+budaya (Marsh, Parada, and Ayotte 2004; Preston and Rew 2022; Ulya 2021). Di antara populasi yang
+paling rentan adalah remaja, yang menjalani masa pertumbuhan dan perkembangan yang kompleks
+sambil menghadapi tantangan unik yang dapat berdampak signifikan pada kesehatan mental
+mereka (Baingana et al. 2015; Khair and Malhas 2023; Patel et al. 2007). Di Indonesia, negara yang
+padat penduduk dan memiliki keragaman budaya, kesehatan mental remaja telah mendapatkan
+pengakuan yang semakin meningkat sebagai prioritas kesehatan masyarakat (Abubakar et al. 2015;
+Iskandar 2022; Rahiem, Krauss, and Ersing 2021; Supriandi 2022; Sutarto, Wardaningsih, and Putri
+2021; Tiara, Ardhiyansyah, and Nugroho 2022). Namun, meskipun kesadaran telah meningkat,
+masih terdapat kesenjangan yang cukup besar dalam penyediaan layanan kesehatan mental yang
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+661
+efektif, yang berimplikasi pada kesejahteraan jangka panjang kelompok demografis ini (Prasetyo
+2021; Putri 2022; SILALAHI 2019; Ulya 2021).
+Wilayah Jawa Barat, Indonesia, dicirikan oleh warisan budaya yang kaya, populasi yang
+beragam, dan lanskap sosial-ekonomi yang kompleks. Seperti halnya di berbagai belahan dunia
+lainnya, remaja di Jawa Barat dihadapkan pada berbagai faktor penyebab stres, termasuk tekanan
+akademis, ekspektasi masyarakat, dan integrasi yang cepat antara modernitas dengan nilai-nilai
+tradisional. Faktor-faktor ini dapat berkontribusi pada munculnya masalah kesehatan mental seperti
+kecemasan, depresi, dan penyalahgunaan zat di kalangan remaja (Aji, Arsanti, and Hasanudin 2023;
+Indriani et al. 2022; Septiana 2021; Yunanto 2019). Sayangnya, prevalensi dari kondisi-kondisi
+tersebut sering kali diremehkan karena stigma yang masih melekat di sekitar kesehatan mental, yang
+mengakibatkan kurangnya pelaporan dan intervensi yang tidak memadai.
+Menanggapi tantangan yang mendesak ini, sangat penting untuk mengembangkan
+pemahaman yang komprehensif tentang kondisi layanan kesehatan mental di kalangan remaja di
+Jawa Barat. Hal ini mencakup eksplorasi sikap yang berlaku terhadap masalah kesehatan mental,
+hambatan yang menghalangi akses remaja terhadap perawatan yang tepat, dan jalan potensial
+untuk mengurangi stigma yang terkait dengan mencari bantuan. Dengan menjembatani
+kesenjangan ini, tidak hanya kesejahteraan remaja yang dapat ditingkatkan, tetapi dampak sosial
+yang lebih luas dari masalah kesehatan mental yang tidak diobati juga dapat dikurangi. Tujuan
+utama dari penelitian ini adalah untuk menjelaskan pendekatan inovatif yang dapat secara efektif
+menjembatani kesenjangan dalam layanan kesehatan jiwa untuk remaja di Jawa Barat.
+TINJAUAN PUSTAKA
+A. Prevalensi Masalah Kesehatan Jiwa di Kalangan Remaja
+Masa remaja merupakan fase penting yang ditandai dengan perubahan fisik, emosional, dan
+kognitif yang signifikan. Namun, periode ini juga memiliki kerentanan, sehingga menjadi jendela
+kritis bagi munculnya masalah kesehatan mental (Abubakar et al. 2015; Blakemore 2019; Lehtimaki
+et al. 2021). Penelitian di seluruh dunia telah menunjukkan adanya peningkatan prevalensi
+gangguan kesehatan mental di kalangan remaja, termasuk kecemasan, depresi, dan penyalahgunaan
+zat. Di Indonesia, penelitian (Prasetyo 2021; SILALAHI 2019; Ulya 2021) menunjukkan bahwa
+masalah-masalah ini terus meningkat, dengan faktor budaya dan sosio-ekonomi yang berkontribusi
+terhadap kemunculannya.
+Kelangkaan data yang komprehensif mengenai prevalensi masalah kesehatan mental di
+kalangan remaja di Jawa Barat menggarisbawahi perlunya penelitian yang ditargetkan. Memahami
+tingkat masalah sangat penting untuk merancang intervensi yang efektif yang dapat mengatasi
+tantangan unik yang dihadapi oleh populasi ini.
+B. Hambatan dalam Diagnosis dan Pengobatan
+Remaja menghadapi berbagai hambatan yang menghalangi akses mereka ke perawatan
+kesehatan mental. Kesadaran yang terbatas akan layanan yang tersedia, kurangnya literasi
+kesehatan mental, dan stigma masyarakat adalah hambatan yang umum terjadi (Aji, Arsanti, and
+Hasanudin 2023; Mustamu, Hasim, and Khasanah 2020; Septiana 2021). Kendala keuangan dan
+kelangkaan tenaga profesional kesehatan jiwa, terutama di daerah seperti Jawa Barat, memperparah
+tantangan-tantangan ini. Kurangnya tenaga profesional yang terlatih, ditambah dengan kelangkaan
+fasilitas khusus, berkontribusi pada keterlambatan diagnosis dan pengobatan.
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+662
+Masyarakat pedesaan dan terpinggirkan sering kali menanggung beban terberat dari
+hambatan-hambatan ini, yang mengarah pada kesenjangan dalam akses layanan kesehatan jiwa.
+Untuk mengatasi hambatan-hambatan ini, diperlukan pendekatan multi-segi yang
+mempertimbangkan konteks sosial-budaya, ketersediaan sumber daya, dan integrasi layanan
+kesehatan jiwa dalam sistem layanan kesehatan yang lebih luas.
+Upaya Pengurangan Stigma
+Stigma masih menjadi masalah yang meresap dan menghalangi individu untuk mencari
+bantuan dan mengakses layanan kesehatan jiwa yang sesuai. Secara global, berbagai upaya telah
+dilakukan untuk melawan stigma melalui kampanye, program edukasi, dan reformasi kebijakan.
+Indonesia telah menyaksikan tumbuhnya kesadaran akan pentingnya mengurangi stigma terkait
+kesehatan jiwa, dengan inisiatif yang bertujuan untuk menghilangkan kesalahpahaman dan
+mendorong percakapan yang terbuka (Abubakar et al. 2015; Lehtimaki et al. 2021; Preston and Rew
+2022).
+Di Jawa Barat dan di seluruh Indonesia, organisasi lokal dan kelompok advokasi telah
+mengambil langkah-langkah untuk menciptakan ruang yang aman untuk mendiskusikan kesehatan
+mental. Namun, upaya-upaya ini sering kali menghadapi perlawanan yang berakar pada normanorma budaya dan kesalahpahaman seputar kondisi kesehatan mental. Oleh karena itu, efektivitas
+upaya-upaya ini perlu diteliti dengan seksama.
+Pertimbangan Budaya
+Faktor budaya memainkan peran penting dalam membentuk persepsi tentang masalah
+kesehatan jiwa dan mempengaruhi perilaku mencari bantuan. Di Indonesia, kolektivisme dan
+konsep "menjaga muka" dapat menghalangi individu untuk mengungkapkan masalah kesehatan
+jiwa mereka karena kekhawatiran akan penghakiman sosial dan reputasi keluarga. Memahami
+nuansa budaya sangat penting ketika merancang intervensi dan inisiatif pendidikan yang peka
+terhadap budaya dan beresonansi dengan masyarakat local (Pratama and Sari 2020; Santo and Alfian
+2021).
+Peran Teknologi Digital
+Teknologi digital, termasuk media sosial dan aplikasi seluler, memiliki potensi untuk
+memainkan peran transformatif dalam perawatan kesehatan mental di kalangan remaja. Platformplatform ini dapat memberikan akses ke informasi, dukungan sebaya, dan bahkan konseling jarak
+jauh. Namun, implikasi etis, jaminan kualitas, dan potensi untuk memperburuk kesenjangan yang
+ada dalam akses ke layanan kesehatan harus dipertimbangkan dengan hati-hati (Fersko 2018; Karim
+et al. 2020; Khair and Malhas 2023; McCrory, Best, and Maddock 2020).
+Kesenjangan Penelitian
+Meskipun penelitian tentang kesehatan mental remaja semakin meningkat, kesenjangan
+yang substansial masih ada. Terdapat kebutuhan akan data prevalensi yang lebih komprehensif dari
+daerah-daerah tertentu, termasuk Jawa Barat. Selain itu, penelitian yang ada masih terbatas dalam
+mengeksplorasi perspektif remaja dan keluarga mereka terkait hambatan dan intervensi layanan
+kesehatan mental. Diperlukan lebih banyak wawasan untuk menyesuaikan strategi dengan konteks
+lokal.
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+663
+METODE PENELITIAN
+Desain penelitian dengan metode campuran diadopsi untuk memastikan eksplorasi yang
+menyeluruh dari tujuan penelitian. Pendekatan ini memfasilitasi integrasi data kuantitatif, yang
+memberikan wawasan numerik, dan data kualitatif, yang menawarkan kedalaman dan konteks
+pada temuan.
+Peserta
+Penelitian ini melibatkan remaja berusia 13 hingga 19 tahun, keluarga mereka, tenaga
+kesehatan mental profesional, pendidik, dan anggota masyarakat dari berbagai latar belakang di
+Jawa Barat. Metode purposive sampling digunakan untuk memastikan keterwakilan dari berbagai
+kelompok sosial ekonomi dan budaya, serta daerah pedesaan dan perkotaan dan sampel terlibat 400
+sampel.
+Pengumpulan Data
+Tahap Kuantitatif
+Kuesioner survei terstruktur dikembangkan untuk menilai prevalensi masalah kesehatan
+mental yang umum di kalangan remaja. Survei ini mencakup skala yang telah divalidasi seperti
+Patient Health Questionnaire (PHQ-9) untuk depresi, Generalized Anxiety Disorder 7 (GAD-7)
+untuk kecemasan, dan alat penilaian penggunaan narkoba. Selain itu, kuesioner ini juga
+mengumpulkan informasi demografis dan menilai akses ke layanan kesehatan mental.
+Survei ini dilakukan di sekolah, pusat komunitas, dan platform online untuk memastikan
+aksesibilitas yang luas. Data kuantitatif yang dikumpulkan memberikan wawasan kuantitatif
+tentang prevalensi masalah kesehatan jiwa dan hambatan potensial untuk mendapatkan layanan.
+Tahap Kualitatif
+Wawancara semi-terstruktur dilakukan dengan sebagian peserta, termasuk remaja, keluarga
+mereka, profesional kesehatan mental, pendidik, dan tokoh masyarakat. Wawancara ini menggali
+hambatan yang dihadapi dalam mengakses layanan kesehatan jiwa, persepsi tentang kesehatan
+jiwa, dan sikap dalam mencari bantuan.
+Data kualitatif dikumpulkan melalui wawancara mendalam yang dilakukan secara langsung atau
+melalui platform virtual, untuk memastikan fleksibilitas bagi para peserta. Fase kualitatif
+memungkinkan eksplorasi yang lebih dalam tentang faktor-faktor yang mendasari yang
+berkontribusi terhadap kesenjangan dalam perawatan kesehatan mental dan upaya pengurangan
+stigma.
+Analisis Data
+Analisis Data Kuantitatif
+Data kuantitatif yang dikumpulkan dari survei di analisis secara deskriptif dan inferensial.
+Tingkat prevalensi masalah kesehatan mental akan dihitung, dan korelasi antara faktor demografis
+dan kondisi kesehatan mental di eksplorasi. Analisis ini memberikan pemahaman kuantitatif
+tentang prevalensi dan faktor risiko potensial untuk masalah kesehatan mental di kalangan remaja
+di Jawa Barat.
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+664
+Analisis Data Kualitatif
+Data kualitatif dari wawancara di transkrip dan dilakukan analisis tematik. Data diberi kode untuk
+mengidentifikasi tema-tema yang berulang terkait dengan hambatan terhadap akses layanan
+kesehatan jiwa, sikap, persepsi, dan solusi potensial. Analisis ini memberikan wawasan yang kaya
+tentang nuansa budaya dan faktor kontekstual yang berkontribusi terhadap kesenjangan layanan
+kesehatan jiwa dan stigma di wilayah tersebut.
+HASIL DAN PEMBAHASAN
+A. Prevalensi Masalah Kesehatan Mental
+Survei kuantitatif mengungkapkan bahwa di antara sampel remaja di Jawa Barat, prevalensi
+masalah kesehatan mental cukup tinggi. Kuesioner Kesehatan Pasien (PHQ-9) mengindikasikan
+bahwa 25% peserta memenuhi kriteria depresi ringan hingga berat, dengan 20% mengalami gejala
+sedang hingga berat. Selain itu, hasil Generalized Anxiety Disorder 7 (GAD-7) menunjukkan bahwa
+45% responden memiliki gejala kecemasan dalam rentang sedang hingga berat.
+Temuan ini sejalan dengan tren global yang menunjukkan peningkatan masalah kesehatan
+mental di kalangan remaja. Tingkat prevalensi ini menggarisbawahi urgensi untuk mengatasi
+masalah kesehatan mental dan meningkatkan akses terhadap perawatan yang tepat.
+B. Hambatan terhadap Akses Layanan Kesehatan Jiwa
+Wawancara kualitatif menyoroti beberapa hambatan yang dihadapi oleh remaja dalam
+mengakses layanan kesehatan jiwa. Kendala keuangan merupakan masalah yang umum terjadi,
+terutama di kalangan keluarga berpenghasilan rendah. Kesadaran yang terbatas akan layanan yang
+tersedia dan literasi kesehatan mental juga muncul sebagai hambatan yang signifikan. Kurangnya
+tenaga kesehatan jiwa profesional, terutama di daerah pedesaan, semakin memperparah hambatanhambatan ini.
+Temuan-temuan ini memperkuat literatur yang sudah ada tentang hambatan dalam
+mendapatkan layanan, dan menekankan perlunya upaya-upaya yang ditargetkan untuk
+meningkatkan kesadaran, edukasi, dan alokasi sumber daya untuk meningkatkan akses layanan
+kesehatan jiwa.
+Sikap dan Persepsi terhadap Kesehatan Jiwa
+Wawancara kualitatif mengungkapkan bahwa stigma budaya seputar kesehatan jiwa masih
+menjadi masalah yang meresap. Remaja mengungkapkan kekhawatiran mereka akan penghakiman
+dari teman sebaya dan keluarga mereka jika mereka mencari bantuan untuk masalah kesehatan
+mental. Konsep "menyelamatkan muka" dan tekanan masyarakat untuk terlihat tangguh
+berkontribusi pada keengganan untuk mencari bantuan.
+Sikap dan persepsi ini konsisten dengan pertimbangan budaya yang diamati dalam
+literatur. Temuan ini menekankan pentingnya mengurangi stigma melalui intervensi yang
+disesuaikan dengan norma-norma budaya dan mendorong percakapan yang terbuka.
+C. Strategi Intervensi yang Inovatif
+Berdasarkan temuan kuantitatif dan kualitatif, sebuah strategi intervensi yang inovatif
+dikembangkan. Strategi ini berfokus pada pendekatan multi-cabang untuk menjembatani
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+665
+kesenjangan yang teridentifikasi dalam perawatan kesehatan jiwa. Komponen-komponen utamanya
+meliputi:
+Pendidikan Kesehatan Mental Berbasis Sekolah: Memasukkan pendidikan kesehatan
+mental ke dalam kurikulum sekolah untuk meningkatkan kesadaran, mengurangi stigma, dan
+mempromosikan intervensi dini.
+Program Penjangkauan Komunitas: Membangun inisiatif berbasis komunitas untuk
+memberikan informasi, dukungan, dan sumber daya bagi remaja dan keluarganya.
+Klinik Kesehatan Mental: Memperluas ketersediaan klinik kesehatan mental di sekolah dan pusatpusat komunitas untuk meningkatkan aksesibilitas dan menyediakan tempat yang aman untuk
+mencari bantuan.
+Sumber Daya Kesehatan Mental Digital: Memanfaatkan platform digital untuk
+menawarkan sumber daya, konseling daring, dan dukungan sebaya untuk remaja.
+Implikasi
+Temuan dan strategi intervensi yang dikembangkan memiliki implikasi yang signifikan
+terhadap layanan kesehatan mental di kalangan remaja di Jawa Barat. Data prevalensi
+menggarisbawahi kebutuhan mendesak akan intervensi yang dapat mengatasi masalah kesehatan
+mental yang terus meningkat. Hambatan yang teridentifikasi selaras dengan tantangan global yang
+ada, menunjukkan pentingnya solusi yang disesuaikan dengan konteks lokal.
+Sikap dan persepsi terhadap kesehatan mental menyoroti interaksi yang kompleks antara normanorma budaya dan perilaku mencari bantuan. Perbandingan dapat dibuat dengan upaya
+pengurangan stigma yang sedang berlangsung secara global, yang menekankan pentingnya
+pendekatan yang peka terhadap budaya untuk mengubah sikap masyarakat.
+Keterbatasan dan Penelitian di Masa Depan
+Penelitian ini bukannya tanpa keterbatasan. Cakupan geografis penelitian ini dapat
+membatasi generalisasi temuan di luar Jawa Barat. Ketergantungan pada data laporan diri dapat
+menyebabkan pelaporan yang kurang karena stigma. Penelitian di masa depan dapat
+mengeksplorasi efektivitas strategi intervensi yang dikembangkan melalui studi longitudinal dan
+menilai dampaknya terhadap hasil kesehatan mental.
+KESIMPULAN
+Penelitian ini menjelaskan kebutuhan mendesak untuk mengatasi kesenjangan layanan
+kesehatan mental di kalangan remaja di Jawa Barat. Prevalensi masalah kesehatan mental
+menggarisbawahi besarnya tantangan yang ada. Hambatan untuk mendapatkan layanan, yang
+berakar pada kendala keuangan dan kesadaran yang terbatas, membutuhkan intervensi yang
+disesuaikan untuk layanan yang dapat diakses dan efektif. Stigma budaya seputar kesehatan mental
+adalah masalah kompleks yang menuntut solusi yang peka terhadap budaya. Strategi intervensi
+inovatif yang dibuat dari temuan penelitian ini menekankan pada edukasi, keterlibatan, layanan
+yang dapat diakses, dan sumber daya digital. Dengan mensintesis wawasan kuantitatif dan
+kualitatif, penelitian ini menggarisbawahi pentingnya strategi yang sesuai dengan konteks untuk
+meningkatkan kesejahteraan mental, mendorong akses terhadap perawatan, dan mengurangi
+dampak sosial dari masalah kesehatan mental yang tidak ditangani. Dalam menjawab tantangan-
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+666
+tantangan ini, penelitian ini berkontribusi pada wacana global yang lebih luas tentang perawatan
+kesehatan mental remaja dan menggarisbawahi pentingnya inisiatif lokal untuk perubahan yang
+berarti.
+DAFTAR PUSTAKA
+Abubakar, Amina et al. 2015. “Perceptions of Parenting Styles and Their Associations with Mental
+Health and Life Satisfaction among Urban Indonesian Adolescents.” Journal of Child and Family
+Studies 24: 2680–92.
+Aji, Anzella Syahida Zahra Sulistyo, Meilan Arsanti, and Cahyo Hasanudin. 2023. “Ilmu Parenting
+Sebagai Langkah Kesehatan Mental Pada Remaja.” In Prosiding Seminar Nasional Hasil
+Penelitian, Pengabdian, Dan Diseminasi, , 341–48.
+Baingana, Florence, Mustafa Al’Absi, Anne E Becker, and Beverly Pringle. 2015. “Global Research
+Challenges and Opportunities for Mental Health and Substance-Use Disorders.” Nature
+527(7578): S172–77.
+Blakemore, Sarah-Jayne. 2019. “Adolescence and Mental Health.” The lancet 393(10185): 2030–31.
+Fersko, H. 2018. “Is Social Media Bad for Teens’ Mental Health?” UNICEF, Oct.
+Indriani, Fatma, Diva Nada Rizki Nuzlan, Hilma Shofia, and Jihan Putri Ralya. 2022. “PENGARUH
+KECANDUAN BERMAIN MEDIA SOSIAL TERHADAP KESEHATAN MENTAL PADA
+REMAJA.” PSIKOLOGI KONSELING 20(1): 1367–76.
+Iskandar, Yusuf. 2022. “Strategic Business Development of Polosan Mas Ibing with the Business
+Model Canvas Approach.” In International Conference on Economics, Management and Accounting
+(ICEMAC 2021), Atlantis Press, 164–79.
+Karim, Fazida et al. 2020. “Social Media Use and Its Connection to Mental Health: A Systematic
+Review.” Cureus 12(6).
+Khair, Nadine, and Sadina Malhas. 2023. “Fashion-Related Remedies: Exploring Fashion
+Consumption Stories during Covid-19. ‘Nostalgia Overpowering, Old Is the New Me.’” Journal
+of Global Fashion Marketing 14(1): 77–92.
+Lehtimaki, Susanna et al. 2021. “Evidence on Digital Mental Health Interventions for Adolescents
+and Young People: Systematic Overview.” JMIR mental health 8(4): e25847.
+Marsh, Herbert W, Roberto H Parada, and Violaine Ayotte. 2004. “A Multidimensional Perspective
+of Relations between Self-Concept (Self Description Questionnaire II) and Adolescent Mental
+Health (Youth Self-Report).” Psychological Assessment 16(1): 27.
+McCrory, Alanna, Paul Best, and Alan Maddock. 2020. “The Relationship between Highly Visual
+Social Media and Young People’s Mental Health: A Scoping Review.” Children and Youth
+Services Review 115: 105053.
+Mustamu, Alva Cherry, Nur Hafni Hasim, and Furaida Khasanah. 2020. “Pola Asuh Orangtua,
+Motivasi & Kedisiplinan Dalam Meningkatkan Kesehatan Mental Remaja Papua.” Jurnal
+Keperawatan Muhammadiyah Bengkulu 8(1): 17–25.
+Patel, Vikram, Alan J Flisher, Sarah Hetrick, and Patrick McGorry. 2007. “Mental Health of Young
+People: A Global Public-Health Challenge.” The Lancet 369(9569): 1302–13.
+Prasetyo, Angga Eko. 2021. “Edukasi Mental Health Awareness Sebagai Upaya Untuk Merawat
+Kesehatan Mental Remaja Dimasa Pandemi.” JE (Journal of Empowerment) 2(2): 261–69.
+Pratama, Bangkit Ary, and Defie Septiana Sari. 2020. “Dampak Sosial Intensitas Penggunaan Media
+Jurnal Multidisiplin West Science 
+Vol. 02, No. 08, Agustus: pp. 660-667
+667
+Sosial Terhadap Kesehatan Mental Berupa Sikap Apatis Di SMP Kabupaten Sukoharjo.” Gaster
+18(1): 65–75.
+Preston, Angela J, and Lynn Rew. 2022. “Connectedness, Self-Esteem, and Prosocial Behaviors
+Protect Adolescent Mental Health Following Social Isolation: A Systematic Review.” Issues in
+Mental Health Nursing 43(1): 32–41.
+Putri, Kholifah Ganda. 2022. “Hubungan Antara Toxic Parents Terhadap Kondisi Kesehatan Mental
+Remaja.” Istisyfa| Journal of Islamic Guidance and Counseling 1(2): 75–85.
+Rahiem, Maila D H, Steven Eric Krauss, and Robin Ersing. 2021. “Perceived Consequences of
+Extended Social Isolation on Mental Well-Being: Narratives from Indonesian University
+Students during the COVID-19 Pandemic.” International Journal of Environmental Research and
+Public Health 18(19): 10489.
+Santo, Alif Tri, and Ilham Nur Alfian. 2021. “Hubungan Dukungan Sosial Dan Kecemasan Dalam
+Menghadapi Dunia Kerja Pada Mahasiswa Akhir.” Buletin Riset Psikologi Dan Kesehatan Mental
+1(1): 370–78.
+Septiana, Nila Zaimatus. 2021. “Dampak Peggunaan Media Sosial Terhadap Kesehatan Mental Dan
+Kesejahteraan Sosial Remaja Dimasa Pandemi Covid-19.” Nusantara of Research: Jurnal HasilHasil Penelitian Universitas Nusantara PGRI Kediri 8(1): 1–13.
+SILALAHI, TIAR. 2019. “GAMBARAN HARGA DIRI DAN KESEHATAN MENTAL REMAJA
+PENGGUNA SMARTPHONE DI SMA ST. ALEXIUS DAN SMA BUDI MULIA JAKARTA.”
+Supriandi, Supriandi. 2022. “PENGARUH MODAL SOSIAL, KAPABILITAS FINANSIAL,
+ORIENTASI KEWIRAUSAHAAN TERHADAP DAYA SAING BISNIS BERKELANJUTAN
+SERTA IMPLIKASINYA PADA KINERJA UMKM INDUSTRI KULINER DI KOTA
+SUKABUMI.”
+Sutarto, Auditya Purwandini, Shanti Wardaningsih, and Wika Harisa Putri. 2021. “Work from
+Home: Indonesian Employees’ Mental Well-Being and Productivity during the COVID-19
+Pandemic.” International Journal of Workplace Health Management 14(4): 386–408.
+Tiara, Refika, Andri Ardhiyansyah, and Sahid Susilo Nugroho. 2022. “The Influence of Social
+Network Attributes, Flows, Trust, and Electronic Word of Mouth on Social Network Users’
+Purchase Intentions for Smart Phone Products in Indonesia.” In International Conference on
+Economics, Management and Accounting (ICEMAC 2021), Atlantis Press, 329–38.
+Ulya, Fatya. 2021. “Literature Review Of Factors Related To Mental Health In Adolescent: Kajian
+Literatur Faktor Yang Berhubungan Dengan Kesehatan Mental Pada Remaja.” Journal of Health
+and Therapy 1(1): 27–46.
+Yunanto, Taufik Akbar Rizqi. 2019. “Perlukah Kesehatan Mental Remaja? Menyelisik Peranan
+Regulasi Emosi Dan Dukungan Sosial Teman Sebaya Dalam Diri Remaja.” Jurnal Ilmu Perilaku
+2(2): 75–88.

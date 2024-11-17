@@ -1,0 +1,491 @@
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat
+Universitas Ibn Khaldun Bogor, Indonesia
+Vol. 6, No. 1, Februari 2023, pp. 37~44
+ISSN: 2654-8127, DOI: 10.32832/pro
+http://ejournal.uika-bogor.ac.id/index.php/PROMOTOR
+Journal homepage: http://ejournal.uika-bogor.ac.id/index.php/PROMOTOR
+37
+Transformasi Kesehatan Mental : Tantangan dan Upaya
+Kebijakan Pemerintah Pada Masa Pandemi COVID-19
+Ardhya Ridha Prananda Siagian Putri 1
+, Raden Roro Maulidya Arifianti Ningtyas 2
+Sekolah Pascasarjana Ilmu Kesehatan Masyarakat,
+Universitas Muhammadiyah Prof. DR. Hamka, Indonesia
+Article Info ABSTRAK
+Article history:
+Received Februari 20, 2023
+Revised Februari 23, 2023
+Accepted Februari 25, 2023
+Pandemi COVID-19 memberi dampak luas bagi kesehatan mental yang dapat
+memunculkan permasalahan kesehatan yang baru. Kesehatan mental perlu
+menjadi prioritas karena merupakan investasi untuk masa depan demi
+mewujudkan kesehatan secara menyeluruh. Tujuan penelitian ini untuk
+mengetahui pentingnya kesehatan mental, bagaimana kondisi, tantangan serta
+upaya kebijakan kesehatan mental melalui transformasi kesehatan. Penelitian
+ini menggunakan pendekatan kualitatif analitik dengan data sekunder berupa
+hasil wawancara yang di siarkan melalui youtube dan website online dalam
+rentang waktu tahun 2019-2022. Hasil penelitian ini adalah isu kesehatan
+mental menjadi penting dalam kondisi saat ini, dimana masih banyak
+tantangan yang dihadapi seperti keterbatasan sumber daya, layanan promotif
+dan preventif belum rutin dilakukan, kekosongan stok obat, adanya stigma
+dan diskriminasi terhadap penderita gangguan mental serta akses yang
+terbatas sehingga dilakukan upaya kebijakan pemerintah melalui enam pilar
+transformasi kesehatan. Oleh karena itu, perlu menggiatkan promosi layanan
+kesehatan jiwa yang mudah akses dan biaya termasuk edukasi keluarga,
+skrinning dini kesehatan jiwa, menjamin ketersediaan obat bagi pasien
+puskesmas dan dibentuknya peer support group serta kerjasama dengan panti
+sosial. Selain itu, diperlukan pemantauan kinerja kader dan koordinasi dengan
+pelibatan lintas sektor sebagai upaya penanganan kesehatan mental dan jiwa.
+Kata Kunci:
+Kebijakan Kesehatan
+Kesehatan Mental
+Pandemi COVID-19
+Transformasi Kesehatan
+This is an open access article under the CC BY-SA license.
+Corresponding Author:
+Raden Roro Maulidya Arifianti Ningtyas
+Universitas Muhammadiyah Prof. DR. Hamka
+Email: rrmaulidyaant28@gmail.com
+PENDAHULUAN
+Coronavirus Disease 19 atau COVID-19 merupakan penyakit infeksi menular jenis baru yang
+ditemukan pada tahun 2019 disebabkan oleh severe acute respiratory syndrome coronavirus atau SARSCOV2[1]. Badan Kesehatan Dunia (WHO) menjelaskan COVID-19 merupakan masalah kesehatan yang
+menjadi perhatian global hingga penyakit ini ditetapkan sebagai Pandemi pada 11 Maret 2020. Pada tanggal
+17 oktober 2022 jumlah kasus COVID-19 seluruh dunia yang terkonfirmasi positif sebanyak 620.878.405
+kasus dengan jumlah kematian sebanyak 6.543.138 kasus. Saat ini Eropa merupakan negara penyumbang kasus
+positif terbanyak sebesar 257.618.383 kasus [2]
+.
+Akibat kasus pandemi ini, telah banyak kebijakan baru untuk menerapkan protokol kesehatan wajib
+diterapkan guna memutus rantai penularan yang masif. Pemerintah mengeluarkan beberapa kebijakan saat
+masa pandemi COVID-19 seperti perilaku menjaga jarak, tetapi akibatnya membuat aktivitas fisik menurun
+dan membuat seseorang menjadi cemas, marah, gelisah, dan depresi [3]. Adanya pemberlakuan physical
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat ISSN: 2654-8127
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat, Vol. 6, No. 1, Februari 2023: 37-44
+38
+distancing dan membatasi jarak sosial mampu mengubah tatanan kehidupan masyarakat serta menimbulkan
+perubahan tingkah laku baru secara tiba-tiba, yang pada akhirnya membuat masyarakat kesulitan beradaptasi
+sehingga munculah stress dan trauma [4]
+.
+Kasus COVID-19 sangat memberi dampak secara langsung pada jutaan nyawa di dunia khususnya
+menimbulkan pengaruh yang cukup terasa dalam hal kesehatan mental. Seperti halnya kesehatan fisik,
+kesehatan mental juga perlu diperhatikan agar dapat mewujudkan kesehatan secara menyeluruh. Kasus
+COVID-19 yang menyerang kesehatan manusia seperti adanya gejala fisik secara umum berupa batuk, flu dan
+demam yang dialami penderitanya, dapat secara langsung terlihat. Berbeda dengan kesehatan mental yang
+tidak dapat dinilai secara kasat mata. Gangguan kesehatan mental yang sering tersembunyi dari pandangan
+sesungguhnya memiliki spektrum yang luas[5]. Hal ini lah yang ditengarai bahwa isu kesehatan mental harus
+menjadi prioritas karena pada realita nya banyak memunculkan permasalahan kesehatan baru selain dari kasus
+konfirmasi dan kematian akibat COVID-19 [6]. Pada akhirnya WHO pun menetapkan kesehatan mental menjadi
+bagian integral dari penanganan COVID-19 [7]
+.
+Kesehatan mental merupakan kondisi seseorang yang terbebas dari gejala gangguan mental dalam
+bentuk apapun. Seseorang yang memiliki mental sehat dapat menjalani kehidupan yang normal dan beradaptasi
+menghadapi masalah-masalah untuk mengatasi tekanan mental yang muncul. Namun tidak semua orang bisa
+beradaptasi dan mengatasinya, sehingga berujung pada gangguan jiwa. Seseorang yang kesehatan mental yang
+terganggu dapat mempengaruhi suasana hati, kemampuan beripikir hingga menurunkan produktivitas kerja.
+Beberapa jenis masalah kesehatan mental yakni stres, gangguan kecemasan dan depresi [8]
+.
+Selama masa pandemi COVID-19, berdasarkan survei kesehatan mental change.org pada tahun 2021
+dengan total partisipan 5.211 orang, didapati bahwa 98% responden mengalami kesepian dalam sebulan
+terakhir [9]. Selanjutnya dapat diamati dari 932 penduduk di Inggris terdapat 36,8% yang melaporkan memiliki
+kesehatan mental yang buruk setelah mengikuti anjuran pemerintah untuk jaga jarak [10]
+.
+Hal ini didukung oleh survey mengenai pengaruh kebijakan pembatasan jarak sosial dan hubungannya
+dengan kesehatan mental remaja selama pandemi, yang dilakukan oleh Indonesia National Adolescent Mental
+Health Survey (I-NAMHS) pada tahun 2022. Dari hasil survey, terdapat laporan bahwa 1 dari 20 remaja
+merasakan kesepian, sulit berkonsentrasi, tingkat cemas yang lebih tinggi hingga perasaan depresi,
+dibandingkan sebelum adanya pandemi COVID-19. Selain itu, selama masa pandemi COVID-19 ini stres yang
+dialami oleh masyarakat meningkat sebesar 5% dan gejala kecemasan serta depresi meningkat sebesar 16-
+28%[11]
+.
+Jumlah kasus gangguan mental saat ini masih cukup mengkhawatirkan. Berdasarkan Indonesia National
+Adolescent Mental Health Survey (I-NAMHS) tahun 2022, remaja usia 10-17 tahun di Indonesia, satu dari tiga
+diantaranya mempunyai gangguan kesehatan mental dalam 12 bulan terakhir atau setara dengan 15,5 juta
+remaja di dalam negeri. Data surveymeter pada tahun 2020, memperlihatkan terdapat 55% penduduk
+mengalami gangguan cemas dan 58% penduduk mengalami depresi dengan jumlah penderita perempuan lebih
+banyak dibandingkan laki-laki [12]
+.
+Selain itu sejak 2018 lalu, Hasil Riset Kesehatan Dasar (Riskesdas) menemukan bahwa prevalensi
+gangguan jiwa yang dapat diketahui dari adanya gejala depresi pada orang berusia di atas 15 tahun meningkat
+menjadi 6,1%. Prevalensi gangguan jiwa skizofrenia/psikosis pada asisten rumah tangga pada Riskesdas 2018
+adalah 6,7% atau sebanyak 282 ribu orang. Disamping itu, sebesar 10% orang yang menderita gangguan mental
+emosional berusia antara 15 hingga 24 tahun termasuk usia remaja [13]
+.
+Efek pandemi COVID-19 juga berpotensi membawa tantangan besar bagi sistem kesehatan dan
+ekonomi global jika tidak ditangani secara efektif [14]. Keadaan saat ini telah melumpuhkan berbagai sektor
+tidak hanya melumpuhkan sektor kesehatan tetapi juga ekonomi. Banyak orang yang harus tetap bertahan hidup
+meski telah kehilangan pekerjaan dikarenakan lumpuhnya sector ekonomi. Hal ini dapat menyebabkan
+kesehatan mental yang terganggu jika kurangnya support dari diri sendiri, keluarga maupun teman [15]
+.
+Oleh karena itu diperlukan suatu sistem kebijakan pemerintah terkait penanganan kesehatan mental
+khususnya pada masa Pandemi COVID-19. Artikel ini akan membahas mengenai kondisi kesehatan mental di
+Indonesia beserta tantangan dan upaya kebijakan kesehatan mental yang telah dilakukan dalam mengatasi
+permasalahan mental di tengah pandemi COVID-19.
+METODE
+Pendekatan kualitatif analitik digunakan dalam penelitian ini dengan mengumpulkan informasi melalui
+wawancara yang disiarkan di platform YouTube berupa hasil diskusi pada siaran berita online dan siaran radio
+online, serta hasil wawancara yang dituangkan dalam website berita online dalam rentang waktu tahun 2019-
+2022. Data dikumpulkan dan dianalisis, untuk mengeksplorasi isu yang terkait dengan kesehatan mental yang
+terjadi pada masa pandemi COVID-19 dan juga kebijakan serta tantangan yang dihadapi.
+ISSN: 2654-8127
+39
+Untuk membatasi jarak fisik pada masa Pandemi COVID-19, peneliti menggunakan data sekunder
+dimana wawancara tidak dilakukan secara tatap muka atau langsung, melainkan peneliti memanfaatkan
+platform internet yang banyak menampung hasil wawancara dari berbagai aktor yang ahli dalam bidangnya.
+Data sekunder hasil wawancara yang digunakan adalah yang berkaitan dengan pentingnya masalah kesehatan
+mental, kondisi kesehatan mental di Indonesia, Tantangan kebijakan kesehatan mental pada masa Pandemi
+COVID-19 di Indonesia serta upaya pemerintah melalui suatu kebijakan dalam menanggulangi permasalahan
+tersebut.
+Tabel 1. Karakteristik Informan
+Media Posisi (background) Nama Informan
+Website
+CVO Kalbu (Platform
+online Kesehatan
+mental)
+Iman Hanggautomo Informan 1
+Youtube Psikologi Klinis Firman Ramdhani,
+S.Psi., M.Psi Informan 2
+Youtube (siaran berita
+online)
+Plt. Dirjen
+Pencegahan dan
+Pengendalian
+Penyakit Kemenkes
+RI
+dr. Maxi Rein
+Rondonuwu, DHSM.,
+MARS.
+Informan 3
+Youtube (siaran radio
+online)
+Direktur Pencegahan
+dan Pengendalian
+Masalah Kesehatan
+Jiwa dan Napza
+Dr. Celestinus Eigya
+Munthe, SpKJ., M.Kes Informan 4
+Website Kepala World Health
+Organization
+Tedros Adhanom
+Ghebreyesus
+Informan 5
+Website
+Head of Content
+Platform “Satu
+Persen”
+Nabila Isnandini Informan 6
+Website
+Praktisi Ahli
+Kesehatan Jiwa dan
+Mental
+Dr. dr. Warih Andan
+Puspitosari, M.Sc.,
+Sp.Kj. (K)
+Informan 7
+HASIL
+Hasil informasi dari studi ini didapatkan dari berbagai informan dengan background posisi dan
+karakteristik yang bervariasi seperti tampilan pada tabel 1.
+Informasi terkait pentingnya Kesehatan mental, Kondisi Kesehatan mental di Indonesia saat ini,
+tantangan Kesehatan mental di Indonesia dan upaya kebijakan Kesehatan mental dipaparkan sebagai berikut :
+Pentingnya Kesehatan Mental
+“Kesehatan mental sama pentingnya dengan kesehatan fisik. Seperti halnya fisik yang sakit harus
+diobati, maka mental yang sakit juga harus mendapatkan penanganan dari para ahlinya” [16]
+(Informan 1).
+“Sebenarnya tidak hanya saat pandemi saja jadi penting, secara umum kesehatan mental itu luar biasa
+penting karena WHO pun pernah bilang tidak ada kesehatan fisik sejati tanpa kesehatan mental. Ibarat
+kata kalau kita punya kesehatan fisik tapi secara mental kita bermasalah yaitu gak kalah beratnya juga”
+[17] (Informan 2).
+“Investasi untuk kesehatan mental adalah investasi untuk kehidupan dan masa depan yang lebih baik
+untuk semua" [18] (Informan 5).
+Kondisi Kesehatan Mental di Indonesia Saat Ini
+Jika disejajarkan dengan beberapa decade yang lalu, kesehatan mental di Indonesia sudah lebih baik
+meskipun penanganan nya dapat dikatakan lambat dan belum merata, hal ini sejalan dengan opini dari beberapa
+informan dibawah ini:
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat ISSN: 2654-8127
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat, Vol. 6, No. 1, Februari 2023: 37-44
+40
+“kondisi kesehatan mental di Indonesia saat ini sebenarnya sudah membaik dibandingkan sekitar lima
+tahun lalu, Seperti dalam aspek informasi, kesadaran, dan ketersediaan bantuan dari pemerintah. Tetapi,
+masih jauh banget dari ideal” [19]
+(Informan 6).
+“Kesadaran masyarakat Indonesia terkait kesehatan mental di Indonesia saat ini cukup baik, namun
+layanan masalah mental di Indonesia ini belum merata” [20]
+(Informan 7).
+Tantangan Kesehatan mental di Indonesia
+Tantangan yang dihadapi cukup banyak seperti yang dipaparkan oleh informan sebagai berikut:
+“akses informasi dan ketersediaan masih terbatas di penduduk yang bermukim di kota-kota besar.
+Jumlah tenaga kesehatan mental yang masih sedikit diberdayakan, hingga masih banyak masyarakat
+yang punya stigma negatif” [19]
+(Informan 6).
+Selain itu, terdapat pula beberapa tantangan serupa yang sejalan dengan pendapat informan sebelumnya,
+pertama yaitu mengenai keterbatasan sumber daya manusia (SDM) khususnya dokter spesialis jiwa, psikologi
+klinis dan tenaga Kesehatan mental lainnya.
+“kita tahu bersama keterbatasan dokter spesialis jiwa di Indonesia hanya 1.100 orang dengan penduduk
+200 juta an orang. Disamping itu keterbatasan tenaga-tenaga tertentu, perawat terlatih terutama di
+layanan primer” [21]
+(Informan 3).
+Tantangan selanjutnya mengenai masalah akses pelayanan mulai dari obat-obatan sampai dengan
+pelayanan kesehatan yang sifatnya promotif, preventif, kuratif dan rehabilitatif.
+“akses pada pelayanan termasuk ketersediaan obat-obatan yang masih banyak juga terjadi kekosongan
+obat, pengelolaan obat psikiatri, obat-obat keras di layanan primer ini harus dikelola dengan baik” [21]
+(Informan 3).
+“Sekitar 75-90% ODGJ tidak dapat mengakses pelayanan kesehatan jiwa, di negara maju juga tidak
+lebih baik dari negara berkembang. Terdapat kesenjangan yang besar antara orang kaya dan orang yang
+miskin untuk memenuhi upaya dalam mendapatakan akses dalam pelayanan kesehatan jiwa” [22]
+(Informan 4).
+Hal yang tidak kalah penting dan harus menjadi prioritas adalah masalah mengenai stigma dan
+diskriminasi yang masih sangat kuat di tengah masyarakat, terhadap orang yang mengalami gangguan mental.
+“masih tingginya angka stigma dan diskriminasi untuk ODGJ, jadi saya kira ini perlu keseriusan” [21]
+(Informan 3).
+“masih adanya stigma dan diskriminasi yang harus dihadapi oleh ODGJ dan keluarganya yang tidak
+hanya berefek secara fisik dan mental tetapi membatasi kesempatan dalam pendidikan serta
+memperoleh pekerjaan untuk menghidupi diri sendiri dan keluarganya” [22]
+(informan 4).
+Poin terakhir dari tantangan Kesehatan mental yang di alami saat ini adalah terkait dengan investasi
+anggaran kesehatan jiwa.
+“masalah investasi kesehatan jiwa yang masih rendah, jika dibandingkan dengan proporsi anggaran
+kesehatan secara keseluruhan yang berkontribusi untuk mengatasi kesenjangan pelayanan kesehatan
+jiwa” [22]
+(informan 4)
+Upaya Kebijakan Kesehatan Mental di Indonesia
+Dari berbagai permasalahan dan tantangan yang dihadapi, dilakukan suatu upaya pemerintah melalui
+kebijakan Transformasi Kesehatan, khusus nya kesehatan mental.
+“saya kira pemerintah (Kementerian Kesehatan) melakukan transformasi kesehatan termasuk salah satu
+kesehatan jiwa. Tentu kita juga melakukan revitalisasi pelayanan kesehatan di rumah sakit jiwa” [21]
+(Informan 3).
+ISSN: 2654-8127
+41
+Sejalan dengan pendapat dari informan lain “Kita mempunyai 6 agenda Transformasi dalam
+mengupayakan suatu transformasi layanan prima, dimana sebelumnya berfokus pada kuratif dan
+rehabilitatif, kita akan mengupayakan perubahan transformasi menjadi upaya promotif dan preventif”[22]
+(Informan 4)
+PEMBAHASAN
+Pentingnya Kesehatan Mental
+Hubungan kesehatan fisik dan kesehatan mental menjadi satu kesatuan yang penting, ketika seseorang
+terganggu secara fisik maka ia dapat dimungkinkan juga terganggu secara mental dan sebaliknya. Sehat dan
+sakit adalah suatu keadaan biopsikososial yang berkaitan dengan kehidupan manusia [23]. Masalah kesehatan
+mental merupakan investasi masa depan dan bukanlah masalah yang bisa dipandang sebelah mata.
+Kondisi mental yang terganggu memiliki dampak yang luas, bisa mempengaruhi kondisi kesehatan fisik
+seseorang dan berdampak secara sosial. Dapat dilihat dari definisi kesehatan secara menyeluruh, bahwa
+esehatan mental menjadi bagian dari komponen mendasar dan menjadi bagian penting dalam tatanan siklus
+kehidupan seseorang seperti yang dikemukakan WHO “there is no health without mental health” inilah yang
+kemudian menjadi penting bagi seluruh negara untuk mengangkat isu esehatan mental sebagai prioritas [24]
+.
+Kondisi Kesehatan Mental di Indonesia
+Kondisi kesehatan mental di Indonesia mulai membaik jika diperbandingkan dengan beberapa tahun
+sebelumnya, hal ini dapat dilihat dari adanya layanan BPJS yang sudah dapat menanggung biaya layanan
+konsultasi kesehatan mental, meskipun beberapa masyarakat masih awam terkait dengan hal ini, dibuktikan
+dengan data Surveymeter bahwa 7 dari 10 orang tidak mengetahui bahwa saat ini layanan konsultasi kesehatan
+mental bisa ditanggung oleh BPJS. Selanjutnya sejak tahun 2014 lalu, telah di terbitkan juga UU No.18 Tahun
+2014 yang mengatur tentang Kesehatan Mental. Adanya Undang-undang tersebut menjadi bentuk keberhasilan
+para pejuang mental awareness dalam menyuarakan agar Indonesia menjadi negara yang ramah dengan isu
+mental health.
+Selain itu, dilihat dari perkembangan aspek informasi seperti keberadaan platform digital, munculnya
+komunitas dan organisasi lintas masyarakat yang mulai menyebarluaskan isu mental awareness, ditengarai
+menjadi bukti kesadaran masyarakat terkait kesehatan mental yang kini mulai membaik. Namun yang perlu
+diperhatikan seiring dengan perkembangan teknologi, kita harus bisa bijak dalam menyerap setiap informasi
+yang ada.
+Dalam porsi yang seimbang, dampak positif dari kemudahan akses penggunaan internet atau media
+sosial dapat kita rasakan, misalnya lebih mudah mencari informasi, terjalin komunikasi hingga bertukar pikiran
+serta mencari hiburan. Namun meningkatnya penggunaan internet selama masa Pandemi COVID-19
+menyebabkan dampak negatif dari segi kesehatan mental berupa penyalahgunaan dalam mencari informasi dan
+kecanduan media sosial yang menyebabkan terganggunya kondisi psikologis atau berisiko terjangkit masalah
+Kesehatan mental [25]
+.
+Meskipun dalam beberapa hal diatas sudah membaik, masalah kesehatan mental di Indonesia masih
+belum merata dan jauh dari kata ideal. Hal ini terkait dengan masih banyaknya tantangan yang dihadapi oleh
+Pemerintah dalam mengupayakan masalah kesehatan mental di Indonesia.
+Tantangan Kesehatan Mental di Indonesia
+Jumlah tenaga profesional kesehatan mental dan jiwa di Indonesia belum sepenuhnya memenuhi
+kebutuhan masyarakat. Kebutuhan tenaga profesional kesehatan jiwa yaitu 1 orang tiap jumlah 30.000
+penduduk, artinya jika jumlah penduduk Indonesia adalah 275 juta jiwa, maka dibutuhkan setidaknya 9.167
+tenaga profesional. Namun faktanya, Berdasarkan data Profil Kesehatan Indonesia Tahun 2019 menunjukkan
+Jumlah Tenaga Psikologi Klinis di fasilitas pelayanan kesehatan Indonesia adalah 1.468 dengan 262 tenaga
+psikologi klinis tersebar di puskesmas di Indonesia dan 1.140 tersebar di seluruh rumah sakit di Indonesia [13]
+.
+Hal ini menunjukkan bahwa proporsi tenaga psikologi klinis yang berada di Rumah sakit di Indonesia
+menduduki peringkat ke 3 dengan proporsi tenaga kesehatan paling rendah, dibandingkan jumlah tenaga
+kesehatan lainnnya. Kurangnya SDM ini pada akhirnya membawa pengaruh besar terhadap upaya pelayanan
+kesehatan jiwa yang diberikan kepada masyarakat.
+Selanjutnya pelatihan tenaga kesehatan yang belum dilaksanakan secara berkala dan merata, membuat
+kurangnya kompetensi tenaga kesehatan yang menangani kesehatan jiwa, sehingga ketersediaan tenaga
+kesehatan di puskesmas umumnya hanya ada dokter dan perawat umum saja akibat minimnya tenaga kesehatan
+jiwa seperti psikolog dan psikiater. Persebaran Psikolog dan Psikiater yang belum merata, hal ini diikuti juga
+dengan ketersediaan terkait akses layanan Kesehatan mental dimana Sebagian besar lebih banyak ditemukan
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat ISSN: 2654-8127
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat, Vol. 6, No. 1, Februari 2023: 37-44
+42
+di kota-kota besar. Terhitung sejak tahun 2018, Indonesia tercatat hanya memiliki 48 rumah sakit jiwa dari
+total 33 provinsi, dimana 8 provinsi lainnya belum memiliki rumah sakit jiwa [19]
+.
+Tercantum dalam undang-undang nomor 18 tahun 2014 tentang kesehatan mental pada Bab II bahwa
+upaya kesehatan Jiwa dapat dilakukan melalui Upaya promotif, preventif, kuratif dan rehabilitatif. Namun
+dalam implementasinya masih ditemui berbagai masalah, misalnya berdasarkan penelitian PPH (Pusat
+penelitian HIV/AIDS UNIKA Atmajaya) diketahui bahwa pada upaya kesehatan jiwa di puskesmas melalui
+layanan promotif belum rutin dilakukan, selanjutnya pada upaya preventif berupa deteksi dini ODMK (Orang
+dengan masalah kejiwaan) belum rata terlaksana [26]
+.
+Pada upaya kuratif terdapat tiga macam variasi puskesmas yang ditengarai masih memperlihatkan
+adanya kesenjangan yaitu ada puskesmas yang bisa menyediakan konseling dan pengobatan, ada puskesmas
+yang hanya bisa menyediakan pengobatan dan rujukan, dan yang terakhir ada puskesmas yang hanya mampu
+memberikan rujukan saja tanpa memberikan konseling maupun pengobatan. Hal ini menimbulkan rumah sakit
+jiwa yang seharusnya merupakan layanan tersier, saat ini beralih fungsi menjadi puskesmas besar yang sekelas
+dengan layanan primer bagi upaya kesehatan jiwa karena kurangnya kompetensi tenaga kesehatan yang
+menangani pada tingkat primer seperti di puskesmas. Selanjutnya upaya terakhir adalah upaya rehabilitasi yang
+hanya tersedia pada sebagian kecil puskesmas saja.
+Selain itu, pada upaya kuratif, permasalahan selanjutnya ada ketersediaan komponen obat yaitu belum
+ada kebijakan yang jelas untuk mengatur bagaimana ketersediaan obat kesehatan jiwa di puskesmas,
+dampaknya yaitu ada puskesmas yang tidak bisa menyediakan obat bagi pasien yang mengalami kesehatan
+jiwa tetapi ada juga beberapa puskesmas yang sudah menyediakan tapi sayangnya kerap terjadi kekosongan
+stok obat.
+Hal lainnya yang menjadi penting adalah karena masih adanya stigma dan diskriminasi terhadap
+penderita gangguan mental [27]. Adanya stigma ini memunculkan situasi bahwa seseorang yang merasakan
+gangguan mental memiliki kecenderungan tertutup dan enggan menceritakan masalah yang dihadapi,
+dikarenakan malu dan takut merasa terdiskriminasi oleh pendapat orang lain terhadap situasi yang dihadapi
+nya, sehingga mereka lebih memilih memendam masalah nya sendiri.
+Tindakan Pemerintah guna mengurangi stigma gangguan jiwa belum berjalan dengan baik. Banyak
+masyarakat yang masih mendiskriminasi orang dengan gangguan jiwa. Hal ini didukung dengan studi yang
+dilakukan oleh Mestdagh bahwa masih banyak pasien gangguan jiwa yang terdiskriminasi padahal mereka
+sudah melakukan perawatan kesehatan mental yang berbasis komunitas [28]. Selanjutnya ditunjang juga dengan
+studi yang dilakukan oleh Muhlisin yang menemukan bahwa pasien yang sudah sembuh dari gangguan jiwa
+lalu kembali ke masyarakat tidak menerima dukungan dari rekan-rekan, keluarga sampai lingkungan
+masyarakat dikarenakan masyarakat khawatir penyakitnya akan kambuh lagi [29]
+.
+Komponen terakhir yaitu permasalahan investasi kesehatan mental dan jiwa. Dalam laporan World
+Mental Health, terdapat peningkatan sebanyak 25% depresi dan gangguan kecemasan pada tahun awal
+terjadinya pandemi, namun justru anggaran nasional yang digunakan untuk investasi terkait Kesehatan mental
+hanya sebesar 2% dan anggaran bantuan Kesehatan internasional hanya digunakan 1% saja [18]. Angka ini
+sangatlah rendah mengingat tajamnya peningkatan masalah mental di seluruh dunia.
+Selain itu seperti yang kita tahu bahwa APBD adalah salah satu sumber pembiayaan operasional
+puskesmas dan sayangnya APBD ini masih berpatokan pada SPM (Standar Pelayanan Minimal) dimana SPM
+kesehatan jiwa sampai saat ini berfokus pada pelayanan kuratif orang dengan ganguan jiwa berat saja. Hal ini
+menjadi salah satu sebab bahwa akses pelayanan kesehatan mental di Indonesia masih sulit. Kemenkes RI
+memperkirakan sebesar 90% orang yang mengalami gangguan kesehatan mental tidak menerima akses
+terhadap perawatan kesehatan yang layak [30]
+.
+Upaya Kebijakan Kesehatan Mental di Indonesia
+Adanya berbagai permasalahan dan tantangan kesehatan mental tentu akan menciptakan variasi yang
+berbeda atau ketidaksetaraan pelayanan kesehatan jiwa antara puskesmas yang satu dengan puskesmas yang
+lain. Untuk itu perlu dilakukan upaya penanggulangan yang menyeluruh, salah satunya melalui Transformasi
+kesehatan khususnya kesehatan mental dan jiwa. Upaya tersebut telah dilakukan oleh pemerintah dalam hal ini
+Kementerian Kesehatan RI, dimana dalam transformasi kesehatan terdapat 6 pilar perbaikan.
+Pilar pertama yaitu perbaikan layanan primer dimana dalam upaya kesehatan mental yang sebelumnya
+lebih fokus pada kuratif dan rehabilitatif menjadi upaya promosi dan preventif, tentunya melalui layanan
+edukasi umum tentang kesehatan jiwa dan mengupayakan penyelenggaraan pencegahan primer dan sekunder
+gangguan jiwa melalui pemberian pelatihan dan bimbingan teknis serta pendampingan bagi para petugas di
+kesehatan agar dapat memahami situasi kehidupan pasien yang datang membutuhkan pengobatan di
+puskesmas. Selanjutnya mengupayakan peningkatan kapasitas dan kapabilitas tenaga kesehatan di layanan
+primer untuk dapat melakukan suatu upaya deteksi dini dan tata laksana serta konsultasi, dan juga
+ISSN: 2654-8127
+43
+mengupayakan kemudahan akses dan peningkatan layanan sekunder dan tersier yg dilaksanakan di rumah sakit
+jiwa maupun rumah sakit umum.
+Pilar kedua yaitu perbaikan layanan rujukan dimana mengupayakan penguatan sistem rujukan bagi
+kasus gangguan jiwa yang tidak dapat dilakukan pada tingkat pelayanan kesehatan primer. Pilar ketiga yaitu
+perbaikan sistem ketahanan kesehatan, dimana mengupayakan transformasi ketahanan kesehatan seperti
+pemenuhan kebutuhan obat-obatan termasuk upaya penanggulangan manajemen krisis dimana dalam kondisi
+yang darurat salah satunya dapat memberikan suatu layanan telemedicine dimana suatu hotline service di
+rumah sakit jiwa agar rumah sakit jiwa dapat menjangkau lapisan masyarakat yang jauh dan belum sempat
+datang ke rumah sakit.
+Pilar keempat yaitu transformasi pembiayaan kesehatan dimana menyelaraskan regulasi pembiayaan
+dan standarisasi pelayanan agar ODGJ yang mendapatkan pelayanan kesehatan jiwa dapat tercover dalam JKN.
+Pilar kelima yaitu adanya pemenuhan SDM Kesehatan, jadi dalam hal ini ketersediaan SDM akan terbuka
+untuk perekrutan dan peningkaatan kapasitas untuk psikiater atau sub spesialis termasuk tenaga-tenaga
+penunjang lainnya secara berkala. Hal ini guna meningkatkan pelayanan kesehatan jiwa yang bermutu dan
+aman artinya tenaga atau para pelaksana kesehatan jiwa adalah orang-orang yang kompeten. Selanjutnya pilar
+terakhir yaitu transformasi teknologi kesehatan, seperti menyediakan sistem dan regulasi tentang standar
+fasilitas kesehatan jiwa yang aman dan dapat menjamin pemenuhan hak asasi manusia serta pemanfaatan
+telemental health (TMH) atau telepsikologi salah satunya dalam bentuk layanan SEJIWA sebagai pelayanan
+konsultasi psikologi secara online yang memberikan dukungan kesehatan mental pada masa pandemi COVID19 dengan keterbatasan interkasi secara fisik.
+KESIMPULAN
+Kesehatan mental sangat penting karena tidak ada kesehatan fisik yang sejati tanpa kesehatan mental
+dan investasi kesehatan mental merupakan investasi untuk kehidupan masa depan yang lebih baik. Kondisi
+kesehatan mental di Indonesia saat ini sudah lebih baik dibandingkan dengan tahun-tahun sebelumnya, dimana
+biaya layanan untuk konsultasi kesehatan mental dapat ditanggung oleh BPJS dan sudah mulai banyak
+komunitas atau organisasi yang menyebarluaskan isu mental awareness. Tetapi masih banyak tantangan yang
+dihadapi yaitu kurangnya tenaga profesional kesehatan mental dan jiwa di Indonesia, kurangnya kompetensi
+tenaga kesehatan jiwa akibat pelatihan tenaga kesehatan belum merata, upaya kesehatan jiwa di puskesmas
+melalui layanan promotif dan preventif belum rutin dilakukan, ketersediaan obat juga sering mengalami
+kekosongan. Selain itu terdapat stigma dan diskriminasi terhadap orang yang mengalami gangguan mental dan
+sulitnya akses terhadap kesehatan mental.
+Menanggapi kompleks nya masalah kesehatan terkait kesehatan mental di Indonesia, diperlukan
+dukungan dan upaya yang sejalan dari level atas hingga ke level terbawah agar pengimplementasian kebijakan
+transformasi kesehatan yang telah dibuat dapat berjalan efektif, hal ini dapat dicapai dengan menggiatkan
+promosi layanan kesehatan jiwa yang mudah akses maupun biaya termasuk edukasi kepada keluarga, dimana
+peran dan dukungan keluarga sangat penting dalam penyembuhan pasien, selanjutnya melakukan skrinning
+dini kesehatan jiwa sebagai upaya preventif, menjamin ketersediaan obat bagi pasien di puskesmas sebagai
+upaya kuratif dan juga dibentuknya peer support group serta kerjasama dengan panti sosial sebagai upaya
+rehabilitatif. Selain itu, diperlukan pemantauan kinerja kader kesehatan jiwa dan juga koordinasi dengan
+pelibatan lintas sektor agar tantangan terkait ketidaksetaraan pelayanan kesehatan mental dan jiwa dapat
+diatasi.
+DAFTAR PUSTAKA
+[1]. Kementerian Kesehatan Republik Indonesia, Pedoman dan Pencegahan Coronavirus (COVID- 19) Revisi 5. 2020.
+[2]. World Health Organization, “Coronavirus Disease 2019 (COVID-19) Situation Report,” 2022. Accessed: Oct. 17, 2022. [Online].
+Available: https://www.who.int
+[3]. L. Jacob et al., “The relationship between physical activity and mental health in a sample of the UK public: A cross-sectional
+study during the implementation of COVID-19 social distancing measures,” Ment Health Phys Act, vol. 19, Oct. 2020, doi:
+10.1016/j.mhpa.2020.100345.
+[4]. W. Setyaningrum and H. A. Yanuarita, “Pengaruh Covid-19 Terhadap Kesehatan Mental” Jurnal Ilmu Sosial dan Pendidikan,
+vol. 4, no. 4, pp. 550–556, 2020.
+[5]. M. Mawarpury, R. Rosemary, and S. K. Sebayang, “260 Juta Orang dan Kurang dari 1000 Psikiater, Indonesia Kekurangan
+Pekerja Kesehatan Mental,” The Conversation, Nov. 02, 2018. https://theconversation.com/260-juta-orang-dan-kurang-dari1000-psikiater-indonesia-kekurangan-pekerja-kesehatan-mental-105969 (accessed Nov. 11, 2022).
+[6]. I. A. Ridlo, “Pandemi COVID-19 dan Tantangan Kebijakan Kesehatan Mental di Indonesia,” INSAN Jurnal Psikologi dan
+Kesehatan Mental, vol. 5, no. 2, p. 162, Nov. 2020, doi: 10.20473/jpkm.v5i22020.162-171.
+[7]. World Health Organization, “Novel Coronavirus (2019-nCoV) Situation Report,” Feb. 2020. Accessed: Nov. 11, 2022. [Online].
+Available: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200202-sitrep-13-ncov-v3.pdf)
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat ISSN: 2654-8127
+PROMOTOR : Jurnal Mahasiswa Kesehatan Masyarakat, Vol. 6, No. 1, Februari 2023: 37-44
+44
+[8]. Kementerian Kesehatan RI, “Pengertian Kesehatan Mental,” Direktorat Promosi Kesehatan dan Pemberdayaan Masyarakat, Jun.
+08, 2018. https://promkes.kemkes.go.id/pengertian-kesehatan-mental (accessed Nov. 11, 2022).
+[9]. Change.org, “Survey Apa Kabarmu,” 2021. https://www.change.org/l/id/surveiapakabarmu (accessed Nov. 16, 2022).
+[10]. L. E. Smith, A. L. Mottershaw, M. Egan, J. Waller, T. M. Marteau, and G. J. Rubin, “The impact of believing you have had
+COVID-19 on self-reported behaviour: Cross-sectional survey,” PLoS ONE, vol. 15, no. 11 November. Public Library of Science,
+Nov. 01, 2020. doi: 10.1371/journal.pone.0240399.
+[11]. Indonesia National Adolescent Mental Health Survey, “Hasil Survei I-NAMHS: Satu dari Tiga Remaja Indonesia Memiliki
+Masalah Kesehatan Mental,” Universitas Gadjah Mada, Oct. 24, 2022. https://ugm.ac.id/id/berita/23086-hasil-survei-i-namhssatu-dari-tiga-remaja-indonesia-memiliki-masalah-kesehatan-mental (accessed Nov. 11, 2022).
+[12]. W. Suriastini, B. Sikoki, and Listiono, “Gangguan Kesehatan Mental Meningkat Tajam : Sebuah Panggilan Meluaskan Layanan
+Kesehatan Jiwa,” Jul. 2020.
+[13]. Kementerian Kesehatan RI, “Profil Kesehatan Indonesia 2019,” Jakarta, 2019. Accessed: Nov. 01, 2022. [Online]. Available:
+http://www.kemkes.go.id
+[14]. Y. Liu, J. M. Lee, and C. Lee, “The challenges and opportunities of a global health crisis: the management and business
+implications of COVID-19 from an Asian perspective,” Asian Business and Management, vol. 19, no. 3, pp. 277–297, Jul. 2020,
+doi: 10.1057/s41291-020-00119-x.
+[15]. Kementerian Kesehatan RI, “Tetap Jaga Kesehatan Mental di Masa Duka Pandemi,” Direktorat Promosi Kesehatan dan
+Pemberdayaan Masyarakat, Aug. 04, 2021. https://promkes.kemkes.go.id/tetap-jaga-kesehatan-mental-di-masa-duka-pandemi
+(accessed Nov. 11, 2022).
+[16]. I. Hanggautomo, “Hari Kesehatan Mental Sedunia : Kesehatan Mental Sama Pentingnya dengan Kesehatan Jasmani,” Satuan
+Tugas Penanganan COVID-19, Oct. 11, 2021. https://covid19.go.id/p/berita/hari-kesehatan-mental-sedunia-kesehatan-mentalsama-pentingnya-dengan-kesehatan-jasmani (accessed Oct. 16, 2022).
+[17]. F. Ramdhani, “Pentingnya Menjaga Kesehatan Mental,” Youtube Metro TV News. 2020. Accessed: Oct. 16, 2022. [Online].
+Available: https://youtu.be/ZwQ0sYFxvsk
+[18]. T. A. Ghebreyesus, “WHO: Masalah Kesehatan Mental di Dunia Meningkat Tajam Selama Pandemi,” Detik News, Jun. 17, 2022.
+https://news.detik.com/dw/d-6132804/who-masalah-kesehatan-mental-di-dunia-meningkat-tajam-selama-pandemi (accessed
+Oct. 16, 2022).
+[19]. N. Isnandini, “Masalah Kesehatan Mental di Indonesia,” Satu Persen Indonesian Life School, Oct. 2020.
+https://satupersen.net/blog/masalah-kesehatan-mental-di-indonesia (accessed Oct. 16, 2022).
+[20]. W. A. Puspitosari, “Dosen FKIK UMY Ingatkan Permasalahan Mental adalah Permasalah Serius,” Universitas Muhammadiyah
+Yogyakarta, Oct. 2021. https://www.umy.ac.id/dosen-fkik-umy-ingatkan-permasalahan-mental-adalah-permasalahan-serius
+(accessed Nov. 16, 2022).
+[21]. M. R. Rondonuwu, “Kesetaraan Kesehatan Jiwa di Indonesia,” Youtube Metro Tv News. 2021. Accessed: Oct. 16, 2022. [Online].
+Available: https://youtu.be/dFlOrSgzpRw
+[22]. C. E. Munthe, “Trijaya Hot Topik Pagi ‘Kesetaraan Kesehatan Jiwa di Indonesia.’” Youtube MNC Trijaya, 2021. Accessed: Oct.
+16, 2022. [Online]. Available: https://youtu.be/GvNTZaiikCM
+[23]. Y. A. Rozali et al., “Meningkatkan Kesehatan Mental di Masa Pandemic” 2021.
+[24]. World Health Organization, Mental Health Action Plan 2013-2020. Department of Mental Health and Substance Abuse, 2013.
+Accessed: Nov. 16, 2022. [Online]. Available: https://www.who.int/publications/i/item/9789241506021
+[25]. N. Z. Septiana, “Dampak Penggunaan Media Sosial Terhadap Kesehatan Mental dan Kesejahteraan Sosial Remaja di Masa
+Pandemi COVID-19,” Jurnal Nusantara of Research, vol. 8, no. 1, pp. 1–13, 2021, Accessed: Nov. 11, 2022. [Online]. Available:
+https://doi.org/10.29407/nor.v8i1.15632
+[26]. A. Az Zahra, “Dialog Kebijakan: Diseminasi Policy Brief Kesehatan Jiwa,” PPH Unika Atmajaya, Dec. 2020.
+https://pph.atmajaya.ac.id/berita/dokumentasi/dialog-kebijakan-diseminasi-policy-brief-kesehatan-jiwa/ (accessed Oct. 16,
+2022).
+[27]. Human Right Watch, Hidup di Neraka Kekerasan terhadap Penyandang Disabilitas Psikososial di Indonesia. 2016. [Online].
+Available: http://www.hrw.org
+[28]. A. Mestdagh and B. Hansen, “Stigma in Patients with Schizophrenia Receiving Community Mental Health Care: A Review of
+Qualitative Studies,” Social Psychiatry and Psychiatric Epidemiology, vol. 49, no. 1. pp. 79–87, Jan. 2014. doi: 10.1007/s00127-
+013-0729-4.
+[29]. A. Muhlisin and A. Pratiwi, “Model Pelayanan Kesehatan Berbasis Partisipasi Masyarakat untuk Meningkatkan Pelayanan
+Kesehatan Jiwa Pada Masyarakat Setempat: Literatur Review,” The 2nd University Research Coloquium, pp. 51–57, 2015,
+Accessed: Nov. 16, 2022. [Online]. Available: https://publikasiilmiah.ums.ac.id/xmlui/bitstream/handle/11617/6888/7-
+Model%20pelayanan%20kesehatan%20berbasis%20partisipasi%20masyarakat%20untuk%20meningkatkan%20pelayanan%20
+kesehatan%20jiwa%20pada%20masyarakat%20setempat.Pdf?Sequence=1&Isallowed=Y
+[30]. Kementerian Kesehatan RI, “Mengenal Isu Kesehatan Mental dan Tantangannya di Indonesia,” PSIKOPEDIA Binus University,
+Aug. 2021. https://student-activity.binus.ac.id/himpsiko/2021/08/mengenal-isu-kesehatan-mental-dan-tantangannya-diindonesia/ (accessed Nov. 16, 2022).

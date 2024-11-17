@@ -1,0 +1,539 @@
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer 1
+Pedoman Penyelenggaraan
+Kesehatan Jiwa di Fasilitas
+Kesehatan TingkatPertama
+PUSKESMAS
+Direktorat Pencegahan dan Pengendalian Masalah Kesehatan Jiwa dan Napza
+Direktorat Jenderal Pencegahan dab Pengendalian Penyakit
+KEMENTERIAN KESEHATAN RI
+Tahun 2020
+
+Pedoman Penyelenggaraan
+Kesehatan Jiwa di Fasilitas
+Kesehatan TingkatPertama
+Direktorat Pencegahan dan Pengendalian Masalah Kesehatan Jiwa dan Napza
+Direktorat Jenderal Pencegahan dab Pengendalian Penyakit
+KEMENTERIAN KESEHATAN RI
+Tahun 2020
+
+KATA SAMBUTAN
+Puji syukur ke hadirat Tuhan Yang Maha Kuasa, yang telah
+memberikan Rahmat dan Karunia-Nya sehingga Buku Pedoman
+Penyelenggaraan Kesehatan Jiwa di Fasilitas Kesehatan
+Tingkat Pertama, peran kesehatan Jiwa dalam meningkatkan
+kualitas dan pelayanan yang diberikan Puskesmas adalah
+tersedianya pelayanan kesehatan jiwa dan psikofarmaka di
+pelayanan kesehatan dasar. Berdasarkan data Riskesdas 2018
+didapatkan data kasus ODGJ berat adalah 1,8 per 1000 penduduk
+atau 429.332 ODGJ Berat. Terget layanan keswa terhadap ODGJ
+berat pada tahun 2024 adalah sebesar 100% sesuai Standar
+Pelayanan Minimum bidang kesehatan. Puskesmas sebagai ujung
+tombak pelayanan kesehatan jiwa dasar memegang peranan
+penting dalam menanggulangi gangguan jiwa.
+Program berikutnya adalah meningkatkan kuantitas dan kualitas
+SDM Medis. Dalam meningkatkan kualitas SDM di pelayanan
+kesehatan dasar agar mereka mampu melakukan deteksi dini dan
+penatalaksanaan masalah kesehatan jiwa pada pasien yang datang
+berobat ke pelayanan kesehatan dasar, telah dilakukan berbagai
+upaya untuk meningkatkan kemampuan tenaga baik dokter maupun
+perawat lewat pelatihan – pelatihan bagi dokter dan perawat yang
+bertugas di fasilitas pelayanan kesehatan dasar tersebut.
+Namun belum semua petugas di fasilitas tersebut mendapatkan
+kesempatan mengikuti pelatihan dimaksud, selain masih adanya
+berbagai kendala yang dihadapi oleh petugas dalam memberikan
+pelayanan kesehatan jiwa, juga pesatnya kemajuan teknologi dan
+ilmu pengetahuan khususnya farmakologi mengharuskan adanya
+perubahan pada beberapa cara dan strategi penatalaksanaan. Oleh
+karena itu untuk mengatasi keadaan ini diperlukan buku pedoman
+pelayanan kesehatan jiwa yang dapat dipergunakan di fasilitas
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+pelayanan kesehatan dasar sebagai penyempurnaan pedoman
+yang sudah ada serta untuk meningkatkan keterlibatan masyarakat
+pada aspek preventif dan promotif, efektifitas dalam tata laksana
+pelayanan kesehatan jiwa melalui seleksi obat esensial.
+Kami memberikan apresiasi kepada semua pihak, termasuk
+akademisi Organisasi Profesi, lintas sektor dan lintas program yang
+telah memberikan dukungan dan kontribusi dalam penyusunan
+pedoman ini. Semoga Tuhan Yang Maha Kuasa meridhoi kerja
+keras saudara. Kami menyadari bahwa buku pedoman ini belum
+sempurna, untuk itu masukan dan saran sangat kami harapkan
+untuk perbaikan di masa yang akan datang.
+Jakarta, November 2020
+Plt. Direktur jenderal P2P,
+Dr. H. Muhammad Budi Hidayat, M.Kes
+NIP. 197110032005011002
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+KATA PENGANTAR
+Pedoman Pelayanan Kesehatan Jiwa di Fasilitas Pelayanan
+Kesehatan Dasar telah diterbitkan tahun 2011, oleh Direktorat
+Jenderal Bina Pelayanan Medik, Direktorat Bina Pelayanan
+Kesehatan Jiwa, Kementerian Kesehatan RI. Namun pesatnya
+kemajuan teknologi dan ilmu pengetahuan khususnya farmakologi
+mengharuskan adanya perubahan pada beberapa cara dan
+strategi penatalaksanaan. Dalam dinamika perubahan yang juga
+begitu cepat, khususnya pasca pandemi Covid 19, maka perhatian
+terhadap kesehatan jiwa menjadi besar.
+Dengan dasartersebut di atas , maka dilakukan revisi buku Pedoman
+tersebut dengan judul Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer dan dicetak ulang dengan
+beberapa perubahan untuk dapat digunakan di seluruh fasilitas
+pelayanan kesehatan primer, sebagai penyempurnaan pedoman
+yang sudah ada serta untuk meningkatkan keterlibatan masyarakat
+pada aspek preventif dan promotif, efektifitas dalam tata laksana
+pelayanan kesehatan jiwa melalui seleksi obat esensial .
+Semoga buku pedoman ini dapat bermanfaat dalam pelayanan
+kesehatan jiwa, khususnya bagi petugas kesehatan yang berada
+fasilitas pelayanan kesehatan primer untuk mengembangkan
+program kesehatan jiwa dalam rangka meningkatkan derajat
+kesehatan masyarakat.
+saya ucapkan terima kasih atas jerih payah tim penyusun, tim
+pembahan dan semua pihak yang telah berpartisipasi dalam revisi
+buku ini sehingga buku ini dapat diterbitkan
+Jakarta, November 2020
+Direktur P2 Masalah Kesehatan Jiwa dan Napza
+dr. Siti Khalimah, Sp.KJ, MARS
+NIP. 197104162002122001
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+
+DAFTAR ISI
+ Halaman
+Pedoman Penyelenggaraan Kesehatan Jiwa
+ Di Fasilitas Kesehatatan Tingkat Pertama ........................................ 2
+Kata Sambutan ................................................................................ 5
+Kata Pengantar ................................................................................ 7
+Pendahuluan .................................................................................... 11
+Latar Belakang ................................................................................. 11
+Tujuan dan Sasaran ......................................................................... 13
+Landasan Hukum ............................................................................. 14
+Integrasi Kesehatan Jiwa di FKTP ................................................... 16
+Permasalahan Keswa Yang Bisa Terjadi Pada
+Setiap Fase Kehidupan Manusia ...................................................... 20
+Pengertian ........................................................................................ 23
+
+
+1.1 LATAR BELAKANG
+Undang-undang nomor 18 tahun 2014 tentang Kesehatan Jiwa
+menyebutkan bahwa upaya kesehatan jiwa diselenggarakan
+melalui pendekatan promotif, preventif, kuratif, dan rehabilitatif
+yang dilaksanakan secara terpadu, menyeluruh, dan
+berkesinambungan bersama-sama dengan lintas program
+dan lintas sektor terkait. Dalam rangka mewujudkan derajat
+kesehatan masyarakat yang setinggi-tingginya, berbagai
+upaya tengah diwujudkan agar dapat merealisasikan makna
+yang terkandung dalam Undang-undang tentang Kesehatan
+Jiwa tersebut.
+Salah satu upaya prevensi primer adalah dengan berorientasi
+pada kelompok masyarakatyang belum mengalami masalah
+maupun gangguan jiwa. Dalam upaya melakukan program
+prevensi ini maka diperlukan pedoman terkini layanan
+11
+BAB 1
+Pendahuluan
+kesehatan jiwa di pelayanan kesehatan tingkat primer. Upaya
+promotif dan preventif kesehatan jiwa saat ini lebih diutamakan
+melalui pendekatan siklus kehidupan dimulai dari saat pra
+nikah dan konsepsi hingga pendekatan di masa tumbuh
+kembang anak remaja sehingga menjadi sangat penting
+upaya mengenali faktor resiko masalah kejiwaan, pencegahan
+secara eksplisit, memperbaiki konsekuensi akibat kesulitan
+dan kerentanan kesehatan jiwa sejak dini yang diharapkan
+dapat mencegah morbiditas dan mortalitas akibat gangguan
+jiwa.
+Berdasarkan data mhgap yang dikeluarkan oleh WHO pada
+tahun 2017 burden of disease akibat penyakit jiwa adalah
+2,463.29 per 100,000 penduduk sedangkan burden of disease
+bunuh diri adalah 3,4 per 100,000 penduduk. Berdasarkan data
+Riskesdas 2018 didapatkan data kasus ODGJ berat adalah
+1,8 per 1000 penduduk atau 429.332 ODGJ Berat. Terget
+layanan keswa terhadap ODGJ berat pada tahun 2024adalah
+sebesar 100% sesuai Standar Pelayanan Minimum bidang
+kesehatan. ODGJ berat yang dipasung adalah 31,5% dari
+jumlah penderita sementara ODGJ yang teratur minum obat
+hanya 48.9 %. Pengkonsumsi Minuman beralkohol adalah
+3.3% dari jumlah penduduk Indonesia yang berusia ≥ 10 tahun.
+Data Depresi pada usia ≥ 15 tahun adalah 6,1 per 100,000
+penduduk, sedangkan gangguan mental emosional adalah 9.8
+per 100,000 penduduk.Besaran masalah sangat penting untuk
+perencanaan kegiatan pencegahan dan pengendalian serta
+perencanaan obat gangguan jiwa.
+Struktur Organisasi dan Tatalaksana Kementerian Kesehatan
+menetapkan salah satu fungsi Direktorat Kesehatan Jiwa
+Kementerian Kesehatan adalah menyelenggarakan fungsi
+penyiapan penyusunan norma, standar, prosedur, dan
+kriteria dalam upaya pencegahan dan pengendalian masalah
+kesehatan jiwa anak dan remaja, kesehatan jiwa dewasa
+dan lanjut usia serta penyalahgunaan NAPZA. Berbagai
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+masalah kejiwaan yang terjadi di keluarga dan masyarakat
+memerlukan deteksi dan intervensi dini yang meliputi masalahmasalah psikososial yang terjadi di keluarga dan masyarakat.
+Orang Dengan Masalah Kejiwaan (ODMK) adalah orang yang
+mempunyai masalah fisik, mental, sosial, pertumbuhan dan
+perkembangan dan/atau kualitas hidup sehingga memiliki resiko
+mengalami gangguan jiwa. Pembangunan masyarakat sehat jiwa
+diupayakan melalui pemberdayaan masyarakat, pengembangan
+deteksi dini masalah kesehatan jiwa berbasis masyarakat yang
+disertai pendampingan dan diharapkan akan memampukan dan
+memandirikan masyarakat.
+1.2 TUJUAN DAN SASARAN
+1.2.1. TUJUAN
+1.2.1.1 TUJUAN UMUM
+Tatakelola dan tatalaksana masalah kesehatan jiwa pada
+pelayanan kesehatan tingkat primer.
+1.2.1.2 TUJUAN KHUSUS
+Buku pedoman ini sebagai panduan bagi tenaga kesehatan
+di pelayanan kesehatan tingkat primer sehingga diharapkan
+mereka mampu:
+1. Mendeteksi secara dini masalahkesehatan jiwa
+pelayanan kesehatan primer.
+2. Menangani kasus gangguan jiwa di layanan kesehatan
+primer termasuk di lingkungan masyarakat
+3. Melakukan rujukan pada saat yang tepat bila diperlukan.
+1.2.2. SASARAN
+Sasaran dari buku pedoman ini adalah dokter, perawat, bidan
+dan tenaga kesehatan lainnya yang bekerja di pelayanan
+kesehatan primer.
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+Pedoman Penyelenggaraan Kesehatan Jiwa
+14 di Fasilitas Pelayanan Kesehatan Primer
+1.3 LANDASAN HUKUM
+1. UU No 36 tahun 2009 tentang Kesehatan
+2. UU No 35 tahun 2009 tentang Narkotika
+3. UU No 24 tahun 2011 tentang Badan Penyelengara
+Jaminan Sosial
+4. UU No 18 tahun 2014 tentang Kesehatan Jiwa
+5. UU No 35 tahun 2015 tambahan UU No 23 tahun
+2002 tentang Perlindungan Anak
+6. UU No 8 Tahun 2016 tentang Disabilitas
+7. Peraturan Pemerintah Nomor 38 tahun 2007 tentang
+Pembagian UrusanPemerintahan,AntaraPemerintah,
+Pemerintahan Daerah Provinsi, dan Pemerintahan
+Daerah Kabupaten/Kota
+8. Peraturan Pemerintah Nomor 2 tahun 2018 tentang
+Standar Pelayanan Minimal
+9. Peraturan Presiden Nomor 72 tahun 2012 tentang
+Sistem Kesehatan Nasional.
+10. Peraturan Presiden No 12 tahun 2013 tentang
+Jaminan Kesehatan
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer 15
+11. KMK No 514 tahun 2015 tentang Panduan Praktik
+Klinis Bagi Dokter di Fasilitas Pelayanan Kesehatan
+tingkat Pertama
+12. Peraturan Menteri Kesehatan No 25 tahun 2014
+tentang Upaya Kesehatan Anak
+13. Peraturan Menteri Kesehatan RI Nomor 39 tahun
+2016 tentang Program Indonesia Sehat Dengan
+Pendekatan Keluarga
+14. Peraturan Menteri Kesehatan No 4 tahun 2019 tentang
+Standar Pelayanan Minimal Bidang Kesehatan
+15. PermenkesNo54tahun2017tentangPenanggulangan
+Pemasungan Pada ODGJ
+16. Permenkes No 43 tahun 2019 tentang Puskesmas
+17. Permenkes No 4tahun 2020 tentangPenyelenggaraan
+Institusi Penerima Wajib Lapor
+18. Permenkes No 21 tahun 2020 tentang Rencana
+Strategis Kementerian Kesehatan Tahun 2020-2024
+1.4 INTEGRASI KESEHATAN JIWA DI PELAYANAN
+KESEHATAN PRIMER
+Kesehatan Jiwa disingkat Keswa adalah kondisi dimana
+seorang individu dapat berkembang secara fisik, mental,
+spiritual, dan sosial sehingga individu tersebut menyadari
+kemampuan sendiri, dapat mengatasi tekananstress, dapat
+bekerja secara produktif dan mampu memberikan kontribusi
+untuk komunitasnya (Undang-Undang No. 18 Tahun 2014
+tentang Kesehatan Jiwa).
+Upaya Keswa adalah setiap kegiatan untuk mewujudkan
+derajat kesehatan jiwa yang optimal bagi setiap individu,
+keluarga, dan masyarakat dengan pendekatan promotif,
+preventif, kuratif, dan rehabilitatif diselenggarakan secara
+menyeluruh, terpadu, dan berkesinambungan oleh
+Pemerintah, Pemerintah Daerah dan melibatkan seluruh
+komponen masyarakat.
+Upaya preventif Kesehatan Jiwa ditujukan untuk :
+1. Mencegah terjadinya masalah kejiwaan.
+2. Mencegah timbulnya dan/atau kambuhnya gangguan
+jiwa
+3. Mengurangi faktor risiko akibat gangguan jiwa pada
+masyarakat secara umumperorangan
+4. Mencegah timbulnya dampak masalah psikososial.
+Masalah psikososial adalah masalah sosial yang mempunyai
+dampak negatif dan berpengaruh terhadap munculnya
+gangguan jiwa atau masalah sosial yang muncul sebagai
+dampak dari gangguan jiwa. Masalah psikososial dapat
+diakibatkan olehbencana alam, dampak perilaku kekerasan,
+urbanisasi, kemiskinan, adiksi narkotika dan psikotropika,
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+dampak pornografi, game online, dan lain-lain sedangkan
+penyandang disabilitas menurut UU No 8 tahun 2016 adalah
+setiap orang yang mengalami keterbatasan fisik, intelektual,
+mental, dan/ atau sensorik dalam jangka waktu lama yang
+dalam berinteraksi dengan lingkungan dapat mengalami
+hambatan dan kesulitan untuk berpartisipasi secara penuh dan
+efektif dengan warga negara lainnya berdasarkan kesamaan
+hak.
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+TEMPLATE MASALAH KESWA DALAM SIKLUS KEHIDUPAN MANUSIA
+FASE PRAKONSEPSI DAN
+PRANATAL
+BAYI DAN ANAK
+USIA DINI
+MASA
+KANAKKANAK
+FASE REMAJA FASE
+DEWASA
+FASE
+LANSIA
+1. Menikah dan diluar nikah
+Masalah kelekatan dan perkembangan anak
+pada ibu depresi
+paska persalinan
+Perundungan Penyalahgunaan
+Napza/Gadget
+Pengangguran Penyakit
+degeneratif dan
+kronis
+2. Kehamilan
+dibawah umur dan
+diluar pernikahan
+Pola asuh orang
+tua
+Terpapar pornografi/Gadget/Napza
+Tekanan teman
+sebaya
+Konflik dalam
+rumah tanga
+Masalah
+kesepian
+3. Kehamilan yang
+tidak diinginkan
+Perkembangan
+fisik dan kognitif
+pada bayi dan
+anak usia dini
+Anak terlantar/jalanan
+Tuntutan sekolah Penyalahgunaan Napza/
+Gadget/Pornografi
+Masalah
+Isolasi
+Sosial
+4. Kehamilan
+dengan berisiko
+(depresi,kondisi
+medis umum,
+defisiensi mikronutrien, merokok,
+perilaku berisiko)
+Faktor sosial
+ekonomi buruk
+Anak korban
+konflik dan
+kekerasan
+Disorientasi diri
+dan seksual
+Karier dan
+lingkungan
+kerja
+Kehilangan (penghasilan,
+pasangan)
+5. Keturunan (Herediter)
+Pengaruh negatif
+keluarga besar
+(extended family)
+Perdagangan/
+ekploitasi
+anak
+Pengaruh media Sosial ekonomi Penelantaran
+6. Pengaruh media
+informasi
+Trauma psikis
+pada kejadian
+kehidupan
+negatif
+Hubungan seksual berisiko
+Jaminan Kesehatan
+Jaminan
+Kesehatan
+7. Pengaruh
+sekolah dan
+lingkungan
+Perilaku Kekerasan
+Isolasi Sosial
+dan Keluarga
+Masalah
+penurunan
+fungsi
+kognitif
+8. Masalah sosial ekonomi
+Keharmonisan
+rumah tangga
+Masalah
+tempat
+tinggal
+lansia
+9. Orangtua
+dengan gangguan jiwa dan
+penyalahgunaan zat
+Penyakit kronis Kehidupan
+spiritualitas
+(persiapan
+akhir kiehidupan)
+PERMASALAHAN KESWA YANG BISA TERJADI PADA
+SETIAP FASE KEHIDUPAN MANUSIA
+Prakonsepsi dan Pranatal
+1. Menikah dan diluar nikah
+2. Kehamilan dibawah umur dan diluar
+pernikahan
+3. Kehamilan yang tidak diinginkan
+4. Kehamilan dengan berisiko
+(depresi,kondisi medis umum,
+defisiensi mikronutrien, merokok,
+perilaku berisiko)
+5. Herediter
+Bayi dan Anak Usia Dini
+1. Masalah kelekatan dan
+perkembangan anak pada ibu
+depresi paska persalinan
+2. Pola asuh orang tua
+3. Perkembangan fisik dan kognitif
+pada bayi dan anak usia dini
+4. Faktor sosial ekonomi yang buruk
+5. Pengaruh negatif keluarga besar
+(extended family)
+6. Pengaruh media informasi
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+Anak Usia Sekolah
+1. Perundungan
+2. Terpapar pornografi/Gadget/Napza
+3. Anak terlantar/jalanan
+4. Anak korban konflik dan kekerasan
+5. Perdagangan/ekploitasi anak
+6. Trauma psikis pada kejadian
+kehidupan negatif
+7. Pengaruh sekolah dan lingkungan
+8. Masalah sosial ekonomi
+9. Orangtua dengan gangguan jiwa
+dan penyalahgunaan zat
+Remaja
+1. Penyalahgunaan Napza/Gadget
+2. Tekanan teman sebaya
+3. Tuntutan sekolah
+4. Disorientasi diri dan seksual
+5. Pengaruh media
+6. Hubungan seksual berisiko
+7. Perilaku Kekerasan
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+Dewasa
+1. Pengangguran
+2. Konflik rumah tangga
+3. Penyalahgunaan Napza/Gadget/
+Pornografi
+4. Karir dan lingkungan kerja
+5. Sosial ekonomi
+6. Jaminan kesehatan
+7. Isolasi sosial dan keluarga
+8. Keharmonisan rumah tangga
+9. Penyakit kronis
+Lansia
+1. Penyakit degeneratif dan kronis
+2. Masalah kesepian
+3. Masalah isolasi sosial
+4. Kehilangan (Penghasilan,pasangan,
+5. Penelantaran
+6. Jaminan kesehatan
+7. Masalah penurunan fungsi kognitif
+8. Masalah Tempat tinggal Lansia
+9. Kehidupan spiritualitas (persiapan akhir
+kehidupan)
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+1.5 PENGERTIAN
+ Kesehatan Jiwa adalah kondisi dimana seorang individu
+dapat berkembang secara fisik, mental, spiritual, dan
+sosial sehingga individu tersebut menyadari kemampuan
+sendiri, dapat mengatasi tekanan, dapat bekerja secara
+produktif, dan mampu memberikan kontribusi untuk
+komunitasnya.
+ Orang Dengan Masalah Kejiwaan yang selanjutnya
+disingkat ODMK adalah orang yang mempunyai masalah
+fisik, mental, sosial, pertumbuhan dan perkembangan,
+dan/atau kualitas hidup sehingga memiliki risiko
+mengalami gangguan jiwa.
+ Orang DenganGangguan Jiwa yang selanjutnya disingkat
+ODGJ adalah orang yang mengalami gangguan dalam
+pikiran, perilaku, dan perasaan yang termanifestasi dalam
+bentuk sekumpulan gejala dan/atau perubahan perilaku
+yang bermakna, serta dapat menimbulkan penderitaan
+dan hambatan dalam menjalankan fungsi orang sebagai
+manusia.
+ Upaya Kesehatan Jiwa adalah setiap kegiatan untuk
+mewujudkan derajat kesehatan jiwa yang optimal bagi
+setiap individu, keluarga, dan masyarakat dengan
+pendekatan promotif, preventif, kuratif, dan rehabilitatif
+yang diselenggarakan secara menyeluruh, terpadu,
+dan berkesinambungan oleh Pemerintah, Pemerintah
+Daerah, dan/atau masyarakat.
+ Pemerintah Pusat yang selanjutnya disebut Pemerintah
+adalah Presiden Republik Indonesia yang memegang
+kekuasaan Pemerintahan Negara Republik Indonesia
+sebagaimana dimaksud dalam Undang-Undang Dasar
+Negara Republik Indonesia Tahun 1945.
+ Menteri adalah menteri yang menyelenggarakan urusan
+pemerintahan di bidang kesehatan
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+ Pemerintah Daerah adalah Gubernur, Bupati, atau
+Walikota dan perangkat daerah sebagai unsur
+penyelenggara pemerintahan daerah.
+ Pembangunan nasional adalah upaya yang dilaksanakan
+oleh semua komponen bangsa dalam rangka mencapai
+tujuan bernegara.
+ Rencana pembangunan Jangka Panjang Nasional Tahun
+2005-2025 yang selanjutnya disebut sebagai RPJPN
+2005-2025 adalah dokumen perencanaan pembangunan
+nasional untuk periode 20 (dua puluh) tahun, yakni tahun
+2005 samapi dengan tahun 2025.
+ Rencana Pembangunan Jangka Menengah Nasional
+2019-2024 Bidang Kesehatan, yang selanjutnya disebut
+RPJMN 2019-2024 Bidang Kesehatan untuk periode 5
+(lima) tahunan ke 4 yakni tahun 2019 sampai dengan
+tahun 2024.
+ Rencana Strategis Kementerian Kesehatan 2020-2024
+selanjutnya disebut Renstra kemenkes adalah dokumen
+perencanaan Kementerian Kesehatan untuk periode
+antara tahun 2020 sampai dengan tahun 2024 yang
+memuat target Kemenkes dan UPT untuk mendukung
+tercapainya target RPJMN Bidang Kesehatan 2020-2024
+ Kinerja adalah keluaran/hasil dari kegiatan/program yang
+akan atau telah dicapai sehubungan dengan penggunaan
+anggaran dengan kuantital dan kualitas yang terukur.
+ Indikator kinerja adalah alat ukur spesifik secara kuantitatif
+dan/atau kualitatif untuk masukan, proses, keluaran,
+hasil, manfaat, dan/atau dampak yang menggambarkan
+tingkat capaian kinerja suatu program atau kegiatan.
+ Sasaran (target) adalah hasil yang diharapkan dari
+suatu program atau keluaran yang diharapkan dari suatu
+kegiatan.
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer
+ Keluaran (output) adalah barang atau jasa yang dihasilkan
+oleh kegiatan yang dilaksanakan untuk mendukung
+pencapaian sasaran dan tujuan program dan kebijakan.
+ Hasil (outcome) adalah segala sesuatu yang
+mencerminkan berfungsinya keluaran dari kegiatankegiatan dalam satu program.
+ Stakholder atau pemangku kepentingan adalah pihakpihak yang langsung atau tidak langsung mendapatkan
+manfaat atau dampak dari pelaksanaan pembangunan.
+Stakholder dapat berupa kelompok, organisasi,
+dan individu yang memiliki kepentingan/pengaruh
+dalam proses pengambilan keputusan/pelaksanaan
+pembangunan.
+Pedoman Penyelenggaraan Kesehatan Jiwa
+di Fasilitas Pelayanan Kesehatan Primer

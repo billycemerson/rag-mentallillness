@@ -1,0 +1,390 @@
+Student Research Journal
+ Volume. 2 No. 3 Juni 2024
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+DOI: https://doi.org/10.55606/srjyappi.v2i3.1219
+Received April 29,2024; Accepted Mei 31,2024; Published Juni 30,2024
+*Kevin Vitoasmara, Kevinvitoasmara31@gmail.com
+Gangguan Mental (Mental Disorders)
+Kevin Vitoasmara
+Universitas Duta Bangsa Surakarta
+Kevinvitoasmara31@gmail.com
+Fadillah Vio Hidayah
+Universitas Duta Bangsa Surakarta
+fadillavio22@gmail.com
+Nofita Ika Purnamasari
+Universitas Duta Bangsa Surakarta
+nofiika09@gmail.com
+Riska Yuna Aprillia
+Universitas Duta Bangsa Surakarta
+friskaaprilia257@gmail.com
+Liss Dyah Dewi A
+Universitas Duta Bangsa Surakarta
+Alamat: Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta, Jl. Bhayangkara No.55, Tipes,
+Kec. Serengan, Kota Surakarta, Jawa Tengah 57154
+Korespondensi penulis : kevinvitoasmara31@gmail.com
+
+Abstract
+Mental disorders are health conditions that affect a person's thoughts, emotions and behavior, often having a
+significant impact on the sufferer's daily functioning and quality of life. This research aims to examine various
+types of mental disorders, causal factors, and effective treatment methods. Through the literature review method,
+data was collected from various relevant scientific sources. Analysis of the literature shows that mental disorders
+affect approximately 25% of the world's population at some point in their lives, with depression and anxiety
+disorders being the most common types. The cause of mental disorders is a combination of genetic, biological,
+psychological and environmental factors. Treatment of mental disorders involves psychological therapy,
+medication and social support. Cognitive behavioral therapy (CBT) and interpersonal therapy have proven
+effective in managing the symptoms of mental disorders, while medications such as antidepressants and
+antipsychotics are often used to control these conditions. Support from family and friends also plays an important
+role in the recovery process. The conclusions of this research emphasize the importance of a holistic approach in
+treating mental disorders and the need for public education to reduce stigma. Increased access to quality mental
+health services and further research are needed to develop more effective treatment methods.
+Keywords: Mental Disorders
+Abstrak
+Gangguan mental adalah kondisi kesehatan yang memengaruhi pikiran, emosi, dan perilaku seseorang, sering kali
+berdampak signifikan pada fungsi sehari-hari dan kualitas hidup penderita. Penelitian ini bertujuan untuk
+mengkaji berbagai jenis gangguan mental, faktor penyebab, serta metode penanganan yang efektif. Melalui
+metode literatur review, data dikumpulkan dari berbagai sumber ilmiah yang relevan. Analisis literatur
+menunjukkan bahwa gangguan mental mempengaruhi sekitar 25% populasi dunia pada suatu titik dalam hidup
+mereka, dengan depresi dan gangguan kecemasan sebagai jenis yang paling umum. Penyebab gangguan mental
+adalah kombinasi faktor genetik, biologis, psikologis, dan lingkungan. Penanganan gangguan mental melibatkan
+terapi psikologis, medikasi, dan dukungan sosial. Terapi kognitif perilaku (CBT) dan terapi interpersonal terbukti
+efektif dalam mengelola gejala gangguan mental, sementara medikasi seperti antidepresan dan antipsikotik sering
+digunakan untuk mengontrol kondisi tersebut. Dukungan dari keluarga dan teman juga memainkan peran penting
+GANGGUAN MENTAL (MENTAL DISORDERS)
+58 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+dalam proses pemulihan. Kesimpulan dari penelitian ini menegaskan pentingnya pendekatan holistik dalam
+penanganan gangguan mental dan perlunya edukasi masyarakat untuk mengurangi stigma. Peningkatan akses ke
+layanan kesehatan mental yang berkualitas dan penelitian lebih lanjut diperlukan untuk mengembangkan metode
+penanganan yang lebih efektif.
+Kata Kunci: Gangguan Mental
+LATAR BELAKANG
+Gangguan mental merupakan masalah kesehatan yang signifikan secara global.
+Menurut Organisasi Kesehatan Dunia (WHO), satu dari empat orang di dunia akan mengalami
+gangguan mental atau neurologis pada suatu titik dalam hidup mereka. Prevalensi tinggi dan
+dampak besar pada kualitas hidup penderita menjadikan gangguan mental sebagai isu penting
+yang perlu ditangani dengan serius (Florensa et al., 2023).
+World Health Organization (WHO) menyatakan bahwa masalah yang banyak terjadi
+pada akhir masa kanak-kanak dan awal remaja berkaitan dengan masalah kesehatan mental,
+salah satunya adalah depresi. Depresi merupakan penyebab terbesar dari beban penyakit di
+antara individu pada usia awal. Menurut WHO, depresi merupakan penyebab utama dari
+penyakit dan kecacatan yang terjadi pada remaja, serta tindakan bunuh diri sebagai penyebab
+ketiga kematian terbesar (Endriyani et al., 2022).
+Depresi adalah gangguan mental yang umumnya ditandai dengan perasaan depresi,
+kehilangan minat atau kesenangan, penurunan energi, perasaan bersalah atau rendah diri, sulit
+tidur atau nafsu makan berkurang, perasaan kelelahan dan kurang konsentrasi. Kondisi tersebut
+dapat menjadi kronis dan berulang, dan secara substansial dapat mengganggu kemampuan
+individu dalam menjalankan tanggung jawab sehari-hari. Di tingkat yang paling parah, depresi
+dapat menyebabkan bunuh diri (Dzil Kamalah & Nafiah, 2023).
+Gangguan mental adalah kondisi kesehatan yang memengaruhi cara seseorang berpikir,
+merasakan, bertindak, dan berinteraksi dengan orang lain. Gangguan ini dapat bervariasi dari
+ringan hingga berat dan memerlukan perhatian serta penanganan yang tepat. Gangguan mental
+juga dianggao sebagai kondisi kesehatan yang memengaruhi pikiran, emosi, dan perilaku
+seseorang. Kondisi ini dapat mengganggu fungsi sehari-hari dan kualitas hidup penderitanya.
+Gangguan mental bukanlah kelemahan pribadi atau sesuatu yang bisa diabaikan, melainkan
+kondisi medis yang membutuhkan perhatian dan perawatan (Radiani, 2019).
+Salah satu tanda depresi adalah stres dan kecemasan yang berkepanjangan, yang
+menghambat aktivitas dan mengurangi kualitas fisik (Pratiwi & Rusinani, 2022). Salah satu
+cara untuk mengurangi stres dan mencegah depresi adalah dengan mengelolanya. Beberapa
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+orang mengelola stres dengan berpartisipasi dalam kegiatan yang mereka sukai, seperti
+bermain hobi, melakukan kegiatan menghilangkan stres, mendekatkan diri pada agama mereka,
+atau bercerita kepada orang lain. Keberanian untuk berbicara dengan orang lain dan mencari
+pengobatan adalah salah satu langkah yang tepat terlepas dari stigma masyarakat. Di era
+internet saat ini, banyak platform yang menawarkan layanan konsultasi secara online, baik
+dengan biaya maupun gratis. Beberapa puskesmas juga menawarkan layanan konsultasi
+psikologi murah dan gratis (Nurhaeni et al., 2022).
+Akan tetapi pemahaman akan kesehatan mental di Indonesia cenderung rendah. Hal ini
+dibuktikan dengan tingkat pemasungan orang dengan gangguan jiwa sebesar 14% pernah
+pasung seumur hidup dan 31,5% dipasung 3 bulan terakhir. Selain itu sebesar 91% masyarakat
+Indonesia yang mengalami gangguan jiwa tidak tertangani dengan baik dan hanya 9% sisanya
+yang dapat tertangani. Tidak ditangani dengan baik bisa menjadi indikasi akan kurangnya
+fasilitas kesehatan mental ditambah kurangnya pemahaman akan kesehatan mental (Lestarina,
+2021).
+Federasi Kesehatan Mental Dunia merumuskan pengertian kesehatan mental sebagai
+kondisi yang memungkinkan adanya perkembangan yang optimal baik secara fisik, intelektual
+dan emosional, sepanjang hal itu sesuai dengan keadaan orang lain (Rahmawaty et al., 2022).
+Masalah mental emosional yang tidak diselesaikan dengan baik, maka akan memberikan
+dampak negatif terhadap perkembangan remaja tersebut di kemudian hari, terutama terhadap
+pematangan karakter dan memicu terjadinya gangguan perkembangan mental emosional.
+Gangguan perkembangan mental emosional akan berdampak terhadap meningkatnya masalah
+perilaku pada saat dewasa kelak (Setiawati & Juniar, 2018).
+Kesehatan mental harus dijaga dan dirawat semaksimal mungkin agar tidak terjadi
+gangguan mental. Jika kesehatan mental terganggu maka akan membuat kehidupan menjadi
+kurang nyaman, seperti gampang stres, lelah, dan bosan. Seseorang yang bisa dikatakan atau
+dikategorikan sehat secara mental apabila orang tersebut terhindar atau tidak mengalami gejalagejala gangguan jiwa atau neurosis dan penyakit jiwa atau psikosis. Kesehatan mental sangat
+penting untuk menunjang produktivitas dan kualitas kesehatan fisik. Gangguan mental atau
+kejiwaan bisa dialami oleh siapa saja.
+Penelitian ini bertujuan untuk memahami lebih dalam tentang berbagai jenis gangguan
+mental, faktor penyebabnya, serta strategi penanganan yang efektif. Dengan demikian,
+penelitian ini diharapkan dapat memberikan wawasan yang berguna bagi praktisi kesehatan,
+pasien, dan masyarakat umum dalam mengelola dan mendukung penderita gangguan mental.
+GANGGUAN MENTAL (MENTAL DISORDERS)
+60 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+KAJIAN TEORI
+Definisi Gangguan Mental
+Gangguan mental adalah kondisi kesehatan yang mempengaruhi pikiran, perasaan,
+perilaku, dan interaksi sosial seseorang. Gangguan ini dapat bervariasi dalam hal jenis dan
+tingkat keparahan. Salah satu tanda gangguan mental emosional adalah menurunnya fungsi
+individu di bidang keluarga, pekerjaan, atau pendidikan, serta pribadi atau kelompok, yang
+disebabkan oleh konflik bawah sadar yang menyebabkan kekhawatiran (Dzil Kamalah &
+Nafiah, 2023).
+Kesehatan mental mengacu pada kondisi di mana pertumbuhan fisik, intelektual, dan
+emosional seseorang tumbuh, berkembang, dan berkembang sepanjang hidupnya, menerima
+tanggung jawab, menemukan cara untuk menyesuaikan diri, dan mempertahankan tindakan
+dan aturan sosial di lingkungannya. Bahasa Inggris "kesehatan mental" dan "kesehatan mental"
+berasal dari kata latin "mens", yang berarti "jiwa, nyawa, sukma, roh, dan semangat," dan
+"hygiene", yang berarti "ilmu tentang kesehatan” (Nurhaeni et al., 2022).
+Menurut Federasi Kesehatan Mental Dunia (World Federation for Mental Health)
+(Fakhriyani, 2019), kesehatan mental adalah:
+(1) kondisi yang memungkinkan adanya perkembangan yang optimal baik secara fisik,
+intelektual dan emosional, sepanjang hal itu sesuai dengan keadaan orang lain,
+(2) Sebuah masyarakat yang baik adalah masyarakat yang membolehkan perkembangan
+ini pada anggota masyarakatnya selain pada saat yang sama menjamin dirinya
+berkembang dan toleran terhadap masyarakat yang lain.
+Definisi kesehatan mental menurut WHO adalah kondisi kesejahteraan (well-being)
+seorang individu yang menyadari kemampuannya sendiri, dapat mengatasi tekanan kehidupan
+yang normal, dapat bekerja secara produktif dan mampu memberikan kontribusi kepada
+komunitasnya (Gumilar et al., 2017).
+Berikut definisi dan pengertian kesehatan mental dari beberapa sumber penelitian:
+a. Menurut (Florensa et al., 2023), kesehatan mental adalah suatu keadaan dimana
+seseorang tidak mengalami perasaan bersalah terhadap dirinya sendiri, memiliki
+estimasi yang realistis terhadap dirinya sendiri dan dapat menerima kekurangan atau
+kelemahannya, kemampuan menghadapi masalah-masalah dalam hidupnya, memiliki
+kepuasan dalam kehidupan sosialnya, serta memiliki kebahagiaan dalam hidupnya.
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+b. Menurut (Nurhaeni et al., 2022), kesehatan mental adalah orang yang terus menerus
+tumbuh, berkembang dan matang dalam hidupnya, menerima tanggung jawab,
+menemukan penyesuaian (tanpa membayar terlalu tinggi biayanya sendiri atau oleh
+masyarakat) dalam berpartisipasi dalam memelihara aturan sosial dan tindakan dalam
+budayanya.
+c. Menurut (Rahmawaty et al., 2022), kesehatan mental adalah terwujudnya
+keharmonisan yang sungguh-sungguh antar fungsi-fungsi jiwa serta mempunyai
+kesanggupan untuk menghadapi problem-problem biasa yang terjadi dan merasakan
+secara positif kebahagiaan dan kemampuan dirinya.
+d. Menurut (Pratiwi & Rusinani, 2022), kesehatan mental adalah satu kondisi yang
+memungkinkan perkembangan fisik, intelektual dan emosional yang optimal dari
+seseorang dan perkembangan itu berjalan selaras dengan keadaan orang lain.
+Jenis-Jenis Gangguan Mental
+Diagnosis gangguan mental, dibagi menjadi 7 jenis, sebagai berikut (Gumilar et al.,
+2017):
+1. Depresi
+Depresi ini ditandai dengan perasaan sedih yang berkepanjangan, kehilangan minat,
+dan perubahan nafsu makan serta tidur.
+2. Gangguan Kecemasan
+Kecemasan termasuk gangguan panik, gangguan kecemasan sosial, dan gangguan
+kecemasan umum.
+3. Skizofrenia
+Skizofrenia itandai dengan delusi, halusinasi, dan gangguan berpikir.
+4. Gangguan Bipolar
+Gangguan bipolar ini biasanya ditandai dengan perubahan suasana hati ekstrem dari
+mania ke depresi.
+5. Gangguan Makan
+Asupan makanan yang dapat mengalami gangguan seperti anoreksia nervosa, bulimia
+nervosa, dan gangguan makan berlebihan.
+6. Gangguan Obsesif-Kompulsif (OCD)
+Ditandai dengan pikiran obsesif dan perilaku kompulsif.
+7. Gangguan Stres Pasca-Trauma (PTSD)
+Muncul setelah mengalami peristiwa traumatis.
+GANGGUAN MENTAL (MENTAL DISORDERS)
+62 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+Faktor Penyebab Gangguan Mental
+Adapun faktor-faktor yang menjadi penyebab dalam gangguan mental menurut (Pratiwi
+& Rusinani, 2022) ialah sebagai berikut:
+1. Genetik yaitu faktor keturunan dapat meningkatkan risiko gangguan mental.
+2. Biologis merupakan ketidakseimbangan kimia di otak, infeksi, atau kerusakan otak.
+3. Psikologis yaitu trauma masa kecil, pelecehan, dan kehilangan.
+4. Lingkungan sebagai stres kronis, lingkungan sosial yang buruk, dan pengalaman hidup
+yang menantang.
+Etiologi Mental dan Faktor Risiko
+Berbagai faktor fisiologis dan psikososial diteliti dapat menjadi penyebab dari
+gangguan mental atau depresi. Beberapa hal yang diduga menjadi etiologi depresi menurut
+(Fakhriyani, 2019) yaitu sebagai berikut:
+a. Faktor Biologis
+Penderita gangguan depresi menunjukkan berbagai macam abnormalitas
+metabolisme pada darah, urin dan cairan serebromunal.
+b. Faktor Genetik
+Faktor genetik merupakan faktor yang signifikan sebagai penyebab timbulnya
+depresi. Penelitian menunjukkan bahwa keluarga generasi pertama mempunyai risiko
+delapan sampai 18 kali lebih banyak dibandingkan kontrol subyek normal oleh
+penderita depresi pada kembar homozigot untuk dapat terkena depresi sekitar 50%
+sedangkan untuk kembar dizigot 10-25%.
+c. Faktor Psikososial
+1) Peristiwa Kehidupan dan Stres
+Lingkungan Stres dalam kehidupan dapat menimbulkan episode depresi
+pertama kali dan mempengaruhi neurotrarumiter dan sistem intra neuron untuk
+jangka lama dan menetap. Dengan dampak stress dalam kehidupan memegang
+peran penting dalam hubungannya dengan onset depresi.
+2) Faktor Kepribadian
+Pramorbid Semua orang dengan berbagai pola kepribadian yang mempunyai
+resiko tinggi untuk menderita depresi adalah kepribadian dependen, histerionok dan
+obsesif-kompulsif.
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+3) Faktor Psikoanalisis dan Psikodinamika
+Gangguan mental atau depresi merupakan emosi yang timbul dari tekanan
+kedalam ego antara aspirasi dan realita. Pada saat menyadari segala sesuatu tidak
+sesuai yang diharapkan maka akan merasa tidak berdaya dan tidak berguna.
+METODE PENELITIAN
+Sumber Data
+Penelitian ini menggunakan metode literatur review dengan sumber data yang diambil
+dari jurnal-jurnal ilmiah, buku, laporan organisasi kesehatan, dan artikel akademis yang relevan
+dengan topik gangguan mental. Sumber data diambil dari berbagai database online seperti
+Sinta, PubMed, Google Scholar, Publis or Perish dan direktori jurnal lainnya.
+Prosedur Pengumpulan Data
+Pencarian Literatur dilakukan dengan kata kunci "gangguan mental", "jenis gangguan
+mental", "penyebab gangguan mental", dan "penanganan gangguan mental".
+Selanjutnya menyeleksi literatur yaitu iteratur yang relevan dan memenuhi kriteria inklusi
+dipilih untuk dianalisis lebih lanjut.
+Analisis Data
+Data yang diperoleh dari literatur kemudian dianalisis untuk menemukan pola dan
+hubungan antara jenis gangguan mental, penyebab, dan metode penanganannya.
+HASIL PENELITIAN
+Prevalensi Gangguan Mental
+Studi menunjukkan bahwa gangguan mental mempengaruhi sekitar 25% populasi dunia
+pada suatu titik dalam hidup mereka. Depresi dan gangguan kecemasan adalah jenis yang
+paling umum, sementara skizofrenia dan gangguan bipolar lebih jarang tetapi memiliki dampak
+yang signifikan pada individu yang mengalaminya.
+Faktor Penyebab
+Analisis literatur menunjukkan bahwa gangguan mental disebabkan oleh kombinasi
+faktor genetik, biologis, psikologis, dan lingkungan. Tidak ada satu penyebab tunggal yang
+dapat menjelaskan terjadinya gangguan mental, melainkan interaksi kompleks dari berbagai
+faktor.
+GANGGUAN MENTAL (MENTAL DISORDERS)
+64 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+Perawatan Gangguan Mental
+Gangguan mental adalah salah satu gangguan yang paling sulit diobati dalam psikiatri.
+Secara umum, tidak ada pendekatan umum untuk mengobati gangguan kepribadian. Jika dokter
+umum merasa pasiennya memiliki gangguan kepribadian yang kompleks, mereka mungkin
+merujuk ke pada tim kesehatan jiwa komunitas dan layanan atau unit spesialis gangguan
+kepribadian, jika ada di daerah setempat.
+Layanan ini terdiri dari para profesional seperti psikolog, psikiater dan terapis yang
+akan memiliki pengalaman khusus dalam membantu orang dengan gangguan kepribadian.
+Terkadang mungkin untuk menghubungi layanan ini sendiri dan mendapatkan bantuan dengan
+cara itu. Pasien dan dokter atau tim perawatan kesehatan harus menyetujui rencana perawatan
+yang paling sesuai untuk pasiennya. Perawatan psikologis satu-ke-satu dan kelompok atau
+'terapi bicara' sering direkomendasikan dan efektif dalam membantu. Semuanya melibatkan
+pembicaraan dengan terapis, tetapi berbeda satu sama lain. Namun, pilihan untuk mengobati
+gangguan kepribadian terus berkembang.
+Berikut perawatan gangguan mental:
+a. Terapi Perilaku Dialektis (Dialectical behaviour therapy)
+Terapi perilaku dialektis dapat membantu induvidu dalam belajar menemukan
+dan mengendalikan emosi serta perilaku. Ini diadaptasi dari terapi perilaku kognitif
+(Conegtive Behavior Therapy) yang dimana bertujuan untuk membantu dalam
+mengenali kemudian mengubah perilaku yang tidak membantu dengan mempelajari
+keterampilan baru. Perilaku yang tidak membantu mungkin termasuk berpikir untuk
+bunuh diri, menyakiti diri sendiri, minum alkohol, atau menggunakan obat-obatan
+untuk mengatasi emosi induvidu.
+b. Terapi analitik kognitif (Cognitive analytical therapy)
+Terapi analitik kognitif membantu induvidu dalam mengenali pola hubungan
+yang dapat menimbulkan masalah baginya dan sulit diubah serta mungkin telah
+mempelajari pola-pola ini saat tumbuh dewasa untuk mengatasi emosi yang sulit.
+pasien dan terapis akan bekerja sama untuk mengenali pola-pola ini dan kemudian
+mencoba mengubahnya. Jenis terapi ini biasanya berlangsung selama 16 -20 sesi.
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+c. Terapi berbasis mentalisasi (Mentalisation based therapy)
+Mentalisasi adalah tentang memahami apa yang orang lain pikirkan, niatkan,
+butuhkan atau inginkan. Ini tentang menyadari apa yang terjadi di kepala diri sendiri
+dan di benak orang lain. Mentalisasi mengacu pada fakta bahwa terkadang ketika
+merasa tertekan, akan lebih sulit untuk 'mentalisasi'. Seseorang akan menghadiri terapi
+kelompok dan satu-kesatu. Tujuannya adalah untuk membantu memahami diri sendiri
+dan orang lain dengan lebih baik, dan belajar 'bagaimana' mentalisasi.
+d. Terapi psikodinamik/psikoanalitik
+Jenis terapi ini memberi waktu untuk berbicara perasaan tentang diri sendiri dan
+orang lain. Ini mungkin termasuk:
+1) Apa yang telah terjadi di masa lalu?
+2) Apa yang terjadi dalam hidup sekarang?
+3) Bagaimana masa lalu dapat memengaruhi perasaan, pemikiran, dan perilaku saat
+ini?
+Kegiatan ini biasanya memiliki sesi reguler (mingguan atau dua minggu) secara
+satu per satu. Jenis terapi ini bisa berkelanjutan.
+e. Komunitas terapeutik
+Komunitas terapeutik adalah tempat di mana akan mendapatkan terapi
+kelompok jangka panjang yang dimana akan mengunjungi, atau terkadang tinggal,
+selama beberapa minggu atau bulan. Kadang-kadang dapat berkunjung hanya beberapa
+hari dalam seminggu (disebut 'program hari'). Seseorang belajar dari bergaul atau tidak
+bergaul dengan orang lain dalam kelompok perlakuan. Ini menawarkan tempat yang
+aman jika ada ketidaksepakatan atau gangguan. Orang-orang dalam komunitas
+terapeutik sering kali memiliki banyak pendapat tentang bagaimana komunitas
+berjalan.
+GANGGUAN MENTAL (MENTAL DISORDERS)
+66 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+f. Pengobatan
+Tidak ada obat yang direkomendasikan untuk pengobatan gangguan
+kepribadian. Namun, dokter terkadang menyarankan obat untuk membantu mengatasi
+gejala seperti kecemasan, kemarahan, atau suasana hati yang buruk. Ini mungkin
+termasuk antidepresan, penstabil suasana hati atau antipsikotik (Gumilar et al., 2017).
+Metode Penanganan Gangguan Mental (mental disorders)
+Penanganan gangguan mental melibatkan kombinasi terapi psikologis, medikasi, dan
+dukungan sosial. Terapi kognitif perilaku (CBT) dan terapi interpersonal adalah beberapa
+metode terapi yang terbukti efektif. Medikasi seperti antidepresan dan antipsikotik sering
+digunakan untuk mengelola gejala. Dukungan sosial dari keluarga dan teman juga memainkan
+peran penting dalam proses pemulihan.
+KESIMPULAN DAN SARAN
+Kesimpulan
+Gangguan mental adalah kondisi kompleks yang dipengaruhi oleh berbagai faktor dan
+memerlukan pendekatan penanganan yang holistik. Penelitian ini menegaskan pentingnya
+memahami jenis-jenis gangguan mental, penyebab, dan metode penanganan yang efektif untuk
+meningkatkan kualitas hidup penderita.
+Gangguan mental emosional dan depresi merupakan kondisi yang perlu mendapat
+perhatian serius karena yang dapat mempengaruhi perilaku, emosi, dan cara berpikir. Semua
+pihak harus peduli dengan kondisi kesehatan jiwa diri sendiri dan orang terdekat sehingga dapat
+menjadi upaya mencegah terjadinya dampak yang dapat merugikan bagi setiap orang dan
+masyarakat secara keseluruhan.
+Kesehatan mental sebagai kemampuan untuk menyesuaikan diri dengan dirinya sendiri,
+dengan orang lain dan masyarakat serta lingkungan tempat ia hidup. Selain itu, kesehatan
+mental merupakan terwujudnya keharmonisan antara fungsi-fungsi jiwa, memanfaatkan segala
+kemampuan diri, mempunyai kesanggupan untuk menghadapi problema-problema yang biasa
+terjadi, serta terhindar dari kegelisahan dan pertentangan batin (konflik).
+Kesehatan mental sangat penting untuk menunjang produktivitas dan kualitas
+kesehatan fisik. Ganguan mental atau kejiwaan bisa dialami oleh siapa saja tidak terkecuali
+e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
+remaja sehingga perlu adanya peningkatan pengetahuan tentang gangguan kesehatan jiwa
+mulai dari definisi kesehatan mental, gangguan kesehatan mental, penyebab gangguan
+kesehatan mental, gejala gangguan kesehatan mental serta upaya pencegahan gangguan
+kesehatan mental.
+Saran
+Berdasrkan kesimpulan dari pembahasan diatas sehingga saran oleh penulis adalah
+sebagai berikut:
+1. Peningkatan Edukasi: Masyarakat perlu diedukasi tentang gangguan mental untuk
+mengurangi stigma dan meningkatkan kesadaran.
+2. Akses Layanan Kesehatan: Perlu peningkatan akses ke layanan kesehatan mental yang
+berkualitas.
+3. Dukungan Sosial: Dukungan dari keluarga, teman, dan komunitas sangat penting dalam
+proses pemulihan penderita gangguan mental.
+4. Penelitian Lanjutan: Diperlukan penelitian lebih lanjut untuk mengembangkan metode
+penanganan yang lebih efektif dan memahami lebih dalam tentang faktor-faktor penyebab
+gangguan mental.
+Dengan demikian, pemahaman yang lebih baik tentang gangguan mental dapat
+membantu dalam menciptakan lingkungan yang lebih mendukung dan inklusif bagi penderita
+gangguan mental.
+DAFTAR PUSTAKA
+Dzil Kamalah, A., & Nafiah, H. (2023). Gejala Mental Emosional dan Upaya dalam
+Meningkatkan Kesehatan Jiwa Remaja. Jurnal Keperawatan Berbudaya Sehat, 1(2),
+2986–8548. http://jurnal.unw.ac.id/index.php/JKBS
+Endriyani, S., Lestari, R. D., Lestari, E., & Napitu, I. C. (2022). Gangguan Mental Emosional
+Dan Depresi Pada Remaja. Health Care Nursing Journal, 4(2), 429–434.
+https://www.bajangjournal.com/index.php/J-ABDI/article/view/3641/2684
+Fakhriyani, D. V. (2019). Kesehatan Mental (Sejarah Kesehatan Mental). In Halodoc.Com.
+https://www.researchgate.net/profile/DianaFakhriyani/publication/348819060_Kesehatan_Mental/links/60591b56458515e8346
+43f66/Kesehatan-Mental.pdf
+Florensa, Hidayah, N., Sari, L., Yousrihatin, F., & Litaqia, W. (2023). Gambaran Kesehatan
+Mental Emosional Remaja (Overview. Jurnal Kesehatan, 12(1), 2721–8007.
+Gumilar, S., Rachim, H. A., & Meilanny, L. (2017). Tanggung Jawab Sosial Perusahaan ( Csr
+) Studi Efektifitas Program Pt. Pertamina Sehati (Sehat Ibu Dan Anak Tercinta).
+GANGGUAN MENTAL (MENTAL DISORDERS)
+68 SRJ -VOLUME. 2 NO. 3 JUNI 2024
+Prosiding Penelitian Dan Pengabdian Kepada Masyarakat, 4(2), 235–240.
+https://doi.org/10.24198/jppm.v4i2.14291
+Lestarina, N. N. W. (2021). Pendampingan Remaja Sebagai Upaya Peningkatan Kesehatan
+Mental Remaja Di Desa Laban Gresik. Jurnal Pengabdian Kepada Masyarakat ITK
+(PIKAT), 2(1), 1–6. https://doi.org/10.35718/pikat.v2i1.332
+Nurhaeni, A., Marisa, D. E., & Oktiany, T. (2022). Peningkatan Pengetahuan Tentang
+Gangguan Kesehatan Mental Pada Remaja. JAPRI Jurnal Pengabdian Masyarakat
+Kesehatan, 01(01), 29–34.
+Pratiwi, K., & Rusinani, D. (2022). Literatur review : Gangguan mental depresi pada wanita.
+Jurnal Ilmu Kebidanan, 10(3), 103–110.
+Radiani, W. A. (2019). Kesehatan Mental Masa Kini dan Penanganan Gangguannya Secara
+Islami. Journal of Islamic and Law Studies, 3(1), 87–113. http://jurnal.uinantasari.ac.id/index.php/jils/article/view/2659%0Ahttps://jurnal.uin-antasari.ac.id
+Rahmawaty, F., Silalahiv, R. P., T, B., & Mansyah, B. (2022). Faktor-Faktor Yang
+Mempengaruhi Kesehatan Mental Pada Remaja. Jurnal Surya Medika, 8(3), 277–281.
+https://doi.org/10.46815/jk.v12i1.125
+Setiawati, Y., & Juniar, S. (2018). Buku Pedoman Deteksi Dini Gangguan Mental.pdf. In
+Fakultas Kedokteran Universitas Airlangga (p. 19). 

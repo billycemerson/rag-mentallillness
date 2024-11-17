@@ -1,0 +1,466 @@
+BRPKM
+Buletin Riset Psikologi dan Kesehatan Mental
+http://e-journal.unair.ac.id/index.php/BRPKM
+e-ISSN: 2776-1851
+ARTIKEL PENELITIAN
+Hubungan Literasi Kesehatan Mental dengan Intensi Mencari Bantuan
+pada Mahasiswa
+MELIA RIZKE AZEDARACH & ATIKA DIAN ARIANA*
+Fakultas Psikologi Universitas Airlangga
+ABSTRAK
+Literasi kesehatan mental masyarakat yang rendah menyebabkan kondisi kesehatan mental kurang
+dilaporkan dan tidak terdiagnosis. Hal ini meningkatkan gangguan yang tidak tertangani, morbiditas,
+mortalitas, peningkatan stres serta kasus bunuh diri. Ketidakmampuan seseorang dalam mengenali
+gangguan mental diduga berkaitan dengan berkurangnya kemungkinan mencari bantuan. Penelitian
+terdahulu menyatakan bahwa mahasiswa merupakan kelompok terendah dalam mencari bantuan. Oleh
+sebab itu, penelitian ini bertujuan untuk mengetahui hubungan antara literasi kesehatan mental dengan
+intensi mencari bantuan pada mahasiswa. Penelitian ini menggunakan pendekatan kuantitatif dengan
+metode survei. Sampel dalam penelitian ini meliputi 111 partisipan yang merupakan mahasiswa berusia
+antara 18-25 tahun di Indonesia. Pengukuran dalam penelitian ini menggunakan skala Mental Health
+Literacy (MHL) dan skala General Help-Seeking Questionnaire (GHSQ). Analisis dilakukan dengan uji
+korelasi Spearman's rho pada JAMOVI 2.3.0.0 for macOS. Hasil analisis pada penelitian ini adalah tidak
+ditemukannya bukti yang dapat mengonfirmasi keberadaan hubungan antara literasi kesehatan mental
+dengan intensi mencari bantuan (r=0,034; p=0,727).
+Kata kunci: intensi mencari bantuan, literasi kesehatan mental
+ABSTRACT
+People's low mental health literacy causes mental health conditions to be under-reported and
+undiagnosed. This increases untreated disorders, morbidity, mortality, increased stress, and cases of
+suicide. A person's inability to recognize mental disorders is thought to be related to reduced chances
+of seeking help. Previous research stated that students were the lowest group in seeking help. Therefore,
+this study aims to determine the relationship between mental health literacy and help-seeking intention
+among university students. This study uses a quantitative approach with a survey method. The
+questionnaires used in this study were Mental Health Literacy (MHL) scale and the General HelpSeeking Questionnaire (GHSQ) scale. Analysis was performed using Spearman's rho correlation test on
+JAMOVI 2.3.0.0 for macOS. The result of the analysis in this study was that no evidence was found to
+confirm the existence of a relationship between mental health literacy and the intention to seek help
+(r=0.034; p=0.727).
+Keywords: help-seeking intention, mental health literacy
+Buletin Penelitian Psikologi dan Kesehatan Mental (BRPKM), tahun, Vol. X(no), pp,
+*Alamat korespondensi: Fakultas Psikologi Universitas Airlangga, Kampus B Universitas Airlangga Jalan
+Airlangga 4-6 Surabaya 60286. Surel: atika.ariana@psikologi.unair.ac.id
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 2
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Naskah ini merupakan naskah dengan akses terbuka dibawah ketentuan the Creative
+Common Attribution License (CC-BY-4.0) (http://creativecommons.org/licenses/by/4.0),
+sehingga penggunaan, distribusi, reproduksi dalam media apapun atas artikel ini tidak
+dibatasi, selama sumber aslinya disitir dengan baik.
+PENDAHULUAN
+Masalah kesehatan mental merupakan persoalan serius di Indonesia padahal kemajuan serta
+produktivitas suatu masyarakat sangat bergantung pada kesehatan mental masyarakatnya. Meskipun
+saling terkait dengan problem-problem sosial lainnya, persoalan kesehatan mental masyarakat
+sebenarnya bisa diteliti dari saling terkaitnya dua hal mendasar yang memengaruhinya, yaitu tingkat
+kesadaran masyarakat akan kesehatan mental atau literasi kesehatan mental masyarakat dan
+tersedianya layanan profesional kesehatan mental bagi mereka yang memerlukannya. Kesehatan
+mental—dalam Undang-Undang Nomor 18 Tahun 2014 yang disebut kesehatan jiwa adalah kondisi
+dimana seorang individu dapat berkembang secara fisik, mental, spiritual, dan sosial sehingga individu
+tersebut menyadari kemampuan sendiri, dapat mengatasi tekanan, dapat bekerja secara produktif,
+dan mampu memberikan kontribusi untuk komunitasnya. Persoalannya, stigma masih menyelimuti
+isu kesehatan mental di Indonesia karena sebagian besar masyarakat Indonesia masih memercayai
+gangguan kesehatan mental disebabkan oleh hal yang tidak rasional maupun supranatural, misalnya
+mengidap skizofrenia disebabkan oleh kerasukan setan, roh jahat, dan bentuk-bentuk kepercayaan
+lainnya. Akibat adanya stigma ini, masyarakat masih menangani gangguan mental dengan penanganan
+nonmedis seperti ahli spiritual.
+Pada periode 1990-2017, terjadi perubahan pola penyakit mental di mana terjadi peningkatan DALYs
+(Disability Adjusted Life Year), diantaranya adalah skizofrenia, bipolar, autisme, dan gangguan perilaku
+makan dengan gangguan depresi menduduki urutan pertama dalam tiga dekade. Di sisi lain, kasus
+gangguan mental di Indonesia yang didasarkan pada hasil Riset Kesehatan Dasar (Riskesdas) tahun
+2018 tercatat adanya peningkatan yang terlihat dari kenaikan prevalensi rumah tangga yang terdapat
+ODGJ di Indonesia. Ada peningkatan jumlah menjadi 7 per mil rumah tangga, yang artinya per 1.000
+rumah tangga terdapat 7 rumah tangga dengan orang dengan gangguan jiwa (ODGJ) sehingga
+jumlahnya diperkirakan sekitar 450 ribu ODGJ berat. Kondisi buruk seperti itu masih diperberat lagi
+dengan rendahnya literasi kesehatan mental pada dewasa awal yang sering ditemukan di negaranegara berpenghasilan rendah dan menengah, termasuk Indonesia (Asyanti & Karyani, 2018).
+Riset Kesehatan Dasar (Riskesdas) menunjukkan bahwa gangguan mental di Indonesia mengalami
+peningkatan dari 6% di tahun 2013 menjadi 9,8% di tahun 2018. Prevalensi gangguan emosional pada
+penduduk berusia 15 tahun ke atas meningkat dari 6% di tahun 2013 menjadi 9,8% di tahun 2018.
+Sementara itu, prevalensi gangguan jiwa berat skizofrenia meningkat dari 1,7% ditahun 2013 menjadi
+7% ditahun 2018. Data ini menunjukkan bahwa terjadi peningkatan masalah dan gangguan kesehatan
+mental secara konsisten dari tahun ke tahun (Kementerian Kesehatan Republik Indonesia, 2013;
+2018).
+Pada berbagai konteks di negara dengan pendapatan menengah ke bawah, gangguan mental lebih
+banyak ditangani dengan penyembuhan tradisional(Burns, 2014). Pernyataan tersebut didukung oleh
+penelitian yang dilakukan oleh Salim (dalam Novianty & Rochman Hadjam, 2017) bahwa salah satu
+bentuk pencarian pertolongan yang dominan terkait gangguan mental baik pada penduduk di desa
+maupun kota adalah mendatangi kiai. Namun Novianty dan Rochman Hadjam (2017) menemukan
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 3
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+bahwa angka bunuh diri di Indonesia terusmeningkat dengan kejadian tertinggiterjadi pada kelompok
+usia remaja dan dewasa awal (15-24 tahun), yang mana sebagian besar mahasiswa berada dalam
+rentang usia tersebut. Tingkat under-diagnosis dan under-treatment pada depresi dan kecemasan lebih
+tinggi pada remaja atau dewasa awal yang mengakibatkan hasil klinis dan sosial yang lebih buruk bagi
+mereka yang tidak menerima intervensi tepat (Leaf dkk., 1996). Chang (2008) menyatakan bahwa
+stigma negatif seputar keengganan mahasiswa untuk mencari bantuan kesehatan mental profesional
+bermula dari kurangnya literasi kesehatan mental di lingkungan kampus.
+Pengetahuan dan keyakinan seseorang tentang gangguan dan pengobatan kesehatan mental yang
+dikenal sebagai literasi kesehatan mental (Jorm dkk., 2006), ditemukan memengaruhi intensi untuk
+mencari bantuan pada gangguan mental (Coles & Coleman, 2010; Schomerus dkk., 2009). Penelitian
+terkini menyatakan bahwa mahasiswa dengan tingkat literasi kesehatan mental yang lebih tinggi
+memiliki sikap yang lebih positif dalam mencari bantuan (Beatie dkk., 2016). Peneliti lain juga
+menekankan bahwa mahasiswa dengan tingkat literasi kesehatan mental yang lebih tinggi lebih
+cenderung mencari bantuan profesional (Rickwood dkk., 2015; Thomas dkk., 2014). Penting untuk
+meningkatkan literasi kesehatan mental dikarenakan masih kurang dikenalnya gejala-gejala gangguan
+mental dibandingkan gangguan fisik, adanya kesenjangan antara keyakinan publik dan profesional
+terhadap penanganan gangguan mental, stigma, serta rendahnya kemampuan dalam merespon orang
+lain dengan gejala gangguan mental yang kemudian memengaruhi penundaan dan kekeliruan dalam
+mencari bantuan untuk menangani gangguan mental(Jorm dkk., 2006).
+Reavley dan kawan-kawan (2012) menambahkan bahwa promosi literasi kesehatan mental di jenjang
+pendidikan tinggi selama ini kurang mendapat perhatian, kecuali bagi mahasiswa di bidang kesehatan
+seperti kedokteran, kebidanan, psikologi, dan lain sebagainya. Lebih lanjut, laporan dari Biddle dan
+kawan-kawan (2007) menyatakan bahwa mahasiswa merupakan kelompok terendah yang mencari
+bantuan profesional(formal) atau sosial(informal) untuk masalah kesehatan mental mereka. Seperti
+yang telah dilaporkan Eisenberg dan kawan-kawan (2011), intensi mencari bantuan di kalangan
+mahasiswa masih sangat rendah. Penelitian itu mengungkapkan bahwa sekitar 64% mahasiswa
+dengan masalah kesehatan mental belum mencari bantuan profesional dalam satu tahun terakhir.
+Universitas yang seharusnya menjadi tempat ideal bagi mahasiswa untuk mencari dukungan sosial
+dan layanan kesehatan psikologis seperti konseling belum bisa menjadi rujukan. Dalam kenyataannya,
+jumlah mahasiswa yang menggunakan fasilitas kesehatan mental sangat rendah (Hunt & Eisenberg,
+2010).
+Penelitian ini bertujuan untuk mengetahui hubungan antara tingkat literasi kesehatan mental dan
+intensi mencari bantuan. Penelitian difokuskan pada mahasiswa karena adanya tingkatan risiko
+masalah kesehatan mental serta keengganan umum untuk mencari bantuan psikologis yang terutama
+ditemukan di kalangan mahasiswa.
+METODE
+Desain Penelitian
+Penelitian ini menggunakan metode penelitian kuantitatif eksplanatori. Penelitian kuantitatif
+eksplanatori adalah penelitian yang akan menjelaskan hubungan antara variabel yang memengaruhi
+hipotesis peneliti. Teknik pengumpulan data yang digunakan adalah survei dengan menyebarkan
+kuesioner. Metode ini digunakan karena penelitian ini lebih menekankan pada keluasan informasi
+dengan populasi yang luas dan variabel yang terbatas.
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 4
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Partisipan
+Partisipan dalam penelitian ini dibatasi menjadi mahasiswa aktif yang berusia antara 18 hingga 25
+tahun. Pemilihan sampel menggunakan random sampling, yaitu pengambilan sampel secara acak tanpa
+memperhatikan strata yang ada dalam populasi itu (Sugiyono, 2008). Proses pengambilan sampel dalam
+penelitian ini dilakukan secara daring sehingga penulis mendapatkan partisipan yang cukup bervariasi
+dari segi usia serta latar belakang pendidikannya yang dilihat dari fakultas atau jurusannya. Untuk
+menentukan jumlah sampel dalam penelitian ini, penulis menggunakan perangkat lunak G*Power
+dengan pengaturan statistical test berupa Correlation: Bivariate normal model dengan parameter twotailed, correlation sebesar 0,3, alpha 0,05, dan power sebesar 0,8 yang menghasilkan total sampel yang
+dibutuhkan sebanyak 84 orang. Sebelum dilakukan pengambilan data, seluruh partisipan telah
+diberikan informed consent. Kemudian, setelah pengambilan data selesai dilakukan, diperoleh 111
+partisipan (Musia=21,054; SDusia=1,320; 83,8 persen perempuan; 16,2 persen laki-laki) yang merupakan
+mahasiswa yang berada di Indonesia.
+Pengukuran
+Untuk mengukur kedua variabel dalam penelitian ini, alat ukur yang digunakan adalah skala berupa
+skala likert. Skala pertama yang digunakan untuk mengukur variabel bebas (literasi kesehatan mental)
+dalam penelitian ini adalah skala Mental Health Literacy yang diterjemahkan oleh Idham (2019) dari
+skala Mental Health Literacy (Jung dkk., 2016) yang terdiri dari 25 item yang diukur dengan
+menggunakan 5-point Likert Scale untuk 21 item, yaitu, sangat tidak setuju, tidak setuju, netral, setuju,
+dan sangat setuju dengan opsi alternatif “saya tidak tahu”, kemudian 4 item terakhir menggunakan
+format tanggapan “iya” dan “tidak”.
+Sedangkan skala kedua yang digunakan untuk mengukur variabel terikat (intensi mencari bantuan)
+dalam penelitian ini adalah skala GHSQ (General Help-Seeking Questionnaire) yang diterjemahkan oleh
+Idham (2019) dari skala yang disusun oleh Wilson dan kawan-kawan (2005). Peneliti menggunakan
+GHSQ versi 10 item. Alat ukur ini disajikan dengan 7-point Likert Scale dari 1 (sangat tidak mungkin)
+hingga 7 (sangat mungkin). Skor yang tinggi menunjukkan tingkat intensi mencari bantuan yang lebih
+besar.
+Reliabilitas untuk alat ukur GHSQ (General Help-Seeking Questionnaire) yang diadaptasi Idham (2019)
+yang diukur dengan Cronbach's alpha adalah α=0,70; r=0,86. Sedangkan reliabilitas untuk alat ukur
+Mental Health Literacy oleh Jung dan kawan-kawan (2016) dalam Idham (2019) untuk literasi
+kesehatan mental yang berorientasi pada pengetahuan (knowledge-oriented) (α=0,75), literasi
+kesehatan mental yang berorientasi pada keyakinan (beliefs-oriented) (α=0,77), dan literasi kesehatan
+mental yang berorientasi pada sumber daya (resource-oriented) (α=0,84).
+Sebelum melakukan uji hipotesis, dilakukan uji asumsi terlebih dahulu dengan uji normalitas dan uji
+linearitas. Berdasarkan hasil uji normalitas yang telah dilakukan, diketahui bahwa nilai Shapiro-Wilk p
+pada variabel intensi mencari bantuan adalah 0,358 yang berarti distribusi data pada variabel ini
+normal, sedangkan pada variabel literasi kesehatan mental, nilai Shapiro-Wilk p-nya adalah 0,005 yang
+berarti distribusi data pada variabel tersebut bersifat tidak normal karena berada di bawah 0,05.
+Selanjutnya, berdasarkan hasil uji linearitas yang telah dilakukan dengan JAMOVI, diperoleh nilai p
+sebesar 0,288. Apabila nilai yang diperoleh lebih besar dari 0,05, hal ini berarti hubungan kedua variabel
+merupakan hubungan non-linear. Oleh karena itu, analisis uji hipotesis dilakukan dengan menggunakan
+teknik statistik non-parametrik yaitu uji korelasi Spearman’s Rho Correlation.
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 5
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Analisis Data
+Dalam penelitian ini, teknik analisis data yang digunakan adalah uji asumsi dan uji korelasi. Uji asumsi
+yang dilakukan adalah uji normalitas dan uji linearitas. Kemudian, uji korelasi dilakukan dengan uji
+korelasi statistik non-parametrik Spearman’s Rho Correlation. Seluruh proses analisis data dalam
+penelitian ini diolah menggunakan bantuan JAMOVI 2.3.0.0 for macOS.
+HASIL PENELITIAN
+Berdasarkan hasil analisis deskriptif yang telah dilakukan, ditemukan bahwa partisipan yang memiliki
+tingkat literasi kesehatan mental yang tinggi terdapat sebanyak 19 partisipan (17,11%), partisipan
+dengan kategori sedang sebanyak 79 orang (71,17%), dan yang berkategori rendah berjumlah 13
+partisipan (11,71%). Kemudian, partisipan dengan intensi mencari bantuan yang tinggi terdapat
+sebanyak 18 partisipan (16,21%), kategori sedang sebanyak 80 partisipan (72,07%), dan kategori
+rendah sebanyak 13 partisipan (11,71%).
+Selanjutnya, setelah melakukan analisis uji hipotesis dengan uji korelasi Spearman’s Rho, hasilnya
+menunjukkan bahwa penelitian ini gagal menemukan bukti untuk menolak null hypothesis
+(r(111)=0,034; p=0,727). Artinya, tidak ditemukan bukti yang dapat mengonfirmasi keberadaan
+hubungan yang memadai antara variabel literasi kesehatan mental dengan variabel intensi mencari
+bantuan pada mahasiswa dalam penelitian ini.
+DISKUSI
+Penelitian ini bertujuan untuk menjawab pertanyaan ada atau tidaknya hubungan antara literasi
+kesehatan mental dengan intensi mencari bantuan pada mahasiswa. Berdasarkan hasil uji korelasi
+(r=0,034; p=0,727), dapat ditarik kesimpulan bahwa penelitian ini tidak menemukan bukti yang dapat
+mengonfirmasi keberadaan hubungan yang memadai antara variabel literasi kesehatan mental dengan
+intensi mencari bantuan pada mahasiswa. Hal ini dikarenakan koefisien korelasi kedua variabel
+tersebut berada dalam kategori sangat rendah (bahkan dapat diabaikan) dengan p-value yang juga
+berada di atas 0,05 (p > 0,05). Hasil tersebut menjadi acuan dalam mengambil keputusan hipotesis
+penelitian bahwa dalam penelitian ini, penulis telah gagal menemukan bukti untuk menolak null
+hypothesis (H0).
+Hasil dalam penelitian ini, dimana hubungan antara literasi kesehatan mental dengan intensi mencari
+bantuan tidak signifikan, bertentangan dengan hasil beberapa penelitian terdahulu yang juga meneliti
+variabel serupa. Pada penelitian sebelumnya, ditemukan bahwa literasi kesehatan mental memengaruhi
+intensi untuk mencari bantuan untuk gangguan mental (Coles & Coleman, 2010; Schomerus dkk., 2009).
+Penelitian lain juga menekankan bahwa mahasiswa dengan tingkat literasi kesehatan mental yang lebih
+tinggi akan lebih cenderung mencari bantuan profesional (Rickwood dkk., 2015; Thomas dkk., 2014).
+Begitu pula sebaliknya, sejumlah penelitian lainnya mendokumentasikan bahwa ketidakmampuan
+dalam mengenali gangguan mental berkaitan dengan keterlambatan dan berkurangnya kemungkinan
+mencari bantuan (Coles dkk., 2014; Coles & Coleman, 2010; Gulliver dkk., 2010).
+Selain itu, terdapat beberapa faktor lain yang mungkin dapat menyembunyikan pengaruh variabel yang
+sedang diteliti. Seperti yang telah ditulis pada bab sebelumnya, terdapat berbagai faktor lain yang
+memengaruhi intensi mencari bantuan seperti gender, persepsi yang baik terhadap kesehatan sosial
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 6
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+(good perceived social health), kesadaran perlunya kesehatan mental yang lebih baik, tingkat pendidikan
+yang lebih tinggi (Yu dkk., 2015) latar belakang sosial, usia lebih muda, dan sikap yang baik terhadap
+penyakit mental (Yeshanew dkk., 2020). Budaya diketahui juga memiliki hubungan dengan perilaku
+mencari bantuan. Siswa dengan ras atau etnis minoritas bahkan lebih kecil kemungkinannya untuk
+mencari bantuan psikologis daripada siswa kulit putih non-Hispanik, yang mungkin terjadi karena
+kurangnya layanan yang sensitif secara budaya (Masuda dkk., 2009). Yakunina dan Weigold (2011)
+menemukan bahwa sikap seseorang terhadap layanan kesehatan mental merupakan salah satu faktor
+terpenting dalam menentukan perilaku mencari bantuan.
+Hubungan antara literasi kesehatan mental dengan intensi mencari bantuan pada mahasiswa yang tidak
+ditemukan dalam penelitian ini dapat dijelaskan dengan beberapa faktor lain yang diketahui
+memengaruhi intensi mencari bantuan seseorang. Ketika seseorang memiliki literasi kesehatan mental
+yang tinggi, belum tentu mereka juga memiliki intensi mencari bantuan yang tinggi pula. hambatan
+dalam mencari bantuan kesehatan mental mengurangi kemungkinan individu untuk mencari
+pengobatan untuk gangguan kesehatan mental (Mojtabai dkk., 2011). Beberapa hambatan tersebut
+antara lain adalah sebagai kelompok, mahasiswa dapat menstigmatisasi orang lain yang mengalami
+gangguan jiwa (Zivin dkk., 2009). Sikap negatif tersebut kemudian dapat menyebabkan perilaku
+diskriminatif terhadap individu dengan masalah kesehatan mental serta dapat menyebabkan isolasi
+sosial (Link dkk., 2004).
+Sayangnya, individu yang telah terstigma mungkin akan menginternalisasi pandangan negatif tentang
+dirinya sendiri dan mengalami perasaan malu (Byrne, 2000). Pandangan negatif tentang penanganan
+atau pengobatan dan rasa malu terkait dengan masalah kesehatan mental dapat menghalangi dewasa
+awal untuk mencari pengobatan yang dibutuhkan (Eisenberg dkk., 2007). Selain itu, juga akan muncul
+stigma yang terinternalisasi tentang mencari bantuan profesional, bahwa masih banyak orang yang
+melihatnya sebagai upaya terakhir, adanya keyakinan bahwa seseorang dapat menangani masalahnya
+sendiri, juga pemikiran bahwa masalah mereka dapat terselesaikan sendirinya (Li dkk., 2013; Pedersen
+& Paves, 2014; Sareen dkk., 2007). Responden yang merupakan mahasiswa yang dikategorikan sebagai
+emerging adults yang percaya bahwa mereka harus dapat menangani masalah mereka sendiri dan perlu
+memiliki otonomi serta kemandirian sehingga keinginan ini akan menjadi penghalang mereka untuk
+mencari bantuan (Rickwood dkk., 2007). Keinginan seseorang untuk mengandalkan diri sendiri dalam
+menyelesaikan masalah berkontribusi pada penundaan yang lama antara timbulnya penyakit dengan
+mulainya pengobatan atau perawatan profesional (Sareen dkk., 2007).
+Sementara itu, tiga hambatan utama bagi mahasiswa dalam pencarian bantuan kesehatan mental di
+Indonesia menurut Rasyida (2019 dalam Shabrina dkk., 2021) antara lain adalah (1) kurangnya
+pengetahuan yang memadai tentang layanan konseling psikologi, (2) keberadaan keluarga, kerabat atau
+teman yang dianggap dapat membantu, dan (3) perasaan bahwa masalah yang mereka alami tidak
+dianggap serius. Mereka yang memilih untuk tidak mencari bantuan juga disebabkan oleh stigma di
+mana mereka tidak ingin merasa malu apabila mereka mengetahui bahwa mereka memiliki masalah
+atau kekhawatiran mengenai kondisi kesehatan mentalnya serta rasa takut akan dilabeli sebagai
+seseorang yang menderita gangguan mental. Seseorang pada tahap dewasa awal memiliki keinginan
+untuk memperlihatkan pada lingkungan sekitarnya bahwa mereka memiliki kontrol penuh atas
+kehidupannya. Mereka juga menjunjung tinggi harga dirinya yang mereka dapat dari pengakuan orang
+lain. Mereka merasa bahwa sebagai seorang dewasa, mereka menjadi seseorang yang mampu
+diandalkan. Oleh karena itu, mereka cenderung merasa malu apabila dianggap kurang mampu oleh
+orang sekitarnya, dan hal ini menyebabkan munculnya kecenderungan untuk menolak mendapatkan
+bantuan di luar dirinya sendiri (Mitchell dkk., 2017).
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 7
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Di sisi lain, juga ditemukan beberapa penelitian sebelumnya yang mendapatkan hasil selaras dengan
+hasil penelitian ini, antara lain adalah penelitian oleh Gorczynski dan kawan-kawan (2020) yang
+menemukan bahwa literasi kesehatan mental tidak berkaitan secara signifikan dengan perilaku mencari
+bantuan. Dalam penelitiannya, Gorczynski dan kawan-kawan (2020) menyarankan penelitian
+berikutnya untuk mengeksplorasi faktor-faktor spesifik yang memengaruhi intensi, seperti keyakinan
+perilaku (behavioral beliefs), keyakinan normatif (normative beliefs), dan keyakinan kontrol (control
+beliefs) yang berkaitan dengan perilaku mencari bantuan. Breslin dan kawan-kawan (dalam Gorczynski
+dkk., 2020) menunjukkan bahwa Theory of Reasoned Action dapat digunakan untuk lebih memahami
+faktor demografis yang memengaruhi intensi.
+Ada pula penelitian lain yang meneliti pengaruh literasi kesehatan mental terhadap perilaku mencari
+bantuan pada mahasiswa kedokteran yang tidak menemukan pengaruh antara kedua variabel oleh
+Lumaksono dan kawan-kawan (2020). Menurutnya, latar belakang pendidikan dapat menjadi faktor
+yang sangat penting dalam membangun literasi kesehatan mental yang baik dan mengubah prasangka
+buruk dalam mencari bantuan. Mahasiswa fakultas kedokteran dan psikologi, atau mahasiswa yang
+mengemban mata kuliah psikologi dan psikiatri, juga individu yang memiliki pengalaman dengan
+gangguan jiwa oleh minat dan pekerjaan serta pengalaman sendiri, memiliki pengaruh positif dalam
+mengenali gejala gangguan jiwa (Furnham dkk., 2011; Lauber dkk., 2005). Hal ini sejalan dengan
+penelitian ini di mana responden mayoritas adalah mahasiswa Fakultas Psikologi, Fakultas Kedokteran,
+dan Fakultas Kesehatan Masyarakat dengan sisanya adalah mahasiswa dari berbagai fakultas. Hal
+tersebut memungkinkan adanya penyebaran data yang tidak merata antara mahasiswa yang memiliki
+literasi kesehatan mental memadai dengan yang rendah, juga mahasiswa yang memiliki intensi mencari
+bantuan yang memadai dengan yang rendah. Dari hasil ini dapat ditarik kesimpulan bahwa penelitian
+lebih lanjut diperlukan untuk mengeksplorasi hubungan intensi mencari bantuan serta literasi
+kesehatan mental dengan beberapa faktor lain untuk lebih memahami bagaimana intensi untuk mencari
+bantuan dipengaruhi.
+SIMPULAN
+Penelitian ini dilakukan dengan tujuan untuk mengetahui hubungan antara tingkat literasi kesehatan
+mental dengan intensi mencari bantuan pada mahasiswa. Berdasarkan hasil penelitian dan uji hipotesis
+yang telah dilakukan, dapat ditarik kesimpulan bahwa penelitian ini gagal menemukan bukti untuk
+menolak null hypothesis (H0). Artinya dalam penelitian ini, tidak ditemukan bukti yang dapat
+mengonfirmasi keberadaan hubungan yang memadai antara variabel literasi kesehatan mental dengan
+variabel intensi mencari bantuan.
+Saran untuk penelitian selanjutnya dapat menggunakan sampel yang lebih luas dengan jumlah
+partisipan yang lebih banyak serta berasal dari berbagai wilayah dengan latar belakang pendidikan
+yang beragam agar dapat lebih mewakili mahasiswa dari berbagai latar pendidikan mengingat subjek
+dalam penelitian ini hanya mewakili beberapa daerah yang didominasi oleh daerah sekitar domisili
+penulis serta latar belakang pendidikan yang serupa yaitu Fakultas Psikologi. Penelitian selanjutnya
+juga diharapkan dapat lebih mempertimbangkan faktor-faktor lain yang mungkin berpengaruh lebih
+besar terhadap intensi mencari bantuan selain literasi kesehatan mental untuk digali dan diteliti lebih
+jauh. Selain itu, penelitian selanjutnya dapat meneliti populasi yang berbeda dari dewasa awal atau
+mahasiswa dengan kelompok usia lain atau konteks penelitian yang berbeda, juga dapat
+mempertimbangkan untuk melakukan penelitian longitudinal atau survei dengan skala yang lebih besar
+agar mendapatkan hasil yang lebih representatif.
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 8
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Saran untuk perguruan tinggi diharapkan dapat mempromosikan kesehatan mental melalui program
+pelatihan di mana mahasiswa bisa mendapatkan edukasi mengenai kesehatan mental dan
+meningkatkan pengetahuan serta kesadaran mahasiswa mengenai cara mencari bantuan profesional
+maupun sosial. Perguruan tinggi juga diharapkan dapat memberi fasilitas layanan kesehatan psikologis
+seperti konseling yang memadai agar mahasiswa dapat melakukan konsultasi dan mendapatkan
+bantuan yang lebih cepat untuk masalah kesehatan mentalnya.
+UCAPAN TERIMA KASIH
+Terima kasih kepada Ibu Atika Dian Ariana yang telah membimbing penelitian ini juga kepada seluruh
+partisipan penelitian, orang tua dan keluarga yang selalu memberikan dukungan dan kasih sayang,
+teman-teman yang selalu banyak membantu, serta seluruh pihak yang telah membantu sepanjang
+proses penelitian ini. Tanpa semua bantuannya, penulis tidak akan dapat menyelesaikan penelitian ini
+dengan lancar.
+DEKLARASI POTENSI TERJADINYA KONFLIK KEPENTINGAN
+Melia Rizke Azedarach dan Atika Dian Ariana tidak bekerja, menjadi konsultan, memiliki saham, atau
+menerima dana dari perusahaan atau organisasi manapun yang mungkin akan mengambil untung dari
+diterbitkannya naskah ini.
+PUSTAKA ACUAN
+Asyanti, S., & Karyani, U. (2018). Mental Health Literacy Among Youth in Surakarta. Proceedings of the
+3rd ASEAN Conference on Psychology, Counselling, and Humanities (ACPCH 2017). 3rd ASEAN
+Conference on Psychology, Counselling, and Humanities (ACPCH 2017), Malang, Indonesia.
+https://doi.org/10.2991/acpch-17.2018.24
+Beatie,B.E., Stewart,D.W.,&Walker, J.R.(2016).Amoderator analysis ofthe relationshipbetween mental
+health help-seeking attitudes and behaviours among young adults. Canadian Journal of
+Counselling and Psychotherapy, 50(3), 290–314.
+Biddle, L., Donovan, J., Sharp, D., & Gunnell, D. (2007). Explaining non-help-seeking amongst young
+adults with mental distress: a dynamic interpretive model of illness behaviour: Illness behaviour
+among young adults with mental distress. Sociology of Health & Illness, 29(7), 983–1002.
+https://doi.org/10.1111/j.1467-9566.2007.01030.x
+Breslin, G., Shannon, S., Ferguson, K., Devlin, S., Haughey, T., & Prentice, G. (2019). Predicting Athlete
+Mental Health Stigma Using the Theory of Reasoned Action Framework. Journal of Clinical Sport
+Psychology, 13(1), 103–115. https://doi.org/10.1123/jcsp.2017-0055
+Burns, J. K. (2014). The burden of untreated mental disorders in KwaZulu-Natal Province – mapping the
+treatment gap. South African Journal of Psychiatry, 20(1), 5.
+https://doi.org/10.4102/sajpsychiatry.v20i1.499
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 9
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Byrne, P. (2000). Stigma of mental illness and ways of diminishing it. Advances in Psychiatric Treatment,
+6(1), 65–72. https://doi.org/10.1192/apt.6.1.65
+Chang, C. (2008). Increasing Mental Health Literacy via Narrative Advertising. Journal of Health
+Communication, 13(1), 37–55. https://doi.org/10.1080/10810730701807027
+Coles, M. E., & Coleman, S. L. (2010). Barriers to treatment seeking for anxiety disorders: initial data on
+the role of mental health literacy. Depression and Anxiety, 27(1), 63–71.
+https://doi.org/10.1002/da.20620
+Coles, M. E., Schubert, J. R., Heimberg, R. G., & Weiss, B. D. (2014). Disseminating treatment for anxiety
+disorders: Step 1: Recognizing the problem as a precursor to seeking help. Journal of Anxiety
+Disorders, 28(8), 737–740. https://doi.org/10.1016/j.janxdis.2014.07.011
+Eisenberg, D., Golberstein, E., & Gollust, S. E. (2007). Help-Seeking and Access to Mental Health Care in a
+University Student Population. Medical Care, 45(7), 594–601.
+https://doi.org/10.1097/MLR.0b013e31803bb4c1
+Eisenberg, D., Hunt, J., Speer, N., & Zivin, K. (2011). Mental Health Service Utilization Among College
+Students in the United States. Journal of Nervous & Mental Disease, 199(5), 301–308.
+https://doi.org/10.1097/NMD.0b013e3182175123
+Furnham, A., Cook, R., Martin, N., & Batey, M. (2011). Mental health literacy among university students.
+Journal of Public Mental Health, 10(4), 198–210. https://doi.org/10.1108/17465721111188223
+Gorczynski, P., Gibson, K., Clarke, N., Mensah, T., & Summers, R. (2020). Examining mental health literacy,
+help-seeking behaviours, distress, and wellbeing in UK coaches. European Physical Education
+Review, 26(3), 713–726. https://doi.org/10.1177/1356336X19887772
+Gulliver, A., Griffiths, K. M., & Christensen, H. (2010). Perceived barriers and facilitators to mental health
+help-seeking in young people: a systematic review. BMC Psychiatry, 10(1), 113.
+https://doi.org/10.1186/1471-244X-10-113
+Hunt, J., & Eisenberg, D. (2010). Mental Health Problems and Help-Seeking Behavior Among College
+Students. Journal of Adolescent Health, 46(1), 3–10.
+https://doi.org/10.1016/j.jadohealth.2009.08.008
+Idham, A. F. (2019). Peran Stigma Diri Dan Literasi Kesehatan Mental Terhadap Intensi Mencari Bantuan
+Pada Mahasiswa Yang Mengalami Depresi Berat [Thesis]. UNIVERSITAS AIRLANGGA.
+Jorm, A. F., Barney, L. J., Christensen, H., Highet, N. J., Kelly, C. M., & Kitchener, B. A. (2006). Research on
+Mental Health Literacy: What we know and what we Still Need to know. Australian & New
+Zealand Journal of Psychiatry, 40(1), 3–5. https://doi.org/10.1080/j.1440-1614.2006.01734.x
+Jung, H., von Sternberg, K., & Davis, K. (2016). Expanding a measure of mental health literacy:
+Development and validation of a multicomponent mental health literacy measure. Psychiatry
+Research, 243, 278–286. https://doi.org/10.1016/j.psychres.2016.06.034
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 10
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Kementerian Kesehatan Republik Indonesia. (2013). Riset Kesehatan Dasar (RISKESDAS). Jakarta:
+Balitbang.
+Kementerian Kesehatan Republik Indonesia. (2018, November 02). Potret Sehat Indonesia dari
+Riskesdas 2018. Retrieved July 08, 2021, from Kementerian Kesehatan Republik Indonesia:
+https://www.kemkes.go.id/article/view/18110200003/potret-sehat-indonesia-daririskesdas-2018.html
+Lauber, C., Ajdacic-Gross, V., Fritschi, N., Stulz, N., & Rössler, W. (2005). Mental health literacy in an
+educational elite – an online survey among university students. BMC Public Health, 5(1), 44.
+https://doi.org/10.1186/1471-2458-5-44
+Leaf, P. J., Alegria, M., Cohen, P., Goodman, S. H., Horwitz, S. M., Hoven, C. W., Narrow, W. E., VadenKiernan, M., & Regier, D. A. (1996). Mental Health Service Use in the Community and Schools:
+Results from the Four-Community MECA Study. Journal of the American Academy of Child &
+Adolescent Psychiatry, 35(7), 889–897. https://doi.org/10.1097/00004583-199607000-00014
+Li, P., Wong, Y. J., & Toth, P. (2013). Asian International Students’ Willingness to Seek Counseling: A
+Mixed-Methods Study. International Journal for the Advancement of Counselling, 35(1), 1–15.
+https://doi.org/10.1007/s10447-012-9163-7
+Link, B. G., Yang, L. H., Phelan, J. C., & Collins, P. Y. (2004). Measuring Mental Illness Stigma. Schizophrenia
+Bulletin, 30(3), 511–541. https://doi.org/10.1093/oxfordjournals.schbul.a007098
+Lumaksono, N. A. P., Lestari, P., & Karimah, A. (2020). Does mental health literacy influence help-seeking
+behavior in medical students? Biomolecular and Health Science Journal, 3(1), 45.
+https://doi.org/10.20473/bhsj.v3i1.19093
+Masuda, A., L. Anderson, P., Twohig, M. P., Feinstein, A. B., Chou, Y.-Y., Wendell, J. W., & Stormo, A. R.
+(2009). Help-Seeking Experiences and Attitudes among African American, Asian American, and
+European American College Students. International Journal for the Advancement of Counselling,
+31(3), 168–180. https://doi.org/10.1007/s10447-009-9076-2
+Mitchell, C., McMillan, B., & Hagan, T. (2017). Mental health help-seeking behaviours in young adults.
+British Journal of General Practice, 67(654), 8–9. https://doi.org/10.3399/bjgp17X688453
+Mojtabai, R., Olfson, M., Sampson, N. A., Jin, R., Druss, B., Wang, P. S., Wells, K. B., Pincus, H. A., & Kessler,
+R. C. (2011). Barriers to mental health treatment: results from the National Comorbidity Survey
+Replication. Psychological Medicine, 41(8), 1751–1761.
+https://doi.org/10.1017/S0033291710002291
+Novianty, A., & Rochman Hadjam, M. N. (2017). Literasi Kesehatan Mental dan Sikap Komunitas sebagai
+Prediktor Pencarian Pertolongan Formal. Jurnal Psikologi, 44(1), 50.
+https://doi.org/10.22146/jpsi.22988
+Pedersen, E. R., & Paves, A. P. (2014). Comparing perceived public stigma and personal stigma of mental
+health treatment seeking in a young adult sample. Psychiatry Research, 219(1), 143–150.
+https://doi.org/10.1016/j.psychres.2014.05.017
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 11
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Reavley, N. J., McCann, T. V., & Jorm, A. F. (2012). Mental health literacy in higher education students:
+Mental health literacy in higher education students. Early Intervention in Psychiatry, 6(1), 45–
+52. https://doi.org/10.1111/j.1751-7893.2011.00314.x
+Rickwood, D. J., Deane, F. P., & Wilson, C. J. (2007). When and how do young people seek professional
+help for mental health problems? Medical Journal of Australia, 187(S7).
+https://doi.org/10.5694/j.1326-5377.2007.tb01334.x
+Rickwood, D. J., Mazzer, K. R., & Telford, N. R. (2015). Social influences on seeking help from mental
+health services, in-person and online, during adolescence and young adulthood. BMC Psychiatry,
+15(1), 40. https://doi.org/10.1186/s12888-015-0429-6
+Sareen, J., Jagdeo, A., Cox, B. J., Clara, I., ten Have, M., Belik, S.-L., de Graaf, R., & Stein, M. B. (2007).
+Perceived Barriers to Mental Health Service Utilization in the United States, Ontario, and the
+Netherlands. Psychiatric Services, 58(3), 357–364. https://doi.org/10.1176/ps.2007.58.3.357
+Schomerus, G., Matschinger, H., & Angermeyer, M. C. (2009). The stigma of psychiatric treatment and
+help-seeking intentions for depression. European Archives of Psychiatry and Clinical
+Neuroscience, 259(5), 298–306. https://doi.org/10.1007/s00406-009-0870-y
+Shabrina, A., Prathama, A. G., & Ninin, R. H. (2021). Persepsi Stigmatisasi Dan Intensi Pencarian Bantuan
+Kesehatan Mental Pada Mahasiswa S1. Jurnal Psikologi, 17(1), 80.
+https://doi.org/10.24014/jp.v17i1.11399
+Sugiyono, S. (2008). Metode Penelitian Kuantitatif, Kualitatif, dan R&D. Penerbit Alfabeta.
+Thomas, S. J., Caputi, P., & Wilson, C. J. (2014). Specific Attitudes Which Predict Psychology Students’
+Intentions to Seek Help for Psychological Distress: Attitudes Towards Personal Treatment.
+Journal of Clinical Psychology, 70(3), 273–282. https://doi.org/10.1002/jclp.22022
+Wilson, C. J., Deane, F. P., Ciarrochi, J., & Rickwood, D. (2005). Measuring help seeking intentions:
+Properties of the General Help Seeking Questionnaire. Properties of the General Help Seeking
+Questionnaire, 15–28.
+World Health Organization. (2012). Mental health atlas 2011. Geneva: WHO Library Cataloguing-inPublication Data.
+Yakunina, E. S., & Weigold, I. K. (2011). Asian international students’ intentions to seek counseling:
+Integrating cognitive and cultural predictors. Asian American Journal of Psychology, 2(3), 219–
+224. https://doi.org/10.1037/a0024821
+Yeshanew, B., Belete, A., & Necho, M. (2020). Help-seeking intention and associated factors towards
+mental illness among residents of Mertule Mariam town, East Gojam Zone, Amhara Region,
+Ethiopia: a mixed-method study. Annals of General Psychiatry, 19(1), 12.
+https://doi.org/10.1186/s12991-020-00261-y
+Literasi Kesehatan Mental dan Intensi Mencari Bantuan 12
+Buletin Riset Psikologi dan Kesehatan Mental (BRPKM)
+Tahun, Vol. X(no), pp
+Yu, Y., Liu, Z., Hu, M., Liu, H., Yang, J. P., Zhou, L., & Xiao, S. (2015). Mental Health Help-Seeking Intentions
+and Preferences of Rural Chinese Adults. PLOS ONE, 10(11), e0141889.
+https://doi.org/10.1371/journal.pone.0141889
+Zivin, K., Eisenberg, D., Gollust, S. E., & Golberstein, E. (2009). Persistence of mental health problems and
+needs in a college student population. Journal of Affective Disorders, 117(3), 180–185.
+https://doi.org/10.1016/j.jad.2009.01.001
