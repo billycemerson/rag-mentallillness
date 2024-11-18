@@ -8,9 +8,9 @@ def home_section():
         """
         <h1 style="text-align: center; margin-bottom: 20px;">Selamat Datang 🙌😊</h1>
         <h3 style="text-align: center; margin-bottom: 20px;">Flourish: "Grow stronger, every day."</h3>
+        Sistem ini membantu anda mendeteksi gangguan mental, mendapatkan rekoemndasi dan konsultasi AI
         """, unsafe_allow_html=True
     )
-    st.write("Sistem ini membantu Anda dalam memantau kesehatan mental Anda")
 
     # Menambahkan fun fact menarik tentang PTM
     st.markdown("""

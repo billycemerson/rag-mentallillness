@@ -4,7 +4,11 @@ from init import init_rag
 
 # Fungsi utama chatbot berbasis RAG
 def rag_chatbot():
-    st.title("Chatbot Kesehatan Mental Berbasis RAG")
+    st.markdown(
+        """
+        <h2 style="text-align: center; margin-bottom: 20px;">Chatbot Kesehatan Mental Berbasis RAG</h2>
+        """, unsafe_allow_html=True
+    )
     
     # Inisialisasi model LLM dan retriever
     llm, retriever = init_rag()
