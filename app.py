@@ -15,6 +15,8 @@ from langchain.schema import HumanMessage
 from dotenv import load_dotenv
 
 from home import home_section
+from init import init_rag
+from chat import rag_chatbot
 
 # Sidebar menu
 with st.sidebar:
@@ -30,32 +32,32 @@ with st.sidebar:
         default_index=0
     )
 
-@st.cache_resource
-# Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
-def init_rag():
-    # Load all PDFs from the specified folder
-    txt_folder_path = "./Data/"
-    all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
+# @st.cache_resource
+# # Fungsi untuk memuat dokumen berbasis penyakit dalam format .txt
+# def init_rag():
+#     # Load all PDFs from the specified folder
+#     txt_folder_path = "./Data/"
+#     all_txt_paths = glob.glob(os.path.join(txt_folder_path, "*.txt"))
     
-    # Load each PDF document and split text
-    documents = []
-    for txt_path in all_txt_paths:
-        loader = TextLoader(txt_path, encoding='utf-8')
-        txt_docs = loader.load()
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-        documents.extend(text_splitter.split_documents(txt_docs))
+#     # Load each PDF document and split text
+#     documents = []
+#     for txt_path in all_txt_paths:
+#         loader = TextLoader(txt_path, encoding='utf-8')
+#         txt_docs = loader.load()
+#         text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+#         documents.extend(text_splitter.split_documents(txt_docs))
     
-    # Set up embeddings and LLM with Google Gemini API
-    load_dotenv()
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
+#     # Set up embeddings and LLM with Google Gemini API
+#     load_dotenv()
+#     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+#     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API_KEY)
+#     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GEMINI_API_KEY)
     
-    # Create FAISS vector database from documents
-    vector_db = FAISS.from_documents(documents, embeddings)
-    retriever = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+#     # Create FAISS vector database from documents
+#     vector_db = FAISS.from_documents(documents, embeddings)
+#     retriever = vector_db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
 
-    return llm, retriever
+#     return llm, retriever
 
 # Fungsi untuk membuat prompt untuk prediksi (sama seperti sebelumnya)
 def prediction_prompt(query, context):
@@ -79,7 +81,7 @@ def prediction_prompt(query, context):
 # Fungsi utama untuk menampilkan percakapan chatassistant
 def show_prediction():
     # Inisialisasi LLM dan retrievers
-    llm, retrievers = init_rag()
+    llm, retriever = init_rag()
 
     # Header aplikasi
     st.header("Cek Kondisi Kesehatan Mental Anda")
@@ -187,7 +189,7 @@ def show_prediction():
             )
 
             # Dapatkan dokumen relevan menggunakan retriever
-            context = "\n".join([result.page_content for result in retrievers.get_relevant_documents(query)])
+            context = "\n".join([result.page_content for result in retriever.get_relevant_documents(query)])
 
             # Buat prompt untuk model LLM
             prompt = prediction_prompt(query=query, context=context)
@@ -200,10 +202,127 @@ def show_prediction():
             send_message("assistant", "Hasil prediksi kesehatan mental Anda: ")
             send_message("assistant", answer.content)
 
+            st.session_state['prediction'] = {
+                "Profil": {st.session_state.profil},
+                "Keluhan Utama": {st.session_state.keluhan},
+                "Jam tidur": {st.sesssion_state.jam_tidur},
+                "Tingkat kecemasan": {st.sesssion_state.tingkat_kecemasan},
+                "Tingkat stres": {st.sesssion_state.tingkat_stres},
+                "Dukungan sosial": {st.sesssion_state.dukungan_sosial},
+                "Riwayat trauma": {st.sesssion_state.riwayat_trauma},
+                "Pola hidup": {st.sesssion_state.pola_hidup}
+            }
+
             # Arahkan pengguna ke halaman rekomendasi
             if st.button("Dapatkan Rekomendasi"):
                 st.session_state.page = 'Recommendation'
                 st.rerun()
+
+# Fungsi untuk membuat prompt rekomendasi
+def recommendation_prompt(query, context, recommendation_type):
+    if recommendation_type == "Pengobatan":
+        prompt = f"""
+        Berdasarkan informasi berikut, saya akan memberikan rekomendasi terkait pengobatan.
+
+        **Keluhan Utama**: {query}
+        **Riwayat Medis dan Informasi Tambahan**: {context}
+
+        Berdasarkan data di atas, rekomendasi pengobatan yang sesuai adalah...
+        """
+    elif recommendation_type == "Pola Hidup":
+        prompt = f"""
+        Berdasarkan informasi berikut, saya akan memberikan rekomendasi terkait pola hidup.
+
+        **Keluhan Utama**: {query}
+        **Riwayat Medis dan Informasi Tambahan**: {context}
+
+        Berdasarkan data di atas, rekomendasi pola hidup yang sesuai adalah...
+        """
+    elif recommendation_type == "Penangan Lanjutan":
+        prompt = f"""
+        Berdasarkan informasi berikut, saya akan memberikan rekomendasi terkait penanganan lanjutan.
+
+        **Keluhan Utama**: {query}
+        **Riwayat Medis dan Informasi Tambahan**: {context}
+
+        Berdasarkan data di atas, rekomendasi penanganan lanjutan yang sesuai adalah...
+        """
+    return prompt
+
+#Fungsi rekomendasi
+def show_recommendation():
+    # Memuat LLM dan retrievers
+    llm, retriever = init_rag()
+
+    # Header halaman rekomendasi
+    st.header("Rekomendasi Kesehatan Mental Anda")
+
+    # Menyimpan percakapan dalam session state jika belum ada
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+
+    # Menampilkan percakapan sebelumnya
+    for message in st.session_state.messages:
+        st.chat_message(message["role"]).markdown(message["content"])
+
+    # Fungsi untuk mengirim pesan chat
+    def send_message(role, content):
+        st.session_state.messages.append({"role": role, "content": content})
+        st.chat_message(role).markdown(content)
+
+    # Tombol untuk membersihkan percakapan
+    if st.button("Mulai Ulang"):
+        st.session_state.clear()
+        st.rerun()
+
+    # Menampilkan percakapan awal jika belum ada
+    if len(st.session_state.messages) == 0:
+        send_message("assistant", "Hallo! Yuk lihat rekomendasinya berdasarkan profil Anda. Silakan pilih rekomendasi yang ingin Anda lihat:")
+        send_message("assistant", "1. Pengobatan\n2. Pola Hidup\n3. Penanganan Lanjutan")
+
+    # Memastikan data prediksi ada di session state
+    if "prediction" not in st.session_state:
+        st.error("Data prediksi tidak ditemukan. Pastikan prediksi sudah dilakukan.")
+        return
+
+    pred_data = st.session_state["prediction"]
+
+    # Menampilkan data prediksi dalam bentuk tabel
+    st.markdown("<div style='display: flex; justify-content: center;'>", unsafe_allow_html=True)
+    st.dataframe(pd.DataFrame([pred_data]), width=700)
+
+    # Menyediakan pilihan rekomendasi
+    rekomendasi = st.radio("Pilih jenis rekomendasi", ["Pengobatan", "Pola Hidup", "Penanganan Lanjutan"], key="rekomendasi_option")
+
+    if st.button("Tampilkan Rekomendasi"):
+        # Menyimpan pilihan pengguna
+        send_message("user", f"Saya memilih {rekomendasi}")
+
+        # Membuat query berdasarkan data prediksi
+        query = "\n".join([f"{key}: {value}" for key, value in pred_data.items()])
+
+        # Mendapatkan dokumen yang relevan
+        relevant_documents = retriever.get_relevant_documents(query)
+        context = "\n".join([doc.page_content for doc in relevant_documents])
+
+        # Membuat prompt berdasarkan rekomendasi
+        prompt = recommendation_prompt(query=query, context=context, recommendation_type=rekomendasi)
+        messages = [HumanMessage(content=prompt)]
+
+        # Mendapatkan hasil dari model LLM
+        try:
+            answer = llm(messages=messages)
+            send_message("assistant", f"Rekomendasi {rekomendasi} Anda:")
+            send_message("assistant", answer.content)
+        except Exception as e:
+            send_message("assistant", "Maaf, terjadi kesalahan saat memproses rekomendasi.")
+            st.error(f"Error: {e}")
+
+        # Menanyakan apakah ingin melihat rekomendasi lain
+        if st.button("Lihat rekomendasi lainnya"):
+            st.session_state.rekomendasi_option = None
+            st.session_state.clear()
+            st.rerun()
 
 # Multipage logic
 def main():
@@ -211,10 +330,10 @@ def main():
         home_section()
     elif selected == 'Mental Illness Prediction':
         show_prediction()
-    # elif selected == 'Recommendation':
-    #     show_recommendation()
-    # elif selected == 'Cahatassistant':
-    #     chatassistant()
+    elif selected == 'Recommendation':
+        show_recommendation()
+    elif selected == 'AI Chatbot':
+        rag_chatbot()
 
 if __name__ == "__main__":
     main()

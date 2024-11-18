@@ -1,27 +1,6 @@
-Student Research Journal
- Volume. 2 No. 3 Juni 2024
-e-ISSN:2964-3252; p-ISSN: 2964-3260, Hal 57-68
-DOI: https://doi.org/10.55606/srjyappi.v2i3.1219
-Received April 29,2024; Accepted Mei 31,2024; Published Juni 30,2024
-*Kevin Vitoasmara, Kevinvitoasmara31@gmail.com
-Gangguan Mental (Mental Disorders)
-Kevin Vitoasmara
-Universitas Duta Bangsa Surakarta
-Kevinvitoasmara31@gmail.com
-Fadillah Vio Hidayah
-Universitas Duta Bangsa Surakarta
-fadillavio22@gmail.com
-Nofita Ika Purnamasari
-Universitas Duta Bangsa Surakarta
-nofiika09@gmail.com
-Riska Yuna Aprillia
-Universitas Duta Bangsa Surakarta
-friskaaprilia257@gmail.com
-Liss Dyah Dewi A
-Universitas Duta Bangsa Surakarta
-Alamat: Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta, Jl. Bhayangkara No.55, Tipes,
-Kec. Serengan, Kota Surakarta, Jawa Tengah 57154
-Korespondensi penulis : kevinvitoasmara31@gmail.com
+Judul: Gangguan Mental (Mental Disorders)
+Penulis: Kevin Vitoasmara,Fadillah Vio Hidayah, Nofita Ika Purnamasari, Riska Yuna Aprillia, Liss Dyah Dewi A
+Jenis: Jural Atikel
 
 Abstract
 Mental disorders are health conditions that affect a person's thoughts, emotions and behavior, often having a

@@ -16,15 +16,5 @@ def home_section():
     st.markdown("""
     <div style="text-align: center; margin-top: 20px;">
         <h3 style="font-weight: bold;">Fun Facts 💭</h3>
-        <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-            <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-               Yuk cek kesehatan mentalmu disini.
-            </div>
-            <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-                Dapatkan rekoemndasi yang sesuai.
-            </div>
-            <div style="display: inline-block; width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-                Ada Chatbot AI untuk ngobrol santuy.
-        </div>
     </div>
     """, unsafe_allow_html=True)
